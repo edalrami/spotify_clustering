@@ -1,0 +1,51 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,Rosa Parks - Radio Version,57,2018-08-31T20:20:57Z,247266,OutKast,Aquemini,1998-09-29,0.119,0.782,0.766,0.000746,6,0.315,-8.065,0,0.224,103.931,4,0.205
+1,Doo Wop (That Thing),76,2018-08-04T03:26:58Z,320266,Ms. Lauryn Hill,The Miseducation of Lauryn Hill,1998-08-25,0.0393,0.535,0.505,0.0,2,0.0923,-8.926,0,0.245,99.935,4,0.495
+2,Find a Way,60,2018-08-31T20:20:57Z,203066,A Tribe Called Quest,The Love Movement,1998,0.0352,0.773,0.581,0.0,8,0.485,-8.466,1,0.432,94.093,4,0.711
+3,Loungin (Who Do Ya Luv),53,2018-10-01T22:55:29Z,226240,LL Cool J,All World,1996-01-01,0.472,0.82,0.57,0.00334,7,0.252,-10.24,1,0.181,99.929,4,0.525
+4,So What,56,2018-10-01T22:55:29Z,216000,Field Mob,Light Poles And Pine Trees,2006-01-01,0.0579,0.931,0.486,0.0,6,0.161,-10.558,1,0.139,120.026,4,0.896
+5,Ghetto Supastar (That is What You Are),70,2018-10-01T22:55:29Z,261133,Pras,Ghetto Supastar,1998-10-03,0.0335,0.818,0.653,5.46e-06,1,0.22,-8.396,1,0.204,99.931,4,0.533
+6,Still Not a Player (feat. Joe) - Radio Version,70,2018-07-17T04:07:26Z,236800,Big Pun,Capital Punishment (Explicit Version),1999-08-28,0.203,0.9,0.619,0.00156,4,0.0647,-6.518,0,0.312,94.121,4,0.864
+7,Let Me Blow Ya Mind,72,2018-08-04T03:26:58Z,229933,Eve,Scorpion,2001-01-01,0.243,0.909,0.539,0.0,8,0.0674,-4.278,0,0.116,90.038,4,0.869
+8,The Way You Move (feat. Sleepy Brown) - Club Mix,68,2018-08-31T20:20:57Z,234000,OutKast,Speakerboxxx/The Love Below,2003,0.126,0.871,0.597,0.000115,5,0.0638,-4.932,0,0.0464,125.999,4,0.635
+9,Dangerous,64,2018-08-31T20:20:57Z,246053,Kardinal Offishall,Not 4 Sale,2008-01-01,0.00429,0.951,0.79,0.0,8,0.0845,-5.79,1,0.081,117.007,4,0.78
+10,Back That Azz Up,68,2018-08-31T20:20:57Z,265600,Juvenile,400 Degreez,1998-01-01,0.017,0.877,0.71,0.0,7,0.1,-7.058,1,0.139,95.832,4,0.51
+11,Put On,69,2018-08-31T20:20:57Z,321293,Jeezy,The Recession,2008-01-01,0.0027,0.649,0.785,0.0,9,0.0859,-6.031,0,0.0369,137.618,4,0.294
+12,Respiration,56,2018-09-29T16:09:48Z,365333,Black Star,Mos Def & Talib Kweli Are Black Star,2002-01-01,0.234,0.505,0.745,0.0,6,0.187,-5.895,0,0.43,178.66,4,0.501
+13,No Matter What,56,2018-08-31T20:20:57Z,315680,T.I.,Paper Trail,2008-09-08,0.00332,0.498,0.824,0.0,11,0.0757,-5.091,1,0.247,145.639,4,0.332
+14,Nann Nigga,59,2018-08-31T20:20:57Z,167400,Trick Daddy,www.thug.com (Explicit Version),1999-03-30,0.000507,0.837,0.819,0.0,2,0.323,-5.245,1,0.211,149.918,4,0.643
+15,It Ain't My Fault,52,2018-08-31T20:20:57Z,199040,Silkk The Shocker,Charge It 2 Da Game,1998-01-01,0.0987,0.721,0.508,0.0,9,0.329,-10.564,1,0.363,176.018,4,0.557
+16,Go Hard,53,2018-08-31T20:20:57Z,272093,DJ Khaled,We Global,2008-09-16,0.00866,0.64,0.883,0.0,5,0.488,-4.011,0,0.0497,130.005,4,0.379
+17,Live Your Life (feat. Rihanna),76,2018-08-31T20:20:57Z,338853,T.I.,Paper Trail,2008-09-08,0.071,0.375,0.862,0.0,11,0.211,-3.363,0,0.255,159.841,4,0.478
+18,Da Art of Storytellin' (Pt. 1),56,2018-08-31T20:20:57Z,222653,OutKast,Aquemini,1998-09-29,0.108,0.752,0.856,0.0,2,0.745,-5.833,1,0.233,103.741,4,0.403
+19,The Light,59,2018-08-10T19:46:03Z,243586,Common,Go! Common Classics,2010-05-11,0.114,0.934,0.649,1.71e-06,7,0.0807,-6.465,1,0.266,97.026,4,0.685
+20,Brand New - Dirty,45,2018-10-01T22:55:29Z,220573,Rhymefest,Blue Collar,2006-07-10,0.00679,0.591,0.942,0.0,0,0.121,-4.239,1,0.366,92.578,4,0.578
+21,Definition,61,2018-08-04T03:26:58Z,206471,Black Star,Mos Def & Talib Kweli Are Black Star,2002-01-01,0.03,0.667,0.879,0.0,8,0.157,-4.197,1,0.359,119.746,5,0.71
+22,Déjà Vu (Uptown Baby),48,2018-08-31T20:20:57Z,283226,Lord Tariq,Make It Reign,1998-06-02,0.136,0.804,0.61,0.0,1,0.366,-8.433,1,0.428,96.904,4,0.597
+23,Murdergram - Streets Is Watching/Soundtrack Version,44,2018-08-31T20:20:57Z,294613,Murder Inc.,Streets Is Watching,1998-01-01,0.0726,0.747,0.711,0.0,10,0.67,-9.728,0,0.55,88.099,4,0.525
+24,X,56,2018-10-01T22:55:29Z,255640,Xzibit,Restless,2000,0.0795,0.936,0.678,0.0,4,0.0838,-3.012,0,0.21,96.911,4,0.822
+25,My Life,63,2018-08-31T20:20:57Z,320893,The Game,LAX,2008-01-01,0.0773,0.671,0.765,0.0,8,0.0877,-5.093,0,0.356,148.11,4,0.382
+26,Throw Some D's,58,2018-08-04T03:26:58Z,263920,Rich Boy,Rich Boy,2007-01-01,0.0408,0.698,0.863,0.0,11,0.0758,-5.292,1,0.489,160.894,4,0.414
+27,All N My Grill (feat. Big Boi),45,2018-08-31T20:20:57Z,272173,Missy Elliott,Da Real World,1998-03-31,0.176,0.476,0.657,0.0,1,0.0743,-8.32,1,0.244,79.104,1,0.825
+28,Stay Fly - Explicit Album Version,61,2018-07-09T17:19:09Z,236600,Three 6 Mafia,Most Known Unknown (Explicit),2005-09-27,0.108,0.789,0.881,0.0,11,0.355,-5.758,1,0.0331,133.301,4,0.647
+29,Ruff Ryders' Anthem,63,2018-07-09T17:19:09Z,214440,DMX,It's Dark And Hell Is Hot,1998-01-01,0.0636,0.879,0.573,0.0,10,0.256,-8.113,0,0.305,91.037,4,0.73
+30,Grindin',60,2018-08-04T03:26:58Z,264760,Clipse,Lord Willin',2002-03-29,0.122,0.592,0.77,1.22e-06,1,0.103,-3.402,1,0.318,191.692,4,0.361
+31,The Way I Am,69,2018-07-09T17:19:09Z,290426,Eminem,The Marshall Mathers LP,2000-05-23,0.13,0.81,0.871,0.0,4,0.313,-2.672,0,0.241,87.328,4,0.299
+32,Pre-Game,45,2018-08-31T20:20:57Z,111400,Sauce Money,Belly (Original Motion Picture Soundtrack),1998-11-03,0.122,0.737,0.834,0.0,4,0.292,-4.884,1,0.323,89.184,4,0.789
+33,Money In The Bank - Remix feat. Young Buck,54,2018-08-04T03:26:58Z,233706,Lil Scrappy,Bred 2 Die Born 2 Live (Explicit Version),2006,0.0599,0.88,0.693,0.0,1,0.248,-5.201,1,0.332,75.603,4,0.767
+34,Gimme Some More,65,2018-08-31T20:20:57Z,158466,Busta Rhymes,Extinction Level Event: The Final World Front,1998,0.00832,0.591,0.855,5.87e-05,11,0.771,-8.339,0,0.339,136.734,4,0.78
+35,Magic Stick,56,2018-08-04T03:26:58Z,334413,Lil' Kim,La Bella Mafia,2003-03-03,0.126,0.862,0.488,0.00018,2,0.301,-7.914,1,0.275,92.965,4,0.57
+36,Whoa!,56,2018-07-09T17:19:09Z,238840,Black Rob,Life Story,2000,0.0579,0.736,0.705,0.0,7,0.321,-6.231,1,0.24,86.404,4,0.557
+37,Roc The Mic,51,2018-07-09T17:19:09Z,261399,Beanie Sigel,Roc-A-Fella Records Presents The Roc Files Volume 1,2003-01-01,0.0979,0.728,0.656,0.0,11,0.116,-5.493,0,0.413,95.291,4,0.923
+38,Welcome to Atlanta,56,2018-07-09T17:19:09Z,200840,Jermaine Dupri,Instructions (Explicit Version),2001-10-30,0.0126,0.751,0.786,0.0,3,0.107,-7.441,0,0.383,95.989,4,0.679
+39,Wait (The Whisper Song),62,2018-07-09T17:19:09Z,179160,Ying Yang Twins,United States Of Atlanta,2005-06-28,0.00112,0.933,0.513,0.00248,7,0.107,-13.203,1,0.347,102.017,4,0.595
+40,Hate It Or Love It,73,2018-07-09T17:19:09Z,206400,The Game,The Documentary,2005,0.122,0.807,0.785,0.0,9,0.123,-4.947,1,0.204,99.975,4,0.424
+41,Where I Wanna Be,52,2018-08-31T20:20:57Z,260026,Shade Sheist,Informal Introduction,2002-01-01,0.0653,0.838,0.563,0.0128,8,0.12,-7.105,1,0.0698,96.886,4,0.362
+42,Still Tippin' (feat. Slim Thug and Paul Wall),60,2018-07-09T17:19:09Z,271053,Mike Jones,The American Dream,2007,0.0361,0.86,0.861,4.07e-05,6,0.113,-7.131,0,0.307,143.184,4,0.79
+43,"So Fresh, So Clean",67,2018-07-09T17:19:09Z,240026,OutKast,Stankonia,2000-10-31,0.0278,0.725,0.64,0.0,5,0.099,-7.905,0,0.332,166.029,3,0.915
+44,Cake,45,2018-10-01T22:55:29Z,166253,Lloyd Banks,Rotten Apple,2006-01-01,0.152,0.465,0.866,0.0,0,0.119,-5.453,1,0.495,169.237,4,0.712
+45,I Think They Like Me - Remix,54,2018-07-09T17:19:09Z,282093,Dem Franchize Boyz,On Top Of Our Game,2006-01-01,0.00447,0.781,0.625,0.0,7,0.185,-9.139,1,0.373,83.024,4,0.679
+46,Knuck If You Buck (feat. Lil' Scrappy),63,2018-07-09T17:19:09Z,205120,Crime Mob,Crime Mob (U.S. PA Version),2004-07-13,0.0582,0.865,0.844,0.0,8,0.373,-4.946,1,0.311,150.09,4,0.755
+47,"Wipe Me Down (feat. Foxx, Webbie & Lil Boosie) - Remix",59,2018-07-09T17:19:09Z,272346,Boosie Badazz,Survival Of The Fittest,2007-05-15,0.000426,0.836,0.906,0.0,1,0.227,-2.902,1,0.279,165.091,4,0.718
+48,Drop It Like It's Hot,70,2018-07-09T17:19:09Z,266066,Snoop Dogg,R&G (Rhythm & Gangsta): The Masterpiece,2004-01-01,0.187,0.881,0.622,0.0,1,0.103,-4.149,1,0.215,91.989,4,0.633
+49,Slow Jamz (feat. Kanye West & Jamie Foxx),52,2018-07-09T17:19:09Z,212146,Twista,Kamikaze,2004-01-27,0.373,0.561,0.764,0.0,2,0.157,-6.645,0,0.138,145.158,4,0.598

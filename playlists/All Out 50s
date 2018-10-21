@@ -1,0 +1,76 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,The Wanderer,66,2018-10-02T00:00:48Z,163626,Dion,The Best Of Dion & The Belmonts,2005-01-01,0.823,0.605,0.544,0.00579,2,0.338,-11.37,1,0.0682,115.779,4,0.797
+1,Johnny B. Goode - Single Version,15,2018-10-02T00:00:48Z,161560,Chuck Berry,Berry Is On Top (Reissue),1959-01-01,0.747,0.529,0.806,0.00011,10,0.305,-9.027,1,0.0806,167.43,4,0.971
+2,Good Golly Miss Molly,23,2018-10-02T00:00:48Z,127386,Little Richard,The Very Best Of Little Richard,2008-01-01,0.481,0.557,0.873,0.00021,7,0.395,-9.129,1,0.0444,166.189,4,0.967
+3,That'll Be The Day,60,2018-10-02T00:00:48Z,136800,Buddy Holly,The Very Best Of Buddy Holly,1999-01-01,0.608,0.651,0.528,0.0,9,0.342,-8.033,1,0.0294,126.707,4,0.873
+4,"Shake, Rattle And Roll",59,2018-10-02T00:00:48Z,150466,Bill Haley & His Comets,Bill Haley's Greatest Hits,1991-01-01,0.159,0.671,0.679,0.0,5,0.158,-11.237,1,0.142,166.726,4,0.82
+5,At The Hop,18,2018-10-02T00:00:48Z,149933,Danny & The Juniors,Rock 'n' Roll,2003-01-01,0.739,0.454,0.838,2.3e-05,8,0.29,-6.971,1,0.0544,192.361,4,0.903
+6,Ain't That A Shame,57,2018-10-02T00:00:48Z,152200,Fats Domino,Fats Domino Swings,1959-01-01,0.767,0.486,0.501,7.6e-05,4,0.0679,-8.57,1,0.0326,122.894,4,0.942
+7,Jailhouse Rock,12,2018-10-02T00:00:48Z,155333,Elvis Presley,Elvis 30 #1 Hits,2002-09-01,0.314,0.635,0.672,5.03e-06,10,0.0718,-6.788,0,0.0637,166.903,4,0.895
+8,Under The Boardwalk,57,2018-10-02T00:00:48Z,157640,The Drifters,The Drifters: Essentials,2002-07-01,0.666,0.726,0.356,0.0,7,0.152,-10.091,1,0.0399,123.885,4,0.75
+9,Runaround Sue - Remastered 1991,24,2018-10-02T00:00:48Z,160306,Dion,The Best Of Dion,2001-01-01,0.312,0.564,0.493,0.0,2,0.483,-12.349,1,0.0795,79.368,4,0.653
+10,Roll Over Beethoven - Single Version,19,2018-10-02T00:00:48Z,142906,Chuck Berry,Gold,2005-01-01,0.849,0.723,0.931,0.0,3,0.205,-5.528,1,0.184,92.684,4,0.806
+11,A Teenager In Love,62,2018-10-02T00:00:48Z,153866,Dion & The Belmonts,The Best Of Dion & The Belmonts,2005-01-01,0.635,0.564,0.283,0.0,1,0.188,-13.624,1,0.0407,78.715,4,0.678
+12,"Come On, Let's Go",60,2018-10-02T00:00:48Z,124586,Ritchie Valens,Ritchie Valens,1959,0.788,0.616,0.724,3.16e-06,9,0.128,-8.101,1,0.042,81.402,3,0.809
+13,(We're Gonna) Rock Around The Clock - Single Version,55,2018-10-02T00:00:48Z,134106,Bill Haley & His Comets,Bill Haley's Greatest Hits,1991-01-01,0.317,0.681,0.69,0.00018,7,0.24,-11.519,1,0.18,178.71,4,0.622
+14,Hound Dog,12,2018-10-02T00:00:48Z,133293,Elvis Presley,Elvis 30 #1 Hits,2002-09-01,0.62,0.343,0.884,0.000673,5,0.564,-4.123,0,0.129,177.751,4,0.94
+15,I've Got A Woman,69,2018-10-02T00:00:48Z,171466,Ray Charles,Ray Charles (aka Hallelujah I Love Her So),1957-01-01,0.833,0.556,0.61,2.22e-06,9,0.258,-4.729,1,0.213,199.373,4,0.665
+16,Long Tall Sally,24,2018-10-02T00:00:48Z,128280,Little Richard,The Very Best Of Little Richard,2008-01-01,0.608,0.415,0.635,0.0,5,0.25,-8.982,1,0.0772,183.665,4,0.842
+17,Rockin' Robin,50,2018-10-02T00:00:48Z,155866,Bobby Day,The Original Hit Recording - Rockin' Robin,2012-08-13,0.439,0.43,0.738,0.0102,7,0.064,-10.671,1,0.0757,170.389,4,0.954
+18,I Walk The Line - Single Version,52,2018-10-02T00:00:48Z,163026,Johnny Cash,Classic Country Gold,2005-01-01,0.777,0.863,0.382,0.00103,10,0.109,-14.34,1,0.0464,105.766,4,0.744
+19,Dream Lover,63,2018-10-02T00:00:48Z,150706,Bobby Darin,The Ultimate Bobby Darin,2004-11-23,0.715,0.526,0.774,0.0,5,0.437,-1.692,1,0.0459,131.715,4,0.715
+20,Runaway - 2004 Remastered Version,52,2018-10-02T00:00:48Z,139320,Del Shannon,Pure Rock 'N' Roll,2008-06-16,0.172,0.535,0.579,0.0,8,0.0936,-6.156,1,0.0529,75.75,4,0.743
+21,Diana,52,2018-10-02T00:00:48Z,136946,Paul Anka,Pure... Rock 'n Roll,2013-08-02,0.297,0.562,0.414,0.0,7,0.848,-9.984,1,0.0293,143.27,4,0.961
+22,Great Balls Of Fire - 1963 Stereo Version,57,2018-10-02T00:00:48Z,110653,Jerry Lee Lewis,Rock N' Roll Legends,2008-01-01,0.478,0.463,0.747,0.0,10,0.232,-7.559,1,0.0704,159.661,4,0.861
+23,Take Good Care Of My Baby - 1990 Remastered,61,2018-10-02T00:00:48Z,150866,Bobby Vee,The Legendary Masters Series,2011-01-01,0.698,0.491,0.431,0.0,1,0.124,-12.257,1,0.0609,82.443,4,0.661
+24,The Great Pretender - Single Version,51,2018-10-02T00:00:48Z,159288,The Platters,Rock N' Roll Legends,2008-01-01,0.872,0.5,0.377,0.0,7,0.332,-5.895,1,0.0319,114.055,3,0.607
+25,Shout,51,2018-10-02T00:00:48Z,272560,The Isley Brothers,Pure... '50s,2012-03-23,0.725,0.458,0.89,0.0,10,0.833,-5.736,1,0.0841,137.382,4,0.609
+26,Tequila (Original),58,2018-10-02T00:00:48Z,130320,The Champs,Tequila,2000,0.0519,0.532,0.961,0.905,10,0.0738,-4.056,1,0.0522,90.647,4,0.753
+27,Stupid Cupid,49,2018-10-02T00:00:48Z,136426,Connie Francis,20th Century Masters: The Millennium Collection: Best of Connie Francis,1999-01-01,0.662,0.603,0.755,1.91e-05,3,0.0764,-6.396,1,0.038,136.373,4,0.967
+28,Oh! Carol,51,2018-10-02T00:00:48Z,135773,Neil Sedaka,Collections,2003,0.766,0.584,0.743,0.0,8,0.319,-7.039,0,0.0463,132.747,4,0.815
+29,Why Do Fools Fall in Love,56,2018-10-02T00:00:48Z,138973,Frankie Lymon & The Teenagers,25 Greatest Hits,1999-02-15,0.617,0.439,0.458,6.02e-05,1,0.121,-9.906,1,0.0675,174.147,4,0.866
+30,La Bamba - Single Version,13,2018-10-02T00:00:48Z,126960,Ritchie Valens,La Bamba & Other Hits,2004-04-06,0.787,0.516,0.809,0.000331,0,0.303,-6.419,1,0.0545,75.099,4,0.939
+31,Come Go With Me,20,2018-10-02T00:00:48Z,162293,The Del-Vikings,Come Go With Me: The Best Of The Del-Vikings,1997-01-01,0.7,0.579,0.557,0.0,5,0.121,-9.332,0,0.0406,129.369,4,0.611
+32,Since I Don't Have You,12,2018-10-02T00:00:48Z,156893,The Skyliners,Since I Don't Have You - Pennies From Heaven,2008-09-04,0.717,0.212,0.334,0.0056,6,0.0936,-12.196,1,0.0308,141.071,4,0.638
+33,Whole Lot of Shakin' Going On,61,2018-10-02T00:00:48Z,172400,Jerry Lee Lewis,The Essential Jerry Lee Lewis [The Sun Sessions],2013-05-10,0.832,0.377,0.626,6.46e-05,0,0.188,-9.662,1,0.033,161.468,4,0.678
+34,Folsom Prison Blues,53,2018-10-02T00:00:48Z,172026,Johnny Cash,50's Jukebox Classics,2014-05-15,0.716,0.728,0.679,3.65e-05,5,0.0901,-5.78,1,0.0262,101.601,4,0.869
+35,C'mon Everybody,11,2018-10-02T00:00:48Z,117666,Eddie Cochran,The Very Best Of,1990,0.246,0.622,0.645,0.000116,4,0.0894,-11.847,1,0.0567,175.84,4,0.863
+36,Love Potion No. 9,57,2018-10-02T00:00:48Z,112200,The Clovers,United Artists Black Singles 1959-1967: ''Motor City To Central Park'',2009-01-23,0.811,0.71,0.712,0.0,7,0.109,-6.299,1,0.0515,128.758,4,0.911
+37,Reet Petite,57,2018-10-02T00:00:48Z,162093,Jackie Wilson,The Ultimate Jackie Wilson,2006,0.389,0.678,0.683,0.0,5,0.135,-5.418,1,0.167,85.969,4,0.842
+38,You Send Me,11,2018-10-02T00:00:48Z,173026,Sam Cooke,100 Greatest 50s & 60s Hits,2011-04-08,0.915,0.574,0.25,0.0,4,0.146,-10.307,0,0.0276,96.74,4,0.443
+39,Summertime Blues,17,2018-10-02T00:00:48Z,120000,Eddie Cochran,The Very Best Of,1990,0.387,0.721,0.82,0.000326,11,0.198,-10.32,0,0.0448,155.968,4,0.966
+40,Little Darlin' - Single Version,13,2018-10-02T00:00:48Z,129213,The Diamonds,Rock 'n' Roll,2003-01-01,0.62,0.561,0.677,0.585,6,0.297,-11.36,1,0.0482,153.19,4,0.698
+41,Sixteen Tons,56,2018-10-02T00:00:48Z,158306,Tennessee Ernie Ford,Vintage Collections,1997-01-01,0.796,0.693,0.324,0.0,11,0.246,-15.085,1,0.205,144.14,4,0.382
+42,Tutti Frutti,14,2018-10-02T00:00:48Z,146640,Little Richard,Here's Little Richard [Remastered & Expanded],1957-03,0.782,0.532,0.591,0.0,0,0.0647,-3.81,0,0.0591,184.4,4,0.962
+43,Wake Up Little Susie - 2006 Remastered Version,49,2018-10-02T00:00:48Z,123000,The Everly Brothers,Definitive Pop: The Everly Brothers,2007-02-05,0.238,0.741,0.666,0.0,2,0.312,-6.878,1,0.0326,93.686,4,0.941
+44,Blueberry Hill - Remastered 2002,58,2018-10-02T00:00:48Z,143440,Fats Domino,Greatest Hits: Walking To New Orleans,2007-01-01,0.849,0.479,0.506,2.69e-05,11,0.25,-8.175,1,0.0272,136.662,3,0.83
+45,Book Of Love - Single Version,16,2018-10-02T00:00:48Z,138986,The Monotones,Chess Chartbusters Vol. 2,2008-01-01,0.571,0.484,0.681,2.98e-06,10,0.454,-8.539,1,0.458,198.87,4,0.521
+46,I've Got You Under My Skin - Remastered 1998,69,2018-10-02T00:00:48Z,223760,Frank Sinatra,Songs For Swingin' Lovers! (Remastered),1956-03,0.452,0.585,0.247,8.85e-06,1,0.107,-12.612,1,0.04,127.15,4,0.591
+47,That's Amore - 1996 Digital Remaster,61,2018-10-02T00:00:48Z,188466,Dean Martin,The Capitol Years,1996-05-30,0.663,0.505,0.155,0.0,10,0.101,-12.959,1,0.0336,79.221,4,0.463
+48,Barbara-Ann,47,2018-10-02T00:00:48Z,135773,The Regents,Solid Satisfaction,2015-03-04,0.743,0.271,0.56,0.0,5,0.203,-8.915,1,0.0349,168.423,4,0.78
+49,Lonely Teardrops,55,2018-10-02T00:00:48Z,164346,Jackie Wilson,The Ultimate Jackie Wilson,2006,0.596,0.591,0.582,0.0,7,0.784,-4.554,1,0.129,137.221,4,0.906
+50,My Baby Just Cares For Me,18,2018-10-02T00:00:48Z,217626,Nina Simone,The Essential Nina Simone,2000,0.858,0.753,0.407,7.07e-06,6,0.0968,-10.386,0,0.0711,118.314,4,0.522
+51,Mess Around,61,2018-10-02T00:00:48Z,160226,Ray Charles,Ray Charles (aka Hallelujah I Love Her So),1957-01-01,0.437,0.565,0.962,0.0,8,0.056,-2.981,1,0.064,148.808,4,0.906
+52,"Goodnite, It's Time to Go (Goodnight Sweetheart, Goodnight)",50,2018-10-02T00:00:48Z,160373,The Spaniels,The Very Best of the Spaniels,2007-10-30,0.655,0.375,0.318,0.000198,9,0.422,-9.923,0,0.0423,76.638,4,0.358
+53,See See Rider,51,2018-10-02T00:00:48Z,149093,LaVern Baker,Soul On Fire: The Best Of LaVern Baker,2005-03-22,0.643,0.674,0.371,0.0,1,0.0419,-16.429,1,0.0626,93.834,4,0.941
+54,Shakin' All Over - 2004 Remastered Version,44,2018-10-02T00:00:48Z,139733,Johnny Kidd & The Pirates,Pure Rock 'N' Roll,2008-06-16,0.171,0.772,0.672,1.22e-05,9,0.359,-6.653,1,0.0373,125.227,4,0.694
+55,Hello Mary Lou (Goodbye Heart),54,2018-10-02T00:00:48Z,139280,Ricky Nelson,Greatest Love Songs,2008,0.158,0.559,0.78,6.89e-06,9,0.0793,-6.597,1,0.0328,98.661,4,0.964
+56,Get a Job,51,2018-10-02T00:00:48Z,169706,The Silhouettes,Get a Job,1996,0.652,0.625,0.425,0.000525,7,0.124,-9.962,1,0.0359,80.024,4,0.829
+57,Bye Bye Love,51,2018-10-02T00:00:48Z,142906,The Everly Brothers,Definitive Pop: The Everly Brothers,2007-02-05,0.724,0.547,0.523,0.0,9,0.103,-9.176,1,0.0572,169.598,4,0.89
+58,"See You Later, Alligator",52,2018-10-02T00:00:48Z,165360,Bill Haley & His Comets,Bill Haley's Greatest Hits,1991-01-01,0.313,0.664,0.702,2.06e-06,10,0.369,-11.841,0,0.0671,156.987,4,0.737
+59,You're Sixteen-Your're Beautiful (And You're Mine) - Single Version,10,2018-10-02T00:00:48Z,118333,Johnny Burnette,American Graffiti,1973-01-01,0.304,0.419,0.449,3.48e-06,2,0.0725,-9.946,1,0.0533,76.322,4,0.756
+60,Fannie Mae,48,2018-10-02T00:00:48Z,172160,Buster Brown,Best of Buster Brown,2010-07-27,0.92,0.61,0.533,0.531,10,0.13,-7.324,0,0.0368,124.29,4,0.842
+61,Be-Bop-A-Lula,47,2018-10-02T00:00:48Z,157206,Gene Vincent & His Blue Caps,The Rock N' Roll Collection,1996-01-01,0.421,0.607,0.561,0.0,9,0.298,-10.099,1,0.0425,127.638,3,0.841
+62,King Creole,10,2018-10-02T00:00:48Z,128573,Elvis Presley,Elvis Rock,2006-02-21,0.869,0.504,0.525,0.0,10,0.0894,-7.636,1,0.0455,83.734,4,0.927
+63,Peppermint Twist Part I,43,2018-10-02T00:00:48Z,121760,Joey Dee & The Starliters,Hey Let's Twist! The Best Of Joey Dee & The Starliters,1990,0.358,0.417,0.732,0.0,0,0.701,-10.841,1,0.171,199.58,4,0.662
+64,Smoke Gets In Your Eyes - Single Version,45,2018-10-02T00:00:48Z,158546,The Platters,Rock N' Roll Legends,2008-01-01,0.936,0.357,0.269,8.98e-05,3,0.428,-9.981,1,0.0272,57.304,4,0.221
+65,Who Put The Bomp (In The Bomp Bomp Bomp) - 2004 Remastered Version,45,2018-10-02T00:00:48Z,179466,Frankie Lymon & The Teenagers,Pure Rock 'N' Roll,2008-06-16,0.603,0.582,0.517,0.0,5,0.302,-9.325,1,0.0367,83.682,4,0.833
+66,Peggy Sue - Single Version,52,2018-10-02T00:00:48Z,152000,Buddy Holly,Buddy Holly,1958-01-01,0.907,0.657,0.297,6.7e-06,9,0.129,-15.141,1,0.0324,148.357,4,0.647
+67,Jambalaya (On The Bayou),11,2018-10-02T00:00:48Z,144066,Fats Domino,The Best Of Fats Domino,1988-03-03,0.819,0.605,0.845,0.000267,6,0.253,-8.672,0,0.0596,75.322,4,0.965
+68,Ya Ya,52,2018-10-02T00:00:48Z,146053,Lee Dorsey,The Essential Lee Dorsey,2014-08-15,0.607,0.758,0.557,0.000218,5,0.193,-10.106,1,0.0453,140.795,4,0.887
+69,To The Aisle,49,2018-10-02T00:00:48Z,165866,The Five Satins,In The Still Of The Nite,2008-10-21,0.91,0.323,0.273,0.0,5,0.1,-10.152,1,0.0355,194.882,3,0.547
+70,Party Doll - Mono,44,2018-10-02T00:00:48Z,133093,Buddy Knox,The Roulette Story,2009-01-30,0.757,0.683,0.707,6.33e-06,11,0.144,-8.415,0,0.092,89.61,4,0.678
+71,Buona Sera - Remastered 2002,48,2018-10-02T00:00:48Z,180093,Louis Prima,The Wildest!,2002-01-01,0.689,0.544,0.459,0.0,3,0.0346,-8.069,1,0.0524,99.175,4,0.85
+72,Mary Lou,43,2018-10-02T00:00:48Z,130360,Ronnie Hawkins,Original Album Series,2016-07-12,0.905,0.574,0.588,0.0,2,0.114,-8.101,0,0.0543,131.368,4,0.942
+73,He'll Have to Go,58,2018-10-02T00:00:48Z,138640,Jim Reeves,The Essential Jim Reeves,1997-02-14,0.909,0.554,0.186,0.00144,1,0.11,-15.846,1,0.0379,81.181,3,0.2
+74,Tennessee Waltz,10,2018-10-02T00:00:48Z,183573,Patti Page,Rockin' Gals Of The 1950's,2011-11-08,0.957,0.468,0.171,3.74e-05,5,0.142,-10.905,1,0.0303,86.525,3,0.357

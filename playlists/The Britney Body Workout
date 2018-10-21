@@ -1,0 +1,23 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,Toxic,60,2015-04-07T13:53:35Z,198813,Britney Spears,Greatest Hits: My Prerogative,2004,0.0279,0.774,0.847,0.0183,5,0.241,-3.925,0,0.121,143.011,4,0.923
+1,Genie in a Bottle,16,2015-04-07T13:53:35Z,217133,Christina Aguilera,Christina Aguilera,1999-07-15,0.185,0.633,0.792,0.000185,1,0.152,-6.968,1,0.149,175.795,4,0.918
+2,It's Gonna Be Me,67,2015-04-07T13:53:35Z,192426,*NSYNC,No Strings Attached,2000-03-21,0.0407,0.636,0.873,1.27e-06,0,0.0372,-4.672,0,0.071,165.071,4,0.908
+3,...Baby One More Time,78,2015-04-07T13:53:35Z,211066,Britney Spears,...Baby One More Time (Digital Deluxe Version),1999,0.202,0.759,0.699,0.000131,0,0.443,-5.745,0,0.0307,92.96,4,0.907
+4,Crazy In Love,79,2015-04-07T13:53:35Z,236133,Beyoncé,Dangerously In Love,2003-06-24,0.00249,0.646,0.77,0.0,2,0.0715,-6.596,0,0.226,99.165,4,0.681
+5,"Jumpin', Jumpin'",72,2015-04-07T13:53:35Z,230200,Destiny's Child,The Writing's On The Wall,1999-07-26,0.00543,0.771,0.685,0.00157,1,0.0537,-4.639,1,0.0567,88.997,4,0.683
+6,Oops!...I Did It Again,77,2015-04-07T13:53:35Z,211160,Britney Spears,Oops!... I Did It Again,2000-05-15,0.3,0.751,0.834,1.77e-05,1,0.355,-5.444,0,0.0437,95.053,4,0.894
+7,Wannabe,81,2015-04-07T13:53:35Z,173026,Spice Girls,Spice,1996-01-01,0.101,0.768,0.864,0.0,11,0.162,-6.145,1,0.0324,110.008,4,0.891
+8,Larger Than Life,67,2015-04-07T13:53:35Z,232826,Backstreet Boys,Millennium,1999-05-18,0.11,0.661,0.973,1.74e-05,0,0.617,-2.994,0,0.037,108.037,4,0.75
+9,Say My Name,72,2015-04-07T13:53:35Z,271333,Destiny's Child,The Writing's On The Wall,1999-09-07,0.274,0.522,0.676,0.0,5,0.134,-3.571,0,0.16,67.427,4,0.746
+10,I'm a Slave 4 U,0,2015-04-07T13:53:35Z,203760,Britney Spears,Britney,2002-10-15,0.426,0.843,0.843,0.000108,8,0.111,-3.573,1,0.117,110.03,4,0.963
+11,Bye Bye Bye,73,2015-04-07T13:53:35Z,200400,*NSYNC,No Strings Attached,2000-03-21,0.031,0.61,0.926,0.0012,8,0.0821,-4.843,0,0.0479,172.638,4,0.861
+12,Dirrty (feat. Redman),72,2015-04-07T13:53:35Z,298853,Christina Aguilera,Stripped,2002-07-19,0.107,0.64,0.889,0.0,2,0.339,-3.073,1,0.322,99.931,4,0.436
+13,Since U Been Gone,75,2015-04-07T13:53:35Z,188960,Kelly Clarkson,Breakaway,2004-01-17,0.00165,0.662,0.741,0.0303,0,0.114,-5.406,1,0.0334,131.0,4,0.404
+14,No Scrubs,81,2015-04-07T13:53:35Z,214400,TLC,Fanmail,1999-02-23,0.0251,0.743,0.675,0.000717,8,0.0685,-4.267,0,0.0953,92.909,4,0.59
+15,Survivor,75,2015-04-07T13:53:35Z,254026,Destiny's Child,Survivor,2001-05-01,0.0559,0.514,0.911,0.0,1,0.775,-2.027,0,0.41,161.109,4,0.619
+16,Get The Party Started,67,2015-04-07T13:53:35Z,191666,P!nk,M!ssundaztood,2001-01-01,0.00127,0.806,0.902,0.0,11,0.212,-3.387,0,0.0475,128.943,4,0.961
+17,What a Girl Wants,8,2015-04-07T13:53:35Z,215866,Christina Aguilera,Christina Aguilera,1999-07-15,0.0671,0.755,0.827,0.0,0,0.329,-6.803,1,0.114,142.122,4,0.797
+18,All The Things She Said - Original Album Version (Edited),16,2015-04-07T13:53:35Z,212266,t.A.T.u.,t.A.T.u. - The Best,2006-01-01,0.032,0.605,0.828,0.00253,5,0.121,-6.144,0,0.0389,90.005,4,0.365
+19,Stronger,66,2015-04-07T13:53:35Z,203000,Britney Spears,Oops!... I Did It Again,2000-05-15,0.128,0.707,0.923,0.000437,11,0.273,-3.957,1,0.0521,108.049,4,0.842
+20,Everybody (Backstreet's Back) - Extended Version,61,2015-04-07T13:53:35Z,287293,Backstreet Boys,Backstreet Boys,1996,0.00602,0.792,0.811,0.000155,10,0.224,-5.198,0,0.0367,108.054,4,0.509
+21,"Bills, Bills, Bills",65,2015-04-07T13:53:35Z,256026,Destiny's Child,The Writing's On The Wall,1999-07-26,0.139,0.845,0.576,0.0,11,0.0764,-5.15,0,0.153,127.641,4,0.461

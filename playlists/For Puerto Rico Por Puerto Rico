@@ -1,0 +1,26 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,A Forgotten Spot (Olvidado),57,2018-09-20T13:43:22Z,346022,Lin-Manuel Miranda,A Forgotten Spot (Olvidado),2018-09-20,0.13,0.63,0.782,0.0,10,0.109,-5.517,1,0.174,98.152,4,0.29
+1,Almost Like Praying (feat. Artists for Puerto Rico),53,2018-09-20T13:43:22Z,200457,Lin-Manuel Miranda,Almost Like Praying (feat. Artists for Puerto Rico),2017-10-06,0.0198,0.471,0.791,0.0,5,0.232,-3.373,0,0.238,188.36,4,0.507
+2,Gina Rodriguez - Latinos Trending Intro,0,2018-09-20T13:43:22Z,12000,Various Artists,Gina Rodriguez - Latinos Trending Intro,2016-08-17,0.7,0.0,0.493,0.0,7,0.457,-6.102,1,0.0,0.0,0,0.0
+3,Aguanile,63,2018-09-20T13:43:22Z,315266,Marc Anthony,"Marc Anthony ""El Cantante"" OST",2007-06-20,0.0828,0.632,0.785,1.18e-05,8,0.0604,-3.797,1,0.0512,122.342,4,0.679
+4,Call Off Your Ghost,37,2018-09-20T13:43:22Z,218080,Dessa,Parts of Speech,2013-06-25,0.0662,0.777,0.777,0.00449,9,0.0926,-5.28,1,0.0514,119.98,4,0.109
+5,Borinquen Bella,38,2018-09-20T13:43:22Z,233552,Tommy Torres,De Puerto Rico para el Mundo,2016-11-18,0.426,0.539,0.834,0.0,10,0.0837,-3.907,1,0.053,149.829,4,0.447
+6,Crying in the Club,78,2018-09-20T13:43:22Z,216391,Camila Cabello,Crying in the Club,2017-05-18,0.334,0.334,0.617,0.0,6,0.163,-5.834,0,0.383,85.227,4,0.603
+7,Una Noche Más,48,2018-09-20T13:43:22Z,245933,Jennifer Lopez,On The 6,1999-06-01,0.00571,0.715,0.937,0.0415,10,0.0958,-6.613,0,0.0388,125.025,4,0.897
+8,Déjate Querer,24,2018-09-20T13:43:22Z,281960,Gilberto Santa Rosa,Expresion,1999-12-21,0.322,0.758,0.847,0.0,11,0.128,-7.491,1,0.0346,114.472,4,0.909
+9,Almost Like Praying (feat. Artists for Puerto Rico) - Salsa Remix,36,2018-09-20T13:43:22Z,194983,Lin-Manuel Miranda,Almost Like Praying (feat. Artists for Puerto Rico) [Salsa Remix],2018-02-09,0.24,0.499,0.877,0.0,5,0.189,-3.471,0,0.0594,93.586,4,0.808
+10,Tradición,29,2018-09-20T13:43:22Z,320026,Gloria Estefan,Mi Tierra,1993-06-03,0.0839,0.571,0.698,0.00319,0,0.127,-6.786,1,0.109,132.215,4,0.909
+11,It's Time,21,2018-09-20T13:43:22Z,229471,Joell Ortiz,That's Hip Hop,2016-03-15,0.102,0.554,0.801,0.0,1,0.645,-6.452,1,0.278,77.969,4,0.678
+12,What the Heck I Gotta Do,53,2018-09-20T13:43:22Z,217013,Lin-Manuel Miranda,21 Chump Street - The Musical,2014-06-19,0.585,0.542,0.537,0.0,0,0.107,-7.787,1,0.364,180.392,4,0.679
+13,Para Ayudarte a Reir,45,2018-09-20T13:43:22Z,201533,Pedro Capó,Aquila,2014-08-12,0.119,0.494,0.811,0.0,7,0.148,-4.128,1,0.041,140.106,4,0.338
+14,Las Balas Lloran,34,2018-09-20T13:43:22Z,176000,Pj Sin Suela,Las Balas Lloran,2016-12-23,0.473,0.654,0.558,0.0,0,0.112,-10.171,1,0.149,92.757,4,0.0659
+15,Somewhere,12,2018-09-20T13:43:22Z,171093,Rita Moreno,Una Vez Más,2015-09-04,0.325,0.556,0.537,0.000113,2,0.232,-6.866,1,0.0282,116.964,4,0.301
+16,Parents' Divorce - Live,13,2018-09-20T13:43:22Z,53066,John Leguizamo,Live,2001-11-20,0.541,0.809,0.668,0.0,4,0.0964,-14.019,1,0.936,103.743,3,0.191
+17,Sunday Afternoon,23,2018-09-20T13:43:22Z,205346,Ednita Nazario,Songs From The Capeman,1997-11-18,0.732,0.536,0.21,0.0,9,0.253,-12.111,0,0.0444,142.367,4,0.361
+18,Bendicion Mami,18,2018-09-20T13:43:22Z,281666,Fat Joe,"Me, Myself & I",2006-11-14,0.00913,0.628,0.805,0.0,10,0.252,-5.908,0,0.324,158.427,4,0.379
+19,Otro Día Sera (Desencontrandonos),37,2018-09-20T13:43:22Z,194453,Luis Fonsi,2En1,2017-02-17,0.128,0.694,0.667,0.0,2,0.128,-6.913,1,0.0618,96.039,4,0.853
+20,Famous,19,2018-09-20T13:43:22Z,187093,Original Broadway Cast of On Your Feet,On Your Feet (Original Broadway Cast Recording),2016-04-29,0.152,0.411,0.419,5.15e-06,0,0.484,-7.05,1,0.0295,79.942,4,0.137
+21,Don't Work,17,2018-09-20T13:43:22Z,344638,Trooko,True Work EP,2017-03-03,0.00228,0.697,0.753,0.638,0,0.128,-7.969,0,0.054,130.998,4,0.224
+22,Caminos Verdes,27,2018-09-20T13:43:22Z,178706,Rubén Blades,Buscando America,1984-04-03,0.0951,0.571,0.469,0.00187,2,0.113,-12.064,1,0.0284,85.727,4,0.471
+23,Me Enamoro de Ella,0,2018-09-20T13:43:22Z,259057,Juan Luis Guerra 4.40,Mientras Mas Lo Pienso... Tu,2017-05-31,0.638,0.62,0.892,0.0,7,0.114,-6.932,1,0.0379,137.707,4,0.961
+24,Unstoppable - Outtake,46,2018-09-20T13:43:22Z,239426,Lin-Manuel Miranda,Moana (Original Motion Picture Soundtrack/Deluxe Edition),2016-11-18,0.454,0.61,0.621,0.0,4,0.075,-8.757,0,0.465,129.452,4,0.367

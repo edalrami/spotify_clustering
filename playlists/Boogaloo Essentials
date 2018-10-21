@@ -1,0 +1,31 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,I Like It Like That,36,2018-06-28T21:54:30Z,265080,Pete Rodriguez,Fania Latin Boogaloo Essentials,2013-11-25,0.68,0.596,0.7,0.000277,5,0.623,-4.911,0,0.0323,133.45,4,0.926
+1,Grazin' In The Grass,34,2018-06-28T21:54:30Z,196600,Orchestra Harlow,Orchestra Harlow Presenta A Ismael Miranda,2009,0.0544,0.595,0.742,0.00027,5,0.0844,-7.964,1,0.0314,118.555,4,0.946
+2,Boogaloo Blues,33,2018-06-28T21:54:30Z,331868,Johnny Colon,Fania Records 60's Gold,2013-09-17,0.609,0.744,0.192,1.07e-05,0,0.0914,-18.472,1,0.059,114.918,4,0.673
+3,Bang Bang,40,2018-06-28T21:54:30Z,247480,Joe Cuba,Fania Latin Boogaloo Essentials,2013-11-25,0.783,0.608,0.727,3.86e-06,3,0.515,-7.715,1,0.0709,127.172,4,0.835
+4,"Lookie, Lookie",30,2018-06-28T21:54:30Z,214986,Ricardo Ray,Se Solto - On The Loose,2009,0.75,0.546,0.514,0.0113,0,0.236,-10.352,1,0.0598,106.428,4,0.416
+5,Ay Que Rico,1,2018-06-28T21:54:30Z,205333,Eddie Palmieri,El Virtuoso,2009,0.566,0.715,0.726,0.00062,7,0.121,-6.571,1,0.0541,131.28,4,0.868
+6,You Gotta Love Me,29,2018-06-28T21:54:30Z,375026,Johnny Colón and His Orchestra,Boogaloo '67,1967,0.203,0.559,0.527,2.18e-06,0,0.0855,-8.562,1,0.0386,129.711,4,0.869
+7,Llegaron Los Bonches,29,2018-06-28T21:54:30Z,202050,Johnny Pacheco,Volando Bajito,2010-09-07,0.697,0.713,0.452,0.000102,5,0.255,-18.49,1,0.04,148.919,4,0.976
+8,Bad Breath,28,2018-06-28T21:54:30Z,167933,Bobby Valentin,Fania Latin Boogaloo Essentials,2013-11-25,0.766,0.717,0.604,0.0101,5,0.0828,-8.984,1,0.0562,141.627,4,0.889
+9,Son Cuero Y Boogaloo,33,2018-06-28T21:54:30Z,510400,Fania All Stars,Live at the Red Garter Vol 2,1968,0.833,0.568,0.757,0.0488,5,0.713,-5.341,1,0.0608,76.169,4,0.745
+10,Summertime Blues,31,2018-06-28T21:54:30Z,281426,Lebrón Brothers,Back On The Streets Of Spanish Harlem,2009,0.664,0.745,0.623,0.00771,0,0.179,-6.05,0,0.0346,125.149,4,0.961
+11,Para Ti Mi Boogaloo,26,2018-06-28T21:54:30Z,152090,Celia Cruz,La Excitante,2015-11-06,0.623,0.606,0.85,6.75e-06,0,0.331,-3.985,1,0.0784,142.233,4,0.831
+12,Que Bueno Boogaloo,26,2018-06-28T21:54:30Z,164946,La Lupe,Leyendas De La Fania Vol 6,2009,0.317,0.539,0.757,0.0,8,0.214,-3.457,1,0.0413,143.453,4,0.932
+13,Micaela,28,2018-06-28T21:54:30Z,325920,Pete Rodriguez,Fania Latin Boogaloo Essentials,2013-11-25,0.816,0.545,0.677,0.00309,0,0.204,-5.529,1,0.0501,136.798,4,0.816
+14,You're Moving Much Too Fast,25,2018-06-28T21:54:30Z,200240,Bobby Marin,Back On The Streets Of Spanish Harlem,2009,0.146,0.686,0.662,0.0133,7,0.225,-7.325,1,0.0594,124.6,4,0.919
+15,Eso Se Baila Asi,38,2018-06-28T21:54:30Z,321120,Willie Colón,The Original Gangster,2009,0.679,0.636,0.576,5.52e-05,0,0.0702,-8.454,1,0.0501,120.644,4,0.821
+16,I'll Be A Happy Man,29,2018-06-28T21:54:30Z,214520,The Latin Blues Band Featuring Luis Aviles,Take A Trip Pussycat (feat. Luis Aviles),2009,0.213,0.661,0.576,3.42e-05,7,0.0702,-10.249,0,0.0347,136.286,4,0.971
+17,TP Treat,29,2018-06-28T21:54:30Z,237386,Tito Puente,The King,2009,0.655,0.519,0.457,0.0,5,0.0696,-8.061,0,0.0463,116.209,4,0.755
+18,Come And Get It,25,2018-06-28T21:54:30Z,180386,Ralph Robles,El Barrio,2011-10-11,0.506,0.576,0.513,8.12e-05,2,0.153,-8.541,0,0.0286,129.453,4,0.972
+19,Riki Chi,25,2018-06-28T21:54:30Z,255142,Joey Pastrana,Fania Records 60's Gold,2013-09-17,0.565,0.825,0.252,0.00853,7,0.0563,-19.311,1,0.105,111.847,4,0.895
+20,That's How Rumors Start,35,2018-06-28T21:54:30Z,452373,Joey Pastrana & His Orquesta,Joey,1967,0.202,0.498,0.42,0.0113,5,0.241,-9.55,0,0.068,182.668,4,0.827
+21,Marilu,26,2018-06-28T21:54:30Z,247053,George Guzman,Introducing George Guzman,1968,0.245,0.489,0.487,0.00763,7,0.0508,-10.809,0,0.0498,149.553,4,0.604
+22,Oh Yeah,27,2018-06-28T21:54:30Z,194173,Joe Cuba,Joe Cuba - Greatest Hits,2009,0.853,0.586,0.686,1.8e-05,5,0.276,-7.158,1,0.201,143.777,4,0.762
+23,Afro Shingaling,26,2018-06-28T21:54:30Z,237944,The Latinaires,Camel Walk,1968,0.629,0.591,0.753,0.0,5,0.686,-8.043,1,0.0304,140.42,4,0.961
+24,Cisco Kid,23,2018-06-28T21:54:30Z,241257,Bobby Marin,"Let's Boogaloo, Vol. 6: Explosive Deep Funk, Northern Soul & Dancefloor Jazz En El Barrio",2014-02-17,0.73,0.755,0.881,0.0028,0,0.923,-3.246,1,0.0427,132.789,4,0.915
+25,Arrecotin Arrecotan,30,2018-06-28T21:54:30Z,218346,Ismael Rivera,Ismael Rivera - Greatest Hits,2009,0.631,0.493,0.405,0.0,2,0.088,-13.57,0,0.0433,111.076,4,0.886
+26,Fever,35,2018-06-28T21:54:30Z,165813,La Lupe,La Lupe - Greatest Hits,2009,0.499,0.448,0.605,0.0,0,0.185,-4.448,0,0.057,154.016,4,0.71
+27,It's Not What You Say,0,2018-06-28T21:54:30Z,176146,Louie Ramirez,Ali Baba,2010-02-01,0.724,0.809,0.592,0.00688,5,0.058,-7.265,1,0.0377,125.127,4,0.603
+28,Pow Wow,23,2018-06-28T21:54:30Z,228598,Bobby Marin,Pow Wow,2014-03-05,0.0549,0.637,0.954,0.531,9,0.237,-5.608,0,0.0885,125.166,4,0.527
+29,Brooklyn Boogaloo,0,2018-06-28T21:54:30Z,389312,Spanglish Fly,New York Boogaloo,2015-09-18,0.57,0.809,0.673,6.27e-05,0,0.137,-5.121,0,0.0364,132.022,4,0.928

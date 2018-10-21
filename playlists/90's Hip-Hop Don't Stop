@@ -1,0 +1,76 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,Hypnotize (feat. Pam Long) - 2016 Remastered,50,2018-10-01T19:06:45Z,229906,The Notorious B.I.G.,Bad Boy 20th Anniversary Box Set Edition,2016-07-12,0.165,0.9,0.681,0.0,9,0.23,-3.758,1,0.274,93.927,4,0.638
+1,California Love - Original Version,75,2018-10-01T19:06:45Z,284480,2Pac,The Best of 2Pac - Pt. 1: Thug,2007-01-01,0.0292,0.761,0.847,2.26e-06,7,0.39,-3.068,1,0.0417,91.519,4,0.765
+2,Don't Believe The Hype,54,2018-10-01T19:06:45Z,319493,Public Enemy,It Takes A Nation Of Millions To Hold Us Back,1988-04-14,0.0142,0.884,0.472,0.0,11,0.142,-13.776,1,0.346,98.425,4,0.826
+3,"Flava In Ya Ear (feat. The Notorious B.I.G., LL Cool J, Busta Rhymes & Rampage) - 2016 Remastered",51,2018-10-01T19:06:45Z,302866,Craig Mack,Bad Boy 20th Anniversary Box Set Edition,2016-07-12,0.203,0.5,0.899,0.0,9,0.177,-3.907,0,0.467,177.815,4,0.754
+4,The Rain (Supa Dupa Fly),61,2018-10-01T19:06:45Z,246173,Missy Elliott,Supa Dupa Fly,1997-07-11,0.117,0.854,0.58,0.00471,1,0.0921,-10.008,1,0.217,162.116,4,0.7
+5,The World Is Yours,59,2018-10-01T19:06:45Z,290573,Nas,Illmatic XX,1994,0.274,0.678,0.794,1.68e-06,10,0.124,-6.186,0,0.14,87.374,4,0.54
+6,Hip Hop Hooray,69,2018-10-01T19:06:45Z,267266,Naughty By Nature,19 Naughty III,1993-02-23,0.102,0.862,0.642,0.0,6,0.272,-13.652,0,0.101,99.201,4,0.765
+7,Keep Their Heads Ringin',64,2018-10-01T19:06:45Z,305573,Dr. Dre,Friday (Original Motion Picture Soundtrack),1995-04-11,0.0442,0.672,0.785,0.00253,9,0.136,-4.214,0,0.109,90.574,4,0.219
+8,Juicy - 2016 Remastered,47,2018-10-01T19:06:45Z,302546,The Notorious B.I.G.,Bad Boy 20th Anniversary Box Set Edition,2016-07-12,0.487,0.858,0.896,0.0,9,0.235,-2.344,1,0.26,96.0,4,0.783
+9,Gangsta's Paradise,82,2018-10-01T19:06:45Z,240693,Coolio,Gangsta's Paradise,1995-10-02,0.0655,0.647,0.514,0.0,8,0.398,-10.05,1,0.0593,79.974,4,0.387
+10,Gin And Juice (feat. Dat Nigga Daz),76,2018-10-01T19:06:45Z,211493,Snoop Dogg,Doggystyle,1993,0.0285,0.549,0.853,0.000296,7,0.618,-4.293,1,0.188,94.695,4,0.346
+11,Crush On You,57,2018-10-01T19:06:45Z,275640,Lil' Kim,Hard Core,1996,0.278,0.827,0.635,0.000119,11,0.109,-6.77,0,0.251,88.87,4,0.766
+12,The Humpty Dance,62,2018-10-01T19:06:45Z,391693,Digital Underground,Sex Packets,1990-03-26,0.0341,0.813,0.693,0.0,10,0.121,-8.0,0,0.266,103.508,4,0.618
+13,Cause I Can Do It Right,42,2018-10-01T19:06:45Z,249506,Big Daddy Kane,Taste Of Chocolate,1990,0.309,0.769,0.681,1.2e-05,1,0.248,-12.906,1,0.136,108.462,4,0.901
+14,Jump Around,77,2018-10-01T19:06:45Z,214946,House Of Pain,House of Pain (Fine Malt Lyrics),1992-07-21,0.0113,0.854,0.71,8.72e-05,4,0.166,-6.32,0,0.0793,106.894,4,0.818
+15,Put Your Hands Where My Eyes Could See,65,2018-10-01T19:06:45Z,194293,Busta Rhymes,When Disaster Strikes,1997,0.00864,0.906,0.623,4.19e-06,1,0.0753,-6.711,0,0.303,99.498,4,0.715
+16,"It's All About The Benjamins (feat. The Notorious B.I.G., Lil' Kim & The Lox) - Remix",56,2018-10-01T19:06:45Z,278200,Diddy,No Way Out,1997,0.0405,0.856,0.696,8.75e-06,6,0.0901,-3.51,1,0.226,89.738,4,0.718
+17,Sexy M.F.,48,2018-10-01T19:06:45Z,326093,Prince,[Love Symbol],1992-10-13,0.169,0.77,0.744,0.00223,2,0.0537,-8.133,1,0.0937,106.15,4,0.548
+18,Rump Shaker,44,2018-10-01T19:06:45Z,311506,Wreckx-N-Effect,American Reunion (Original Motion Picture Soundtrack),2012-04-06,0.00372,0.865,0.836,0.00551,1,0.301,-6.088,1,0.225,102.754,4,0.248
+19,Hail Mary,68,2018-10-01T19:06:45Z,309800,Makaveli,The Don Killuminati: The 7 Day Theory,1996-11-05,0.158,0.654,0.637,1.28e-05,10,0.338,-6.915,0,0.293,81.947,4,0.364
+20,I Got 5 On It,61,2018-10-01T19:06:45Z,253533,Luniz,Yukmouth Presents: 420,2010-04-20,0.193,0.583,0.692,0.0,10,0.121,-7.932,0,0.362,174.141,4,0.595
+21,Who Am I (What's My Name)?,72,2018-10-01T19:06:45Z,246320,Snoop Dogg,Doggystyle,1993,0.000136,0.692,0.833,1.98e-05,7,0.515,-3.974,1,0.0492,96.814,4,0.692
+22,U.N.I.T.Y.,18,2018-10-01T19:06:45Z,251906,Queen Latifah,She's A Queen: A Collection Of Greatest Hits,2002-01-01,0.00561,0.659,0.738,0.0,4,0.319,-4.077,0,0.362,93.796,4,0.516
+23,Mama Said Knock You Out,46,2018-10-01T19:06:45Z,287893,LL Cool J,All World,1996-01-01,0.0402,0.802,0.794,0.5,10,0.342,-7.351,0,0.125,102.37,4,0.614
+24,Mind Playing Tricks on Me,67,2018-10-01T19:06:45Z,308733,Geto Boys,We Can't Be Stopped,1991-07-02,0.207,0.886,0.512,0.0,10,0.0991,-11.825,0,0.237,93.997,4,0.454
+25,I Get Around,71,2018-10-01T19:06:45Z,259000,2Pac,Strictly 4 My N.I.G.G.A.Z...,1993-02-16,0.157,0.849,0.422,1.19e-05,10,0.255,-13.95,0,0.122,96.216,4,0.624
+26,Big Poppa,75,2018-10-01T19:06:45Z,252746,The Notorious B.I.G.,Ready To Die The Remaster,1994-09-13,0.432,0.778,0.578,0.0,9,0.138,-7.22,0,0.274,84.487,4,0.758
+27,"Shook Ones, Pt. II",77,2018-10-01T19:06:45Z,325506,Mobb Deep,The Infamous,1995-04-25,0.0146,0.763,0.786,0.0114,10,0.0817,-6.472,0,0.229,93.857,4,0.504
+28,Runnin',65,2018-10-01T19:06:45Z,296266,The Pharcyde,Labcabincalifornia (Deluxe Edition),1995-01-01,0.0287,0.754,0.785,0.00144,10,0.319,-8.178,0,0.18,94.123,4,0.821
+29,N.Y. State of Mind,64,2018-10-01T19:06:45Z,293973,Nas,Illmatic XX,1994,0.0394,0.665,0.91,0.0,6,0.227,-4.682,0,0.223,84.099,4,0.887
+30,Bring Da Ruckus,64,2018-10-01T19:06:45Z,251466,Wu-Tang Clan,Enter The Wu-Tang (36 Chambers) [Expanded Edition],1993-11-09,0.234,0.794,0.627,0.0,11,0.35,-9.431,1,0.36,87.554,4,0.518
+31,Oh My God,55,2018-10-01T19:06:45Z,208840,A Tribe Called Quest,Midnight Marauders,1993-11-08,0.0327,0.866,0.698,0.0187,10,0.108,-7.976,0,0.272,94.64,4,0.713
+32,Informer,64,2018-10-01T19:06:45Z,268910,Snow,12 Inches Of Snow,1993,0.0984,0.763,0.742,0.0,6,0.38,-10.975,0,0.188,98.145,4,0.483
+33,Killing Me Softly With His Song,72,2018-10-01T19:06:45Z,298773,Fugees,The Score,1996,0.0279,0.765,0.29,1.02e-06,4,0.571,-17.117,0,0.139,92.409,4,0.506
+34,Love Like This - 2016 Remaster,45,2018-10-01T19:06:45Z,271920,Faith Evans,Bad Boy 20th Anniversary Box Set Edition,2016-07-12,0.00381,0.709,0.714,0.0,0,0.0513,-4.038,1,0.0786,100.866,4,0.759
+35,Feel So Good - 2016 Remastered,45,2018-10-01T19:06:45Z,204666,Mase,Bad Boy 20th Anniversary Box Set Edition,2016-07-12,0.168,0.762,0.773,0.0,1,0.117,-6.037,0,0.255,105.154,4,0.568
+36,Insane in the Brain,46,2018-10-01T19:06:45Z,210160,Cypress Hill,Black Sunday (Radio Version),1993-07-20,0.0208,0.901,0.63,0.0987,8,0.103,-10.841,0,0.188,102.182,4,0.73
+37,Baby Got Back,27,2018-10-01T19:06:45Z,262826,Sir Mix-A-Lot,Mack Daddy,1992-01-01,0.00471,0.933,0.664,0.0,1,0.0908,-11.281,1,0.311,128.467,4,0.616
+38,Sabotage,73,2018-10-01T19:06:45Z,178440,Beastie Boys,Ill Communication,1994-05-23,0.032,0.324,0.938,0.0321,6,0.0961,-7.332,0,0.102,168.131,4,0.543
+39,O.P.P,60,2018-10-01T19:06:45Z,271066,Naughty By Nature,Naughty By Nature,1991-09-03,0.0326,0.848,0.838,4.63e-06,4,0.124,-11.949,0,0.0723,97.735,4,0.774
+40,Fight The Power,56,2018-10-01T19:06:45Z,282640,Public Enemy,Fear Of A Black Planet,1990-04-10,0.00484,0.797,0.582,2.04e-06,2,0.517,-12.97,1,0.255,105.974,4,0.415
+41,Poison,49,2018-10-01T19:06:45Z,261866,Bell Biv DeVoe,Poison (Expanded),1990-03-20,0.00217,0.838,0.575,0.00872,6,0.641,-10.126,0,0.221,111.892,4,0.726
+42,U Can't Touch This,73,2018-10-01T19:06:45Z,257360,MC Hammer,Please Hammer Don't Hurt 'Em,1990-02-20,0.00456,0.867,0.517,0.000339,11,0.0864,-13.222,0,0.0875,133.148,4,0.866
+43,Tennessee - Remastered,45,2018-10-01T19:06:45Z,272706,Arrested Development,Classic Masters,2002-01-01,0.0284,0.815,0.851,0.0,1,0.343,-3.667,0,0.178,99.915,4,0.674
+44,Around The Way Girl,48,2018-10-01T19:06:45Z,246533,LL Cool J,Mama Said Knock You Out (Deluxe Edition),1990-08-27,0.00435,0.608,0.669,0.0109,1,0.337,-10.834,0,0.335,202.062,4,0.679
+45,Can't You See (feat. The Notorious B.I.G.) - 2016 Remastered,42,2018-10-01T19:06:45Z,279520,Total,Bad Boy 20th Anniversary Box Set Edition,2016-07-12,0.195,0.707,0.735,5.88e-06,8,0.347,-4.881,0,0.0615,86.271,4,0.829
+46,Get Ur Freak On,73,2018-10-01T19:06:45Z,211120,Missy Elliott,Miss E...So Addictive,2001-05-14,0.533,0.797,0.75,0.108,0,0.095,-9.369,1,0.247,177.87,4,0.74
+47,Can I Kick It?,72,2018-10-01T19:06:45Z,251573,A Tribe Called Quest,People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition),1990,0.173,0.848,0.666,0.000699,0,0.129,-6.547,1,0.274,96.662,4,0.744
+48,Anywhere - 2016 Remastered,41,2018-10-01T19:06:45Z,247213,112,Bad Boy 20th Anniversary Box Set Edition,2016-07-12,0.183,0.583,0.557,0.0,7,0.109,-6.045,0,0.27,125.888,4,0.856
+49,"Very Special - feat. Spinderella, Laree Williams And Karen Anderson",44,2018-10-01T19:06:45Z,305013,Big Daddy Kane,Looks Like A Job For...,1993,0.241,0.686,0.398,0.0,8,0.0573,-13.361,0,0.143,80.228,4,0.688
+50,Woo Hah!! Got You All In Check,42,2018-10-01T19:06:45Z,271973,Busta Rhymes,The Best Of Busta Rhymes,2001,0.127,0.842,0.831,0.0,1,0.0881,-7.072,1,0.242,92.053,4,0.814
+51,Return Of The Mack,73,2018-10-01T19:06:45Z,213093,Mark Morrison,Return Of The Mack,1996-04-22,0.00631,0.715,0.833,0.0,2,0.164,-5.379,1,0.108,95.487,4,0.612
+52,Just A Friend,63,2018-10-01T19:06:45Z,238266,Biz Markie,Biz's Baddest Beats: The Best Of Biz Markie,1994-08-07,0.12,0.862,0.663,0.0,0,0.318,-9.004,1,0.21,85.308,4,0.837
+53,Shimmy Shimmy Ya,68,2018-10-01T19:06:45Z,161400,Ol' Dirty Bastard,Return To The 36 Chambers: The Dirty Version,1995,0.097,0.814,0.481,3.83e-05,0,0.0495,-5.183,1,0.245,96.252,4,0.193
+54,Money Ain't a Thang,58,2018-10-01T19:06:45Z,254253,Jermaine Dupri,Life In 1472 (The Original Soundtrack),1998,0.0581,0.854,0.738,0.0,6,0.106,-7.284,0,0.244,100.0,4,0.847
+55,Got Your Money (feat. Kelis),65,2018-10-01T19:06:45Z,239546,Ol' Dirty Bastard,N***A Please,1999,0.0516,0.934,0.459,0.0,1,0.222,-7.654,1,0.189,103.04,4,0.697
+56,Knockin' Boots,32,2018-10-01T19:06:45Z,233120,Candyman,Pure... Hip Hop,2010,0.0877,0.941,0.678,0.0,7,0.358,-8.194,1,0.287,101.399,4,0.625
+57,Gettin' Jiggy Wit It,72,2018-10-01T19:06:45Z,227694,Will Smith,Big Willie Style,1997-10-03,0.0175,0.881,0.874,1.19e-06,6,0.154,-4.505,1,0.139,107.891,4,0.858
+58,Gone Till November,47,2018-10-01T19:06:45Z,207466,Wyclef Jean,Wyclef Jean presents The Carnival featuring Refugee Allstars,1997-06-24,0.0888,0.677,0.503,1.48e-05,4,0.182,-9.027,1,0.0867,85.926,4,0.417
+59,Rebirth Of Slick (Cool Like Dat),58,2018-10-01T19:06:45Z,261266,Digable Planets,Reachin' (A New Refutation Of Time And Space),1993-01-01,0.0476,0.884,0.334,0.0588,1,0.107,-18.943,0,0.228,98.315,4,0.571
+60,No Scrubs,51,2018-10-01T19:06:45Z,218026,TLC,Now & Forever - The Hits,2003-09-30,0.0463,0.799,0.642,0.0,8,0.0616,-5.523,0,0.13,92.907,4,0.536
+61,Doo Wop (That Thing),76,2018-10-01T19:06:45Z,320266,Ms. Lauryn Hill,The Miseducation of Lauryn Hill,1998-08-25,0.0393,0.535,0.505,0.0,2,0.0923,-8.926,0,0.245,99.935,4,0.495
+62,Summertime - Single Edit,47,2018-10-01T19:06:45Z,237093,DJ Jazzy Jeff & The Fresh Prince,The Very Best Of D.J. Jazzy Jeff & The Fresh Prince,1987,0.00328,0.614,0.752,0.0,7,0.379,-6.271,1,0.0652,95.018,4,0.444
+63,Ghetto Supastar (That is What You Are),70,2018-10-01T19:06:45Z,261133,Pras,Ghetto Supastar,1998-10-03,0.0335,0.818,0.653,5.46e-06,1,0.22,-8.396,1,0.204,99.931,4,0.533
+64,Jump,69,2018-10-01T19:06:45Z,195106,Kris Kross,Totally Krossed Out,1992-03-17,0.000501,0.749,0.745,0.00403,2,0.333,-10.625,1,0.164,101.972,4,0.481
+65,No Diggity,81,2018-10-01T19:06:45Z,304600,Blackstreet,Another Level,1996-09-09,0.303,0.868,0.646,0.0,1,0.284,-4.674,0,0.288,88.641,4,0.67
+66,Still Not a Player (feat. Joe),53,2018-10-01T19:06:45Z,236120,Big Pun,The Legacy: The Best Of Big Pun,2009-09-15,0.19,0.902,0.653,0.000983,4,0.0895,-5.425,0,0.284,94.069,4,0.863
+67,I Wish - Radio Edit,63,2018-10-01T19:06:45Z,252306,Skee-Lo,I Wish,1995-08-08,0.00826,0.715,0.738,0.0,7,0.26,-10.139,1,0.157,97.877,4,0.573
+68,Regulate,76,2018-10-01T19:06:45Z,248866,Warren G,Regulate… G Funk Era (Special Edition),1994-06-07,0.29,0.845,0.51,2.39e-06,11,0.114,-13.064,0,0.224,95.265,4,0.74
+69,Now That We Found Love,45,2018-10-01T19:06:45Z,257693,Heavy D & The Boyz,Heavy Hitz,2000-01-01,0.0312,0.72,0.891,0.0,8,0.21,-7.911,1,0.0761,119.976,4,0.7
+70,I'll Be There For You/You're All I Need To Get By,10,2018-10-01T19:06:45Z,307506,Method Man,More Music From 8 Mile,2002-01-01,0.144,0.697,0.828,2.03e-06,1,0.334,-3.733,0,0.0963,95.052,4,0.555
+71,It Was A Good Day,64,2018-10-01T19:06:45Z,260306,Ice Cube,The Essentials,2008-01-01,0.135,0.78,0.754,0.0339,5,0.0467,-5.377,0,0.0949,82.395,4,0.81
+72,Funkdafied,50,2018-10-01T19:06:45Z,185933,Da Brat,Funkdafied,1994-06-28,0.0757,0.802,0.461,0.0,11,0.109,-12.367,0,0.302,90.995,4,0.74
+73,On & On,52,2018-10-01T19:06:45Z,225973,Erykah Badu,Baduizm - Special Edition,1997-02-11,0.0534,0.758,0.408,0.00268,4,0.296,-10.751,1,0.159,80.485,4,0.367
+74,Murder Was The Case (Death After Visualizing Eternity) (feat. Dat Nigga Daz),39,2018-10-01T19:06:45Z,218186,Snoop Dogg,Doggystyle,1993,0.00561,0.4,0.841,0.0,11,0.338,-5.368,1,0.148,91.162,4,0.62

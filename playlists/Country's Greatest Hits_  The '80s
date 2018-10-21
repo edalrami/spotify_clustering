@@ -1,0 +1,101 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,Jose Cuervo,47,2018-08-13T19:43:14Z,162840,Shelly West,West By West,1983-01-01,0.328,0.695,0.592,0.0,7,0.12,-9.427,1,0.0747,115.397,4,0.803
+1,Fool Hearted Memory,43,2018-08-13T19:43:14Z,159666,George Strait,Strait Out Of The Box,1995-01-01,0.335,0.467,0.568,1.51e-06,10,0.119,-9.944,1,0.0385,177.633,4,0.623
+2,I Told You So,52,2018-08-13T19:43:14Z,219946,Randy Travis,Top 10,2010-09-24,0.349,0.633,0.325,0.0,9,0.114,-9.05,1,0.0268,79.079,4,0.225
+3,Elvira,56,2018-08-13T19:43:14Z,225626,The Oak Ridge Boys,Fancy Free,1981-01-01,0.196,0.825,0.274,0.000778,2,0.0581,-17.42,0,0.033,127.299,4,0.775
+4,Woke Up In Love,41,2018-08-13T19:43:14Z,186706,Exile,Super Hits,1983,0.17,0.611,0.616,0.000189,9,0.611,-10.749,1,0.063,168.876,4,0.853
+5,My Home's In Alabama - Live,43,2018-08-13T19:43:14Z,386026,Alabama,My Home's In Alabama,1980,0.276,0.366,0.479,0.0114,7,0.136,-9.774,1,0.0438,80.842,4,0.397
+6,War Is Hell - Re-Recorded,37,2018-08-13T19:43:14Z,203238,T.G. Sheppard,Do You Want to Go to Heaven,2014-07-08,0.457,0.613,0.453,0.0,5,0.111,-13.595,1,0.0593,170.132,4,0.772
+7,Mama's Never Seen Those Eyes,39,2018-08-13T19:43:14Z,170146,The Forester Sisters,The Forester Sisters,1985,0.0872,0.592,0.469,0.0,8,0.0605,-12.276,1,0.0268,144.152,4,0.88
+8,Dancin' Cowboys,37,2018-08-13T19:43:14Z,199666,The Bellamy Brothers,"Greatest Hits, Vol. 1",1982,0.00143,0.745,0.411,0.000329,2,0.0757,-16.298,1,0.0404,120.833,4,0.853
+9,Baby I Lied,37,2018-08-13T19:43:14Z,250120,Deborah Allen,Cheat the Night,1983,0.318,0.63,0.478,6.49e-05,11,0.0942,-10.589,1,0.0275,92.491,4,0.279
+10,American Made,47,2018-08-13T19:43:14Z,159866,The Oak Ridge Boys,Oak Ridge Boys Collection,1992-01-01,0.108,0.696,0.513,0.000607,8,0.0379,-14.242,1,0.0336,129.212,4,0.972
+11,Fourteen Carat Mind,39,2018-08-13T19:43:14Z,159506,Gene Watson,Gene Watson's Greatest Hits,1968-01-01,0.148,0.541,0.478,0.0,5,0.181,-14.94,1,0.0345,189.001,3,0.954
+12,What's Forever For?,48,2018-08-13T19:43:14Z,171906,Michael Martin Murphey,The Best Of Michael Martin Murphey,1982,0.47,0.551,0.214,0.0,0,0.141,-16.631,0,0.0282,75.268,4,0.294
+13,Old Habits,43,2018-08-13T19:43:14Z,183600,"Hank Williams, Jr.",35 Biggest Hits,2015-06-16,0.173,0.633,0.444,3.33e-06,2,0.0821,-14.09,1,0.0264,106.111,3,0.45
+14,Killin' Time,58,2018-08-13T19:43:14Z,168000,Clint Black,Ultimate Clint Black,2003-07-01,0.455,0.714,0.522,1.02e-05,7,0.0967,-9.773,1,0.0283,121.312,4,0.69
+15,Old Hippie,46,2018-08-13T19:43:14Z,247040,The Bellamy Brothers,Best Of The Bellamy Brothers,1992-03-16,0.038,0.691,0.497,5.94e-06,11,0.0859,-13.248,1,0.0473,103.893,4,0.701
+16,She Keeps The Home Fires Burning,47,2018-08-13T19:43:14Z,236173,Ronnie Milsap,The Essential Ronnie Milsap,2006-07-31,0.526,0.731,0.608,0.0,7,0.126,-10.69,1,0.0267,126.263,4,0.745
+17,Hard Candy Christmas,35,2018-08-13T19:43:14Z,235693,Carol Hall,The Best Little Whorehouse In Texas,1982-01-01,0.854,0.515,0.12,1.62e-05,1,0.121,-18.708,1,0.0309,99.932,4,0.186
+18,Nobody,43,2018-08-13T19:43:14Z,199200,Sylvia,Just Sylvia,1982,0.249,0.764,0.448,0.0,0,0.107,-12.371,1,0.0336,124.226,4,0.868
+19,I Got Mexico,40,2018-08-13T19:43:14Z,146466,Eddy Raven,Best Of Eddy Raven,1997-03-04,0.366,0.82,0.529,0.0,6,0.09,-10.08,0,0.0385,112.114,4,0.853
+20,"Twinkle, Twinkle Lucky Star",42,2018-08-13T19:43:14Z,203600,Merle Haggard,The Essential Merle Haggard: The Epic Years,1981,0.841,0.659,0.34,0.000598,4,0.222,-14.976,1,0.035,81.64,4,0.694
+21,Swingin',38,2018-08-13T19:43:14Z,183533,John Anderson,Wild And Blue,1987,0.548,0.666,0.64,0.0,4,0.177,-13.945,1,0.0387,107.751,4,0.954
+22,I Loved 'Em Every One,49,2018-08-13T19:43:14Z,220426,T.G. Sheppard,Super Hits,1979,0.216,0.66,0.688,0.0016,4,0.0685,-12.563,0,0.0304,87.126,4,0.718
+23,Everything That Glitters (Is Not Gold),46,2018-08-13T19:43:14Z,292626,Dan Seals,Won't Be Blue Anymore,1985-01-01,0.726,0.654,0.259,0.0,4,0.0541,-16.728,1,0.0304,112.1,4,0.466
+24,Islands In The Stream,49,2018-08-13T19:43:14Z,249880,Kenny Rogers,A Love Song Collection,2008-01-01,0.427,0.589,0.641,0.0,8,0.0558,-5.533,1,0.0313,204.003,4,0.795
+25,What I'd Say,42,2018-08-13T19:43:14Z,232773,Earl Thomas Conley,The Heart of It All,1988,0.717,0.67,0.265,1.06e-06,6,0.102,-12.741,1,0.0289,117.799,4,0.255
+26,[That's What You Do] When You're In Love,34,2018-08-13T19:43:14Z,184946,The Forester Sisters,The Forester Sisters,1985,0.277,0.574,0.47,0.0,10,0.061,-13.137,1,0.0356,160.821,4,0.937
+27,Any Day Now - Remastered,38,2018-08-13T19:43:14Z,222426,Ronnie Milsap,Ultimate Ronnie Milsap,2004-03-01,0.0849,0.663,0.561,4.79e-05,5,0.0725,-7.971,1,0.0248,102.911,4,0.605
+28,Does Fort Worth Ever Cross Your Mind,50,2018-08-13T19:43:14Z,185040,George Strait,50 Number Ones,2004-01-01,0.163,0.75,0.411,0.215,0,0.511,-14.443,1,0.0313,111.666,4,0.433
+29,When We Make Love,40,2018-08-13T19:43:14Z,216373,Alabama,Roll On,1984-05-21,0.649,0.481,0.0758,0.0,7,0.0859,-23.435,1,0.0433,71.892,4,0.14
+30,That Lovin' You Feelin' Again (with Roy Orbison) - 2008 Remastered Version,39,2018-08-13T19:43:14Z,239440,Emmylou Harris,Duets,1990,0.542,0.556,0.426,0.0,2,0.312,-12.543,1,0.0278,106.029,4,0.469
+31,Guitar Town,53,2018-08-13T19:43:14Z,155266,Steve Earle,Guitar Town,1986-01-01,0.255,0.664,0.49,0.0,7,0.0734,-15.46,1,0.0357,165.542,4,0.937
+32,Grandpa (Tell Me 'Bout The Good Old Days),52,2018-08-13T19:43:14Z,254640,The Judds,I Will Stand By You - The Essential Collection,2011-04-05,0.426,0.565,0.456,8.08e-06,4,0.0612,-8.124,1,0.031,201.644,4,0.588
+33,Blue Moon With Heartache,34,2018-08-13T19:43:14Z,266666,Rosanne Cash,The Essential Rosanne Cash,2011-06-24,0.723,0.557,0.187,0.000102,11,0.112,-15.762,1,0.0285,97.436,4,0.147
+34,Used To Blue,32,2018-08-13T19:43:14Z,200066,Sawyer Brown,Greatest Hits,1990-08-27,0.652,0.434,0.336,0.0,5,0.123,-12.828,1,0.0382,62.205,4,0.475
+35,All My Ex's Live In Texas,56,2018-08-13T19:43:14Z,200826,George Strait,"George Strait's Greatest Hits, Volume Two",1987-01-01,0.235,0.762,0.318,6.12e-06,9,0.138,-16.046,1,0.0355,130.516,4,0.677
+36,Who's Gonna Fill Their Shoes,47,2018-08-13T19:43:14Z,195133,George Jones,Super Hits,1972,0.672,0.441,0.262,0.0,4,0.133,-13.435,1,0.0301,138.327,4,0.317
+37,We Believe In Happy Endings,33,2018-08-13T19:43:14Z,215666,Earl Thomas Conley,The Heart of It All,1988,0.565,0.594,0.321,0.0,5,0.0913,-11.886,1,0.0234,91.203,4,0.31
+38,Streets Of Bakersfield,52,2018-08-13T19:43:14Z,168213,Dwight Yoakam,Buenas Noches From A Lonely Room,1988,0.0399,0.74,0.703,5.69e-06,9,0.0378,-11.87,1,0.0576,106.878,4,0.816
+39,Pancho and Lefty,52,2018-08-13T19:43:14Z,287626,Merle Haggard,The Essential Merle Haggard: The Epic Years,1981,0.796,0.693,0.454,0.000154,2,0.143,-12.44,1,0.0332,122.641,4,0.54
+40,The Sweetest Thing (I've Ever Known),37,2018-08-13T19:43:14Z,248133,Juice Newton,Juice Newton's Greatest Hits,1988-10-19,0.602,0.38,0.228,0.0,7,0.154,-14.373,1,0.0261,77.177,4,0.181
+41,Why Don't You Spend the Night,36,2018-08-13T19:43:14Z,251266,Ronnie Milsap,The Essential Ronnie Milsap,2006-07-31,0.387,0.615,0.572,5.08e-05,2,0.141,-10.105,1,0.0307,114.016,4,0.544
+42,Got No Reason Now For Goin' Home,40,2018-08-13T19:43:14Z,164000,Gene Watson,Best Of Gene Watson,1996-02-27,0.227,0.595,0.47,0.0,7,0.334,-12.938,1,0.03,157.207,4,0.935
+43,C.C. Waterback,32,2018-08-13T19:43:14Z,215906,George Jones,His Epic Hits,1981,0.328,0.757,0.416,0.00119,2,0.0535,-14.597,1,0.0665,125.038,4,0.714
+44,Finally,31,2018-08-13T19:43:14Z,228866,T.G. Sheppard,Super Hits,1979,0.539,0.525,0.452,1.69e-05,8,0.201,-12.955,1,0.0367,117.939,4,0.349
+45,Love Is Alive,40,2018-08-13T19:43:14Z,238506,The Judds,Why Not Me,1984-10-15,0.233,0.698,0.381,8.51e-06,4,0.106,-11.281,1,0.0291,86.302,4,0.365
+46,I Think I'll Just Stay Here And Drink,43,2018-08-13T19:43:14Z,271666,Merle Haggard,Down Every Road 1962-1994,1996-01-01,0.0999,0.609,0.681,0.0495,9,0.0422,-11.491,1,0.0394,172.609,4,0.895
+47,Wandering Eyes - Re-Recorded In Stereo,32,2018-08-13T19:43:14Z,174533,Ronnie McDowell,Greatest Hits,1994-06-14,0.606,0.48,0.633,0.0,7,0.323,-9.09,1,0.135,186.113,4,0.887
+48,Seven Year Ache,47,2018-08-13T19:43:14Z,194853,Rosanne Cash,The Very Best Of Rosanne Cash,1979,0.475,0.747,0.568,0.000165,9,0.127,-8.651,0,0.0319,121.615,4,0.684
+49,Why'd You Come in Here Lookin' Like That,46,2018-08-13T19:43:14Z,152506,Dolly Parton,White Limozeen,1989-05-30,0.693,0.615,0.759,0.0,4,0.0848,-7.722,1,0.045,175.249,4,0.96
+50,I'm Not That Lonely Yet,29,2018-08-13T19:43:14Z,165426,Reba McEntire,The Best Of Reba McEntire,1985-01-01,0.898,0.577,0.158,0.0,5,0.211,-16.836,1,0.0269,83.938,3,0.285
+51,Seven Spanish Angels,54,2018-08-13T19:43:14Z,231026,Willie Nelson,Friendship,1984,0.373,0.549,0.287,0.0,5,0.115,-13.135,1,0.0362,132.439,4,0.382
+52,The Wind Beneath My Wings,30,2018-08-13T19:43:14Z,281533,Gary Morris,Why Lady Why,1983-08-17,0.9,0.446,0.202,0.000738,7,0.115,-11.495,1,0.0282,91.003,4,0.0694
+53,Crazy For Your Love,29,2018-08-13T19:43:14Z,205733,Exile,Greatest Hits,1983,0.434,0.794,0.273,7.76e-06,8,0.218,-17.335,1,0.0315,110.912,4,0.741
+54,On The Other Hand,52,2018-08-13T19:43:14Z,186346,Randy Travis,Storms Of Life,1986-06-11,0.175,0.657,0.415,5.65e-06,5,0.132,-9.915,1,0.025,96.03,4,0.347
+55,My Favorite Memory,44,2018-08-13T19:43:14Z,185573,Merle Haggard,The Essential Merle Haggard: The Epic Years,1981,0.874,0.452,0.158,0.000527,2,0.0846,-14.317,1,0.0358,129.822,3,0.134
+56,Tight Fittin' Jeans,51,2018-08-13T19:43:14Z,170266,Conway Twitty,20th Century Masters: The Millennium Collection: Best Of Conway Twitty,1999-01-01,0.22,0.7,0.56,6.74e-05,9,0.13,-11.251,1,0.051,102.286,4,0.841
+57,Today All Over Again,26,2018-08-13T19:43:14Z,196666,Reba McEntire,The Best Of Reba McEntire,1985-01-01,0.641,0.574,0.17,0.0,7,0.12,-17.717,1,0.0267,87.18,3,0.491
+58,Sunday In the South,32,2018-08-13T19:43:14Z,241026,Shenandoah,Super Hits,1994,0.697,0.615,0.335,0.0,7,0.122,-12.372,1,0.0251,90.956,4,0.441
+59,Down To My Last Broken Heart,29,2018-08-13T19:43:14Z,148266,Janie Fricke,Janie Fricke,1979,0.465,0.673,0.227,0.0,4,0.41,-15.344,1,0.0299,131.185,4,0.875
+60,Real Love,29,2018-08-13T19:43:14Z,233693,Dolly Parton,Real Love,1985,0.183,0.437,0.476,0.0,7,0.0419,-10.545,1,0.0334,200.469,4,0.846
+61,Honky Tonk Man,53,2018-08-13T19:43:14Z,167426,Dwight Yoakam,"Guitars, Cadillacs, Etc., Etc.",1986,0.126,0.673,0.84,5.88e-05,4,0.175,-5.114,1,0.0381,144.184,4,0.749
+62,Are the Good Times Really Over (I Wish a Buck Was Still Silver),54,2018-08-13T19:43:14Z,253293,Merle Haggard,The Essential Merle Haggard: The Epic Years,1981,0.808,0.616,0.217,0.000109,0,0.122,-15.439,1,0.0335,130.613,3,0.141
+63,The Cowboy Rides Away,51,2018-08-13T19:43:14Z,202306,George Strait,"George Strait's Greatest Hits, Volume Two",1987-01-01,0.0531,0.694,0.338,0.000823,7,0.429,-16.927,1,0.0275,109.062,4,0.575
+64,I Can Tell By the Way You Dance,36,2018-08-13T19:43:14Z,161493,Vern Gosdin,"The Voice Box, Vol. 1",2015-05-11,0.0972,0.755,0.593,0.0,4,0.13,-11.093,1,0.0295,109.812,4,0.919
+65,My Baby's Got Good Timing,30,2018-08-13T19:43:14Z,209439,Dan Seals,The Very Best Of Dan Seals,2011-01-01,0.0368,0.773,0.692,0.0,8,0.0574,-6.59,1,0.0299,114.153,4,0.954
+66,The One I Loved Back Then (The Corvette Song),46,2018-08-13T19:43:14Z,149333,George Jones,Super Hits/ Super Hits Vol. II/George & Tammy Super Hits,1972,0.519,0.636,0.479,0.0,2,0.408,-11.555,1,0.0812,159.433,4,0.935
+67,One Promise Too Late,33,2018-08-13T19:43:14Z,205866,Reba McEntire,What Am I Gonna Do About You,1986-01-01,0.472,0.639,0.31,4.84e-06,0,0.693,-15.605,1,0.0379,79.149,4,0.644
+68,Highwayman,63,2018-08-13T19:43:14Z,182415,Willie Nelson,Nashville Rebel,1972,0.541,0.675,0.448,0.0135,11,0.126,-13.175,0,0.0389,101.344,4,0.441
+69,When You Say Nothing at All,55,2018-08-13T19:43:14Z,222493,Keith Whitley,Greatest Hits,1990-08-07,0.721,0.673,0.346,4.48e-06,3,0.0475,-12.803,1,0.0245,80.012,4,0.396
+70,Common Man,34,2018-08-13T19:43:14Z,163106,John Conlee,Classics,2003-11-18,0.546,0.792,0.605,0.0,7,0.0439,-8.008,1,0.0462,128.789,4,0.899
+71,I Tell It Like It Used To Be,39,2018-08-13T19:43:14Z,180866,T. Graham Brown,Super Hits,1995-05-02,0.358,0.73,0.49,0.0,2,0.0219,-10.613,1,0.0369,88.944,4,0.564
+72,I Believe In You,50,2018-08-13T19:43:14Z,245573,Don Williams,Don Williams 20 Greatest Hits,1987-01-01,0.832,0.708,0.215,0.000551,7,0.142,-20.267,1,0.0418,117.966,3,0.582
+73,Take Me Down,33,2018-08-13T19:43:14Z,223120,Alabama,The Essential Alabama,2005-05-17,0.198,0.748,0.281,9.88e-05,0,0.0831,-12.665,1,0.0678,93.994,4,0.489
+74,Heartbroke,29,2018-08-13T19:43:14Z,194160,Ricky Skaggs,Super Hits,1981,0.068,0.555,0.562,0.0,2,0.21,-10.713,1,0.0388,192.981,4,0.853
+75,Somebody's Knockin',39,2018-08-13T19:43:14Z,181666,Terri Gibbs,The Best Of Terri Gibbs,1985-01-01,0.233,0.699,0.515,2.56e-06,11,0.0888,-10.816,0,0.0299,95.044,4,0.734
+76,Diggin' Up Bones,54,2018-08-13T19:43:14Z,179373,Randy Travis,Top 10,2010-09-24,0.361,0.703,0.575,0.0,0,0.0692,-8.215,1,0.0261,85.672,4,0.869
+77,Tennessee Homesick Blues,31,2018-08-13T19:43:14Z,203373,Dolly Parton,The Essential Dolly Parton,2011-01-07,0.221,0.515,0.736,0.0,0,0.303,-8.231,1,0.043,166.187,4,0.908
+78,Queen of Hearts,25,2018-08-13T19:43:14Z,208333,Juice Newton,Anthology,1998,0.233,0.662,0.91,3.22e-05,2,0.127,-7.899,1,0.05,169.371,4,0.973
+79,"Dim Lights, Thick Smoke (And Loud, Loud Music)",29,2018-08-13T19:43:14Z,209866,Vern Gosdin,The Truly Great Hits,1994-10-01,0.652,0.58,0.374,0.0,4,0.221,-15.178,1,0.0317,142.369,4,0.596
+80,Dixieland Delight,39,2018-08-13T19:43:14Z,322040,Alabama,Greatest Hits Vol.2,1991-10-08,0.242,0.443,0.551,0.000106,2,0.0612,-9.672,1,0.0369,95.745,4,0.545
+81,I Ain't Living Long Like This,47,2018-08-13T19:43:14Z,286120,Waylon Jennings,The Essential Waylon Jennings,2007-05-01,0.178,0.622,0.749,0.603,9,0.111,-10.201,1,0.0301,145.018,4,0.78
+82,He Got You - Remastered,30,2018-08-13T19:43:14Z,213400,Ronnie Milsap,Ultimate Ronnie Milsap,2004-03-01,0.16,0.803,0.596,7.4e-06,2,0.101,-9.184,0,0.0345,104.833,4,0.724
+83,Eighteen Wheels And A Dozen Roses,43,2018-08-13T19:43:14Z,203400,Kathy Mattea,Untasted Honey,1987-01-01,0.0926,0.659,0.571,0.000159,8,0.0696,-13.609,1,0.0267,139.27,4,0.961
+84,Do Ya',38,2018-08-13T19:43:14Z,245733,K.T. Oslin,"Greatest Hits--""Songs from an Aging Sex Bomb""",1993-04-25,0.424,0.647,0.233,0.00142,7,0.0914,-13.15,1,0.0361,165.928,4,0.403
+85,Two Dozen Roses,38,2018-08-13T19:43:14Z,223613,Shenandoah,Super Hits,1994,0.327,0.695,0.502,0.0,4,0.097,-12.01,1,0.0279,117.083,4,0.543
+86,I Don't Want To Be A Memory,25,2018-08-13T19:43:14Z,209946,Exile,Exile,1983,0.269,0.848,0.547,7.41e-05,5,0.0432,-12.018,1,0.0305,117.389,4,0.892
+87,Lady Down On Love,37,2018-08-13T19:43:14Z,237226,Alabama,Ultimate Alabama 20 # 1 Hits,2004-10-08,0.849,0.348,0.0834,6.12e-06,5,0.123,-16.06,1,0.0299,82.98,4,0.138
+88,Holding Her and Loving You,30,2018-08-13T19:43:14Z,188720,Earl Thomas Conley,The Essential Earl Thomas Conley,2018-05-04,0.323,0.619,0.392,1.25e-05,7,0.123,-11.967,1,0.0304,125.868,4,0.334
+89,Prisoner of the Highway,39,2018-08-13T19:43:14Z,253133,Ronnie Milsap,One More Try for Love,1984-07-01,0.22,0.733,0.636,5.95e-06,0,0.0753,-7.835,1,0.0264,92.531,4,0.868
+90,Only One You,37,2018-08-13T19:43:14Z,202226,T.G. Sheppard,Super Hits,1979,0.49,0.813,0.62,0.186,4,0.0636,-12.454,0,0.0274,95.274,4,0.97
+91,Old Flames Can't Hold a Candle to You,32,2018-08-13T19:43:14Z,203026,Dolly Parton,Dolly Dolly Dolly,1980,0.405,0.555,0.196,6.49e-06,2,0.112,-13.381,1,0.0288,137.092,3,0.272
+92,"Lord, I Hope This Day Is Good - Single Version",49,2018-08-13T19:43:14Z,249906,Don Williams,Lord I Hope This Day Is Good,1981-01-01,0.281,0.534,0.382,0.00114,2,0.0959,-17.925,1,0.0295,173.786,4,0.692
+93,Same Ole Me,35,2018-08-13T19:43:14Z,170733,George Jones,Still The Same Ole Me,1981,0.634,0.724,0.288,9.03e-06,7,0.144,-13.873,1,0.0296,109.431,4,0.403
+94,Step That Step,34,2018-08-13T19:43:14Z,168240,Sawyer Brown,Best Of,2008-05-06,0.262,0.61,0.518,0.0,4,0.0766,-15.036,1,0.0288,97.707,4,0.897
+95,I'm Gonna Hire A Wino To Decorate Our Home,28,2018-08-13T19:43:14Z,239386,David Frizzell,The Very Best Of David Frizzell,2009-01-01,0.537,0.612,0.462,0.0,7,0.276,-12.518,1,0.185,162.031,4,0.804
+96,(There's) No Gettin' over Me,39,2018-08-13T19:43:14Z,196293,Ronnie Milsap,The Essential Ronnie Milsap,2006-07-31,0.549,0.599,0.47,2.47e-05,6,0.304,-10.477,0,0.0337,200.631,4,0.811
+97,The Fireman,52,2018-08-13T19:43:14Z,154360,George Strait,Does Fort Worth Ever Cross Your Mind,1984-01-01,0.138,0.674,0.621,5.38e-05,2,0.0719,-13.429,1,0.0687,168.886,4,0.927
+98,Highway 40 Blues,30,2018-08-13T19:43:14Z,188893,Ricky Skaggs,16 Biggest Hits,1980-01-01,0.0582,0.653,0.657,0.00139,4,0.349,-11.966,1,0.0316,117.972,4,0.96
+99,You And I,30,2018-08-13T19:43:14Z,238426,Eddie Rabbitt,Best Of,2013-01-01,0.233,0.488,0.305,0.000539,5,0.113,-13.194,1,0.0281,82.006,4,0.171

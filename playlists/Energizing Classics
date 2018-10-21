@@ -1,0 +1,49 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,Don't Stop Me Now - Remastered,75,2015-05-13T09:57:18Z,209413,Queen,Jazz (Deluxe Remastered Version),1978-11-10,0.0488,0.559,0.855,0.000681,5,0.68,-5.077,1,0.186,156.311,4,0.605
+1,Eye of the Tiger,52,2015-05-13T09:57:18Z,245640,Survivor,The Best Of Survivor,2006,0.146,0.824,0.556,0.000394,0,0.0839,-10.711,0,0.033,108.858,4,0.566
+2,P.Y.T. (Pretty Young Thing),62,2015-05-13T09:57:18Z,239026,Michael Jackson,Thriller,1982-11-30,0.172,0.894,0.67,0.000362,11,0.0691,-9.406,0,0.0474,127.208,4,0.961
+3,Welcome To The Jungle,75,2015-05-13T09:57:18Z,273600,Guns N' Roses,Appetite For Destruction,1987-01-01,0.0326,0.445,0.955,0.284,8,0.317,-8.027,1,0.0856,123.343,4,0.336
+4,Don't Stop Believin',79,2015-05-13T09:57:18Z,250986,Journey,Escape,1981,0.127,0.5,0.748,0.0,4,0.447,-9.072,1,0.0363,118.852,4,0.514
+5,Hungry Like The Wolf,58,2015-05-13T09:57:18Z,209546,Duran Duran,Greatest,1998-11-09,0.0252,0.664,0.888,0.0,7,0.216,-5.161,1,0.067,127.369,4,0.605
+6,Born to Run,71,2015-05-13T09:57:18Z,269920,Bruce Springsteen,Born To Run,1975-08-25,0.00501,0.27,0.944,2.05e-05,4,0.116,-4.199,1,0.0975,146.347,4,0.606
+7,Barracuda,56,2015-05-13T09:57:18Z,262506,Heart,The Essential Heart,2002-11-26,0.00293,0.538,0.908,0.124,4,0.123,-6.277,0,0.0435,137.416,4,0.665
+8,You Make My Dreams - Remastered,70,2015-05-13T09:57:18Z,187600,Daryl Hall & John Oates,The Very Best of Daryl Hall / John Oates,2001-01-23,0.13,0.749,0.484,0.137,5,0.0501,-9.944,1,0.0484,167.084,4,0.939
+9,Rebel Yell - Remastered,59,2015-05-13T09:57:18Z,286840,Billy Idol,Greatest Hits,2001-01-01,0.000466,0.534,0.694,0.0485,9,0.155,-9.296,0,0.0472,166.791,4,0.45
+10,Dancing Queen,73,2015-05-13T09:57:18Z,230693,ABBA,Arrival,1976,0.382,0.539,0.884,0.00166,9,0.76,-6.53,1,0.0403,100.812,4,0.752
+11,Let's Dance - 1999 Remastered Version,71,2015-05-13T09:57:18Z,457133,David Bowie,Let's Dance,1983-04-14,0.00388,0.619,0.703,0.205,10,0.163,-9.414,0,0.0525,115.043,4,0.709
+12,You Really Got Me,15,2015-05-13T09:57:18Z,133933,The Kinks,Kinks (Super Deluxe Edition),1964-10-02,0.0995,0.567,0.959,6.07e-05,8,0.1,-3.822,1,0.102,137.377,4,0.961
+13,Kiss,54,2015-05-13T09:57:18Z,226240,Prince,The Very Best Of Prince,2001-07-30,0.0135,0.898,0.271,0.00138,7,0.0461,-12.238,1,0.091,111.485,4,0.742
+14,Walk This Way,71,2015-05-13T09:57:18Z,220400,Aerosmith,Toys In The Attic,1975,0.0114,0.653,0.73,1.03e-05,5,0.0754,-10.613,1,0.043,108.705,4,0.894
+15,Rock the Casbah - Remastered,72,2015-05-13T09:57:18Z,222426,The Clash,Combat Rock,1982,0.287,0.796,0.872,0.0,9,0.284,-6.722,0,0.0573,129.894,4,0.866
+16,We Will Rock You - Remastered,71,2015-05-13T09:57:18Z,122066,Queen,News Of The World (Deluxe Remastered Version),1977-10-28,0.688,0.692,0.488,0.0,11,0.4,-7.282,0,0.104,81.4,4,0.51
+17,Rock And Roll All Nite,74,2015-05-13T09:57:18Z,168826,KISS,Dressed To Kill,1975-03-19,0.0551,0.657,0.932,0.0,1,0.047,-5.819,1,0.0992,144.751,4,0.888
+18,Come On Eileen,72,2015-05-13T09:57:18Z,287306,Dexys Midnight Runners,Too Rye Ay,1982-08,0.648,0.45,0.658,3.14e-06,2,0.264,-7.064,1,0.0472,106.799,4,0.781
+19,Cold as Ice - 2008 Remastered Version,56,2015-05-13T09:57:18Z,200026,Foreigner,No End In Sight: The Very Best Of Foreigner,2008-07-08,0.0594,0.554,0.708,2.72e-06,3,0.143,-5.318,0,0.0271,131.157,4,0.512
+20,Any Way You Want It,70,2015-05-13T09:57:18Z,201693,Journey,Departure,1980,0.00251,0.529,0.932,0.00109,7,0.136,-7.501,1,0.0488,138.158,4,0.571
+21,We're Not Gonna Take It (Remastered Album Version),11,2015-05-13T09:57:18Z,219906,Twisted Sister,Stay Hungry [Deluxe 25th Anniversary Edition],2009-06-29,0.00508,0.498,0.811,0.000131,4,0.0633,-9.217,1,0.0428,149.025,4,0.949
+22,We Got The Beat - Single Mix,53,2015-05-13T09:57:18Z,151866,The Go-Go's,Return To The Valley Of The Go-Go's,1994-10-18,0.0496,0.596,0.949,0.0231,1,0.0417,-8.889,0,0.0356,151.526,4,0.646
+23,Runnin' Down A Dream,66,2015-05-13T09:57:18Z,264333,Tom Petty and the Heartbreakers,Anthology: Through The Years,2000-01-01,0.00072,0.467,0.955,0.426,9,0.494,-6.043,1,0.0462,169.776,4,0.68
+24,You Spin Me Round (Like a Record),34,2015-05-13T09:57:18Z,196800,Dead Or Alive,Youthquake,1985-09-05,0.006,0.554,0.851,0.0242,6,0.405,-10.526,0,0.0334,128.103,4,0.96
+25,Superstition,67,2015-05-13T09:57:18Z,244826,Stevie Wonder,Number 1's,2007-01-01,0.0182,0.648,0.751,0.000401,8,0.0418,-8.582,1,0.0806,100.437,4,0.863
+26,Another One Bites The Dust - Remastered 2011,74,2015-05-13T09:57:18Z,214653,Queen,The Game (Deluxe Remastered Version),1980-06-27,0.115,0.951,0.53,0.179,5,0.17,-6.594,0,0.178,109.979,4,0.699
+27,Y.M.C.A. - Single Version,12,2015-05-13T09:57:18Z,225133,Village People,Disco Gold,2005-01-01,0.105,0.751,0.876,0.0,6,0.182,-7.957,1,0.0702,126.495,4,0.694
+28,Mony Mony,56,2015-05-13T09:57:18Z,300213,Billy Idol,The Very Best Of Billy Idol: Idolize Yourself,2008-01-01,0.004,0.701,0.758,0.0,1,0.13,-5.568,1,0.0405,135.188,4,0.344
+29,Just What I Needed,69,2015-05-13T09:57:18Z,225626,The Cars,The Cars,1978-06-06,0.0152,0.619,0.579,6.4e-05,4,0.0858,-9.307,1,0.0473,127.224,4,0.69
+30,Message In A Bottle,44,2015-05-13T09:57:18Z,290600,The Police,Message In A Box,1993-01-01,0.0552,0.58,0.809,2.53e-05,1,0.326,-7.734,0,0.0408,151.135,4,0.816
+31,Walking On Sunshine,79,2015-05-13T09:57:18Z,238733,Katrina & The Waves,Katrina & The Waves,1985,0.0116,0.596,0.869,0.173,10,0.0678,-11.97,1,0.037,109.902,4,0.944
+32,Kickstart My Heart,57,2015-05-13T09:57:18Z,284026,Mötley Crüe,The Greatest Hits,2009,0.00111,0.474,0.977,0.00298,7,0.201,-3.839,0,0.176,89.494,4,0.236
+33,September,18,2015-05-13T09:57:18Z,215093,"Earth, Wind & Fire","The Best Of Earth, Wind & Fire Vol.1",1978-11-23,0.162,0.693,0.825,0.00144,9,0.251,-7.308,1,0.0301,125.892,4,0.981
+34,Dancing In the Dark,75,2015-05-13T09:57:18Z,241306,Bruce Springsteen,Born In The U.S.A.,1984-06-04,0.0115,0.527,0.942,0.0,1,0.188,-5.64,0,0.0366,148.723,4,0.495
+35,Our House,46,2015-05-13T09:57:18Z,199826,Madness,Total Madness... The Very Best Of Madness,1997-01-01,0.0343,0.614,0.638,0.0001,0,0.137,-10.48,1,0.0499,121.564,4,0.714
+36,Never Gonna Give You Up,55,2015-05-13T09:57:18Z,212400,Rick Astley,Platinum & Gold Collection,2004-03-09,0.0262,0.695,0.976,2.41e-05,8,0.182,-6.982,1,0.0428,113.357,4,0.937
+37,Footloose,9,2015-05-13T09:57:18Z,220706,Kenny Loggins,"Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",1997-02-10,0.0819,0.546,0.895,1.42e-05,9,0.077,-7.189,1,0.0579,174.089,4,0.494
+38,Immigrant Song,61,2015-05-13T09:57:18Z,145066,Led Zeppelin,Led Zeppelin III,1970-10-05,0.00031,0.574,0.926,0.478,11,0.386,-10.79,1,0.0562,113.097,4,0.609
+39,Should I Stay or Should I Go - Remastered,70,2015-05-13T09:57:18Z,188240,The Clash,Hits Back,2013-08-23,0.0838,0.742,0.844,0.0,2,0.418,-6.441,1,0.111,113.371,4,0.85
+40,Centerfold,72,2015-05-13T09:57:18Z,216533,The J. Geils Band,Freeze Frame,1981,0.249,0.653,0.677,0.0,0,0.403,-12.244,1,0.0396,114.37,4,0.888
+41,You Can't Hurry Love,34,2015-05-13T09:57:18Z,175346,Phil Collins,"Hello, I Must Be Going",1982-11-17,0.0674,0.639,0.923,0.0,7,0.0879,-5.708,1,0.032,97.874,4,0.761
+42,Take On Me,85,2015-05-13T09:57:18Z,225280,a-ha,Hunting High And Low,1985-06-01,0.018,0.573,0.902,0.00125,6,0.0928,-7.638,0,0.054,84.412,4,0.876
+43,Don't You (Forget About Me),74,2015-05-13T09:57:18Z,260680,Simple Minds,Celebrate Greatest Hits,2013-03-22,0.0843,0.672,0.792,0.0605,2,0.302,-7.033,1,0.0264,111.277,4,0.683
+44,Dance to the Music,61,2015-05-13T09:57:18Z,179426,Sly & The Family Stone,Dance To The Music,1968-04-27,0.0168,0.703,0.529,0.000573,7,0.911,-11.112,1,0.1,128.057,4,0.772
+45,One Way Or Another - Live,35,2015-05-13T09:57:18Z,218760,Blondie,Live,1999-11-23,0.0155,0.225,0.96,2.18e-06,2,0.817,-5.41,1,0.202,160.961,4,0.492
+46,Wake Me Up Before You Go-Go,4,2015-05-13T09:57:18Z,231440,Wham!,If You Were There/The Best Of Wham,1997,0.1,0.607,0.794,0.0,0,0.0815,-5.156,1,0.0491,81.326,4,0.821
+47,Beat It - Single Version,68,2015-05-13T09:57:18Z,257906,Michael Jackson,Michael Jackson's This Is It,2009,0.0518,0.782,0.867,1.4e-05,3,0.218,-3.763,0,0.0487,138.859,4,0.896

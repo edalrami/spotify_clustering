@@ -1,0 +1,21 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,Dangerous Woman,80,2016-08-10T02:14:33Z,235946,Ariana Grande,Dangerous Woman,2016-05-20,0.0529,0.662,0.602,0.0,4,0.356,-5.369,0,0.0401,133.969,3,0.29
+1,"Jumpin', Jumpin'",72,2016-08-10T02:22:54Z,230200,Destiny's Child,The Writing's On The Wall,1999-07-26,0.00543,0.771,0.685,0.00157,1,0.0537,-4.639,1,0.0567,88.997,4,0.683
+2,Firework,74,2016-08-10T02:23:58Z,227880,Katy Perry,Katy Perry - Teenage Dream: The Complete Confection,2012-03-12,0.139,0.638,0.826,0.0,8,0.0803,-4.968,1,0.0479,124.072,4,0.649
+3,Boyfriend,65,2016-08-10T02:26:33Z,171333,Justin Bieber,Believe,2012-01-01,0.0358,0.717,0.55,0.00196,10,0.126,-6.019,0,0.0521,96.976,4,0.332
+4,Anaconda,66,2016-08-10T02:24:21Z,260240,Nicki Minaj,The Pinkprint (Deluxe),2014-12-15,0.0668,0.964,0.605,7.78e-06,9,0.214,-6.223,1,0.179,129.994,4,0.646
+5,Treat You Better,21,2016-08-10T02:18:10Z,187973,Shawn Mendes,Treat You Better,2016-06-03,0.128,0.448,0.817,0.0,10,0.105,-4.069,0,0.386,83.015,4,0.709
+6,Worth It,78,2016-08-10T02:15:29Z,224573,Fifth Harmony,Reflection (Deluxe),2015-01-30,0.063,0.884,0.765,7.04e-06,8,0.118,-3.865,1,0.0882,99.987,4,0.594
+7,Gone,53,2016-08-10T02:21:12Z,292000,*NSYNC,Celebrity,2001-07-24,0.43,0.704,0.409,0.0,11,0.109,-8.581,0,0.0597,113.863,4,0.495
+8,Me Too,40,2016-08-10T02:14:53Z,181240,Meghan Trainor,Thank You (Deluxe),2016-05-13,0.0963,0.934,0.694,1.21e-06,11,0.479,-5.849,0,0.1,123.822,4,0.835
+9,Poison,67,2016-08-10T02:28:08Z,261853,Bell Biv DeVoe,Poison,1990-01-01,0.00216,0.829,0.573,0.00432,6,0.612,-10.316,0,0.224,111.848,4,0.803
+10,Everybody (Backstreet's Back) - Extended Version,61,2016-08-10T02:20:32Z,287293,Backstreet Boys,Backstreet Boys,1996,0.00602,0.792,0.811,0.000155,10,0.224,-5.198,0,0.0367,108.054,4,0.509
+11,Confident,75,2016-08-10T02:16:12Z,205745,Demi Lovato,Confident (Deluxe Edition),2015-01-01,0.00182,0.606,0.763,0.000159,10,0.116,-6.197,0,0.0669,130.018,4,0.309
+12,Love Myself,76,2016-08-10T02:18:27Z,218773,Hailee Steinfeld,HAIZ,2016-02-26,0.0026,0.617,0.759,0.0,0,0.419,-6.785,0,0.0677,122.925,4,0.324
+13,Perfect,73,2016-08-10T02:19:28Z,230333,One Direction,Made In The A.M. (Deluxe Edition),2015-11-13,0.0598,0.647,0.823,0.0,2,0.119,-5.231,1,0.0762,99.933,4,0.396
+14,No Scrubs,81,2016-08-10T02:29:56Z,214400,TLC,Fanmail,1999-02-23,0.0251,0.743,0.675,0.000717,8,0.0685,-4.267,0,0.0953,92.909,4,0.59
+15,Love You Like A Love Song,73,2016-08-10T02:31:06Z,188453,Selena Gomez & The Scene,When The Sun Goes Down,2011-01-01,0.0761,0.858,0.678,0.0,1,0.0741,-3.87,0,0.0469,117.009,4,0.922
+16,S.O.S.,58,2016-08-10T02:33:34Z,153346,Jonas Brothers,Jonas Brothers,2007-08-07,0.000628,0.598,0.685,0.0,7,0.149,-3.873,1,0.0679,137.035,4,0.712
+17,Bye Bye Bye,73,2016-08-10T02:34:14Z,200400,*NSYNC,No Strings Attached,2000-03-21,0.031,0.61,0.926,0.0012,8,0.0821,-4.843,0,0.0479,172.638,4,0.861
+18,On My Mind,65,2016-08-10T02:34:36Z,213445,Ellie Goulding,Delirium (Deluxe),2015-11-13,0.258,0.702,0.705,5.93e-06,0,0.0879,-6.666,1,0.0543,154.911,4,0.743
+19,See You Again - Rock Mafia Remix,29,2016-08-10T02:32:26Z,196093,Miley Cyrus,Breakout,2008-01-01,0.00686,0.676,0.959,1.36e-05,9,0.123,-5.344,0,0.0613,138.986,4,0.806

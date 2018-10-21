@@ -1,0 +1,41 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,Mellow Blues,43,2017-11-02T13:09:58Z,163040,Sonny Thompson & Lula Reed,The Very Best Of,2010-12-01,0.53,0.79,0.341,0.87,2,0.0942,-10.016,1,0.0301,106.722,4,0.58
+1,Hello Central (Give Me Central),5,2017-11-02T13:09:58Z,176466,Lightnin' Hopkins,Hello Central: The Best Of Lightnin' Hopkins,1950,0.951,0.545,0.352,0.000336,8,0.137,-12.65,1,0.0323,69.293,4,0.369
+2,Booted,8,2017-11-02T13:09:58Z,182026,Rosco Gordon,A Complete Introduction To Chess (International Version),2010-01-01,0.888,0.734,0.499,0.0,4,0.388,-8.348,0,0.152,111.125,4,0.75
+3,Soft,6,2017-11-02T13:09:58Z,150906,Tiny Bradshaw,"The Henry Glover Story, Vol. 2 1951-61",2012-11-12,0.64,0.695,0.66,0.816,0,0.0814,-7.51,1,0.0407,82.523,4,0.784
+4,Safronia B,43,2017-11-02T13:09:58Z,144306,Calvin Boze,Jump Blue: Rockin' The Jukes,1998-01-01,0.8,0.539,0.483,0.0341,8,0.314,-9.085,1,0.0573,167.484,4,0.864
+5,Best Wishes,42,2017-11-02T13:09:58Z,181253,Roy Milton,Best Of The Blues,2008-01-01,0.88,0.413,0.251,0.156,8,0.122,-16.919,1,0.0711,187.105,3,0.339
+6,Mary Lou,24,2017-11-02T13:09:58Z,153124,Young Jessie,"Jukebox Jam, Vol. 2",2013-11-11,0.725,0.699,0.892,0.0,0,0.453,-5.152,1,0.0732,120.593,4,0.968
+7,Sexy Ways,38,2017-11-02T13:09:58Z,152573,The Midnighters,Sexy Ways - 4 Track EP,2010-04-22,0.155,0.402,0.503,1.51e-06,8,0.0827,-9.35,1,0.0367,127.717,4,0.882
+8,Grandpa Can Boogie Too,5,2017-11-02T13:09:58Z,170736,Lil Greenwood,The Best of Rock & Roll (70 Rock & Roll Songs),2011-05-03,0.633,0.708,0.555,0.0,5,0.0782,-8.296,1,0.118,79.013,4,0.853
+9,"Hey, Miss Fannie - 2007 Remastered Version",43,2017-11-02T13:09:58Z,146000,The Clovers,Down In The Alley: The Best Of The Clovers,1991,0.757,0.613,0.279,0.0,1,0.0874,-13.187,1,0.0432,165.259,4,0.955
+10,Book Of Love - Single Version,16,2017-11-02T13:09:58Z,138986,The Monotones,Chess Chartbusters Vol. 2,2008-01-01,0.571,0.484,0.681,2.98e-06,10,0.454,-8.539,1,0.458,198.87,4,0.521
+11,Thinking And Drinking,38,2017-11-02T13:09:58Z,144786,Amos Milburn,Jukebox Hits,2008-09-29,0.983,0.76,0.323,0.000475,2,0.134,-12.06,1,0.125,110.369,4,0.648
+12,Deacon Rides Again,40,2017-11-02T13:09:58Z,167866,Big Jay McNeely,The Best Of (1948-1955),2010-12-01,0.814,0.561,0.669,0.000101,1,0.101,-4.156,1,0.0339,93.153,4,0.806
+13,Sh-Boom - Single Version,48,2017-11-02T13:09:58Z,144319,The Chords,Atlantic 60th: At The Hop,2007-10-30,0.851,0.667,0.467,0.0,5,0.272,-8.991,1,0.0499,136.676,4,0.905
+14,Kansas City,5,2017-11-02T13:09:58Z,143840,Wilbert Harrison,Rockabilly Madness,2007-10-09,0.788,0.671,0.283,0.513,1,0.11,-14.415,1,0.0317,117.666,4,0.883
+15,Well All Right,5,2017-11-02T13:09:58Z,150280,Big Joe Turner,Big Joe Turner - Morning Glories,2013-02-06,0.62,0.576,0.504,6.19e-06,0,0.296,-10.461,1,0.0475,80.317,4,0.845
+16,"Easy, Easy Baby",5,2017-11-02T13:09:58Z,158973,Varetta Dillard,200 Blues Classics,2011-04-12,0.79,0.732,0.536,0.0,10,0.053,-2.664,1,0.0316,118.791,4,0.744
+17,I Don't Know,37,2017-11-02T13:09:58Z,191173,Willie Mabon,The Chess Blues-Rock Songbook,1997-01-01,0.831,0.708,0.298,0.00012,8,0.117,-10.329,1,0.194,109.067,4,0.777
+18,The One I Love,0,2017-11-02T13:09:58Z,126140,Ray Agee,Black Night is Gone,2012-05-31,0.931,0.649,0.351,3.64e-06,0,0.162,-14.866,1,0.0463,77.925,4,0.895
+19,Hurts Me To My Heart,5,2017-11-02T13:09:58Z,181253,Faye Adams,200 #1 Hits Of The 1950s,2010-12-01,0.559,0.551,0.44,0.0,8,0.115,-8.854,1,0.0517,83.682,4,0.867
+20,Lovin' Machine - Remastered,38,2017-11-02T13:09:58Z,147434,Wynonie Harris,Essential Recordings (Remastered),2014-04-19,0.297,0.566,0.848,0.0,8,0.0681,-4.499,1,0.0918,162.518,4,0.884
+21,Upstairs Boogie,37,2017-11-02T13:09:58Z,136560,Lil Son Jackson,The Complete Imperial Recordings Of Lil' Son Jackson,1995-06-08,0.883,0.593,0.438,0.0167,10,0.317,-13.451,0,0.028,130.225,3,0.758
+22,Bip Bam,5,2017-11-02T13:09:58Z,167785,The Drifters,Bip Bam,2013-11-15,0.875,0.802,0.333,0.0,3,0.092,-8.367,1,0.0725,136.651,4,0.892
+23,I Wanna Know,35,2017-11-02T13:09:58Z,137706,The Du Droppers,"Talk That Talk ! - The Ultimate Du Droppers, 1952 - 1955",2012-12-10,0.799,0.611,0.486,0.0,0,0.125,-12.781,0,0.0576,79.284,4,0.887
+24,5-10-15 Hours,43,2017-11-02T13:09:58Z,195466,Ruth Brown,Ruth Brown,1957,0.765,0.859,0.244,0.0,5,0.126,-13.397,1,0.0562,121.962,4,0.875
+25,The Storm (01-16-52),37,2017-11-02T13:09:58Z,187333,Esther Phillips,1951-1952,2003,0.948,0.542,0.467,0.000596,3,0.19,-7.453,0,0.0478,66.012,3,0.293
+26,Port Of Rico,15,2017-11-02T13:09:58Z,164960,Illinois Jacquet,Verve: The Sound Of America: The Singles Collection,2013-01-01,0.751,0.767,0.17,0.203,0,0.095,-14.738,1,0.0617,127.152,4,0.573
+27,Don't Be Angry,38,2017-11-02T13:09:58Z,143800,Nappy Brown,Don't Be Angry (Savoy Singles 1954 - 1956),2012-02-25,0.742,0.37,0.606,0.0015,0,0.199,-6.527,1,0.0374,163.967,4,0.956
+28,I Don't Hurt Anymore,10,2017-11-02T13:09:58Z,191253,Dinah Washington,Gold,2007-01-01,0.841,0.527,0.466,0.0,9,0.177,-7.129,0,0.0293,78.333,4,0.538
+29,How Many More Years,6,2017-11-02T13:09:58Z,162066,Howlin' Wolf,The Sun Years,2000-03-14,0.888,0.677,0.444,0.00821,7,0.147,-17.602,1,0.136,109.829,4,0.53
+30,Lawdy Miss Clawdy,44,2017-11-02T13:09:58Z,108826,Lloyd Price,Mr Personality,2014-01-27,0.799,0.439,0.859,0.786,3,0.278,-4.847,1,0.0419,131.657,4,0.842
+31,Pink Champagne - Single Version,4,2017-11-02T13:09:58Z,182693,Joe Liggins & The Honeydrippers,Specialty Profiles: Sam Cooke & The Soul Stirrers,2006-01-01,0.877,0.628,0.37,0.00397,5,0.111,-9.996,1,0.0286,99.248,4,0.784
+32,All Night Baby,36,2017-11-02T13:09:58Z,186173,The Robins,"I Must Be Dreamin' - The Robins on RCA, Crown and Spark",2011-02-07,0.622,0.475,0.89,2.29e-06,3,0.226,-6.974,0,0.102,123.519,4,0.436
+33,Good Rockin' Daddy,38,2017-11-02T13:09:58Z,148666,Etta James,Miss Etta James: The Complete Modern And Kent Recordings,2013-01-02,0.854,0.745,0.398,0.0,3,0.324,-6.75,1,0.0378,114.467,4,0.65
+34,Hound Dog,39,2017-11-02T13:09:58Z,172266,Big Mama Thornton,Precious & Rare: Big Mama Thornton,2013-02-11,0.857,0.664,0.59,3.05e-05,11,0.668,-6.141,1,0.0874,73.926,4,0.88
+35,Castle Rock,14,2017-11-02T13:09:58Z,167960,Johnny Hodges,The Jazz Collection,2013-08-18,0.858,0.694,0.486,0.0283,8,0.113,-8.681,1,0.0322,170.949,4,0.683
+36,Smooth Sailing,16,2017-11-02T13:09:58Z,187253,Ella Fitzgerald,Ella Fitzgerald,2004,0.826,0.541,0.377,0.0,10,0.064,-9.95,0,0.0583,117.965,4,0.596
+37,It Ain't The Meat,36,2017-11-02T13:09:58Z,156680,The Swallows,50s Doo Wop Essentials,2009-06-01,0.907,0.664,0.441,0.0,10,0.139,-8.473,1,0.066,147.149,4,0.855
+38,Rag Mop - Single Version,7,2017-11-02T13:09:58Z,169200,Lionel Hampton,"Jazz For Kids: Sing, Clap, Wiggle, And Shake",2004-01-01,0.417,0.713,0.516,0.0,0,0.119,-5.417,1,0.0352,94.589,4,0.88
+39,Bo Diddley,10,2017-11-02T13:09:58Z,168000,Bo Diddley,His Best,1997-01-01,0.393,0.826,0.753,0.0,0,0.208,-8.223,1,0.0572,105.473,4,0.48

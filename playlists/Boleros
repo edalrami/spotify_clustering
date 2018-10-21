@@ -1,0 +1,61 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,Sabor a Mí,60,2018-09-14T23:54:12Z,168400,Eydie Gormé,Canta En Español Con Los Panchos,1964,0.809,0.651,0.376,1.72e-06,8,0.13,-11.32,1,0.0435,97.011,4,0.593
+1,Sin Ti,50,2018-09-14T23:54:12Z,143853,Trios de Mexico,Los Mejores Temas Con Trio,2014-02-24,0.835,0.802,0.523,1.26e-06,2,0.0817,-6.479,1,0.0383,105.071,4,0.631
+2,Besame Mucho,7,2018-09-14T23:54:12Z,181960,Consuelo Velázquez,"Boleros para Enamorarse, Vol. 2",2014-04-01,0.701,0.707,0.408,0.0,5,0.105,-12.776,0,0.0366,126.399,4,0.843
+3,El Reloj,4,2018-09-14T23:54:12Z,157186,Los Panchos,Los 50 Mejores Boleros,2016-06-23,0.854,0.821,0.348,0.0,3,0.0854,-8.897,0,0.0433,112.053,4,0.714
+4,Gema,2,2018-09-14T23:54:12Z,154080,Los Dandys,Brillantes- Los Dandys,2007-11-29,0.757,0.671,0.38,0.0,5,0.102,-10.267,1,0.0293,97.757,4,0.744
+5,La Copa Rota,49,2018-09-14T23:54:12Z,157760,José Feliciano,La Historia De Jose Feliciano,2006-08-18,0.731,0.66,0.515,0.0,6,0.112,-7.136,0,0.08,105.894,4,0.639
+6,Historia de un Amor,46,2018-09-14T23:54:12Z,168866,Leo Marini,Latin Trumpets - Bolero,2008-10-14,0.717,0.612,0.233,0.000459,7,0.123,-12.989,0,0.112,119.105,4,0.749
+7,Rondando Tu Esquina,51,2018-09-14T23:54:12Z,158333,Julio Jaramillo,15 Años De Exitos,1993,0.868,0.877,0.29,0.0,3,0.267,-18.313,0,0.0532,109.316,4,0.81
+8,Que Nadie Sepa Mi Sufrir,47,2018-09-14T23:54:12Z,190400,Los Tres Reyes,The Golden Record Vol. 2,2011-04-05,0.756,0.648,0.346,8.6e-06,1,0.14,-11.387,0,0.0975,155.868,4,0.76
+9,Piel Canela,48,2018-09-14T23:54:12Z,153520,Los Tecolines,XEW La Voz de America Latina,2014-09-23,0.589,0.854,0.456,0.0,5,0.252,-9.579,1,0.041,119.289,4,0.906
+10,Perfidia,53,2018-09-14T23:54:12Z,140706,Nat King Cole,A Mis Amigos,1959-09-13,0.707,0.504,0.286,2.55e-06,5,0.112,-14.197,0,0.0466,97.916,4,0.593
+11,Cien años,5,2018-09-14T23:54:12Z,202640,Pedro Infante,Colección Mitos Pedro Infante,2010-06-07,0.802,0.612,0.183,3.38e-06,7,0.112,-13.277,1,0.0329,106.412,4,0.524
+12,Quizas Quizas Quizas,51,2018-09-14T23:54:12Z,172533,Los Panchos,Historia De Un Amor,1960,0.385,0.812,0.256,0.0,7,0.0729,-15.114,0,0.0515,118.36,4,0.911
+13,En Mi Viejo San Juan,43,2018-09-14T23:54:12Z,188773,Los Tres Reyes,The Golden Record Vol. 2,2011-04-05,0.688,0.674,0.394,8.28e-05,0,0.293,-11.036,1,0.0402,96.293,4,0.748
+14,El Loco,46,2018-09-14T23:54:12Z,172133,Los Panchos,Dos Idolos Cantando,1959,0.768,0.496,0.448,0.000291,7,0.13,-8.156,1,0.0313,115.284,4,0.519
+15,Payaso,2,2018-09-14T23:54:12Z,196226,Javier Solís,Javier Solis con Trio,2003-07-30,0.764,0.765,0.498,1.39e-05,9,0.139,-7.293,1,0.028,92.024,4,0.51
+16,La Barca,48,2018-09-14T23:54:12Z,197032,Los Tres Caballeros,Los Tres Caballeros,1994-09-28,0.908,0.666,0.492,0.000104,4,0.142,-5.341,1,0.0333,94.504,4,0.829
+17,Te Odio y Te Quiero,48,2018-09-14T23:54:12Z,185346,Julio Jaramillo,"Sus 50 Mejores Boleros, Valses, Canciones...",2016-10-03,0.837,0.835,0.304,0.00156,5,0.13,-12.474,1,0.0445,111.581,4,0.843
+18,Lagrimas Negras,48,2018-09-14T23:54:12Z,227906,Compay Segundo,Coleccion,2003,0.527,0.544,0.583,1.3e-05,11,0.088,-7.707,0,0.0613,90.885,4,0.617
+19,Cerca del Mar,0,2018-09-14T23:54:12Z,180013,Los Dandys,Brillantes- Los Dandys,2007-11-29,0.95,0.531,0.296,0.00294,5,0.114,-13.464,1,0.033,92.335,4,0.677
+20,Inolvidable,1,2018-09-14T23:54:12Z,193200,Tito Rodriguez,Boleros Del Ayer,2013-01-22,0.819,0.357,0.43,0.000538,9,0.206,-7.817,0,0.0312,82.422,4,0.354
+21,Toda Una Vida,41,2018-09-14T23:54:12Z,155773,Chavela Vargas,La Llorona,1994-11-04,0.916,0.547,0.0421,0.0,4,0.177,-15.71,0,0.0518,87.105,4,0.301
+22,Sombras nada mas,41,2018-09-14T23:54:12Z,160720,Felipe Pirela,"Mi Historia Musical - Felipe Pirela, El Bolerista de América",2008-06-11,0.425,0.598,0.492,0.0,7,0.327,-8.027,1,0.0339,113.514,4,0.846
+23,Estoy Perdido,48,2018-09-14T23:54:12Z,197306,Los Tres Ases,Los Tres Ases,2004-09-24,0.791,0.627,0.188,0.0,11,0.325,-11.898,1,0.0383,96.992,4,0.44
+24,No Me Platiques Mas,1,2018-09-14T23:54:12Z,192967,Lucho Gatica,Por Siempre Boleros,2011-03-01,0.695,0.245,0.355,0.0,8,0.125,-13.039,1,0.0427,85.56,4,0.398
+25,"Novia Mia, Novia Mia",45,2018-09-14T23:54:12Z,163805,Los Galantes,Novia Mia Novia Mia,2009-09-08,0.443,0.602,0.653,0.0,4,0.325,-5.28,1,0.0383,107.23,4,0.734
+26,Jacaranda,41,2018-09-14T23:54:12Z,176889,Los Santos,Los Santos,1998-05-07,0.605,0.741,0.321,3.52e-06,9,0.117,-8.134,1,0.032,91.0,4,0.495
+27,La Última Noche,33,2018-09-14T23:54:12Z,151320,Pedro Vargas,"Tesoros de Colección - Las Estrellas de la Hora Azul, Vol. 2",2015-08-28,0.969,0.555,0.332,0.031,0,0.161,-9.979,1,0.0339,128.417,4,0.655
+28,María Bonita,15,2018-09-14T23:54:12Z,201413,Agustín Lara,Las Estrellas Del Fonografo RCA Victor,1968,0.829,0.322,0.326,1.09e-06,9,0.198,-12.433,1,0.0521,188.734,4,0.49
+29,No me platiques,45,2018-09-14T23:54:12Z,198080,Pedro Infante,Boleros que Llegan al Corazón,2015-03-24,0.94,0.445,0.244,4.14e-05,7,0.32,-13.493,1,0.0441,94.418,4,0.333
+30,Piensa en Mí,10,2018-09-14T23:54:12Z,164000,Agustín Lara,20 Auténticos Éxitos Originales - Agustín Lara,2013-11-18,0.339,0.617,0.297,1.03e-05,7,0.319,-10.867,1,0.0317,110.999,4,0.673
+31,Lamento borincano - Remastered,40,2018-09-14T23:54:12Z,247095,Victor Jara,Te recuerdo Amanda (Remastered),2014-06-17,0.612,0.742,0.581,3.11e-05,10,0.162,-10.789,1,0.0339,133.268,4,0.803
+32,Cómo Fue?,43,2018-09-14T23:54:12Z,176773,Beny Moré,Canciones de Amor,2007-02-06,0.417,0.576,0.406,0.274,10,0.221,-5.806,1,0.0336,97.949,4,0.298
+33,Aquellos Ojos Verdes,45,2018-09-14T23:54:12Z,186862,Paquita La Del Barrio,45 Años Cantandole a los Inutiles,2015-11-12,0.614,0.613,0.485,1.38e-05,4,0.184,-4.63,0,0.0243,99.419,4,0.463
+34,En la Orilla del Mar,43,2018-09-14T23:54:12Z,173866,Bienvenido Granda,Cuando Salí de Cuba,2012-08-24,0.911,0.491,0.253,0.000586,3,0.151,-10.842,1,0.0319,104.212,4,0.669
+35,Bonita,43,2018-09-14T23:54:12Z,193106,Luis Arcaraz Y Su Orquesta,Lo Mejor de lo Mejor de RCA Victor,2000-12-01,0.985,0.476,0.245,0.000822,5,0.257,-11.151,1,0.0316,90.023,4,0.362
+36,Mar y Cielo,7,2018-09-14T23:54:12Z,160160,Hermanos Martinez Gil,Personalidad - Los Grandes Trios,2005-04-22,0.702,0.743,0.344,0.0,2,0.179,-7.209,0,0.126,111.304,4,0.72
+37,Plazos Traicioneros,41,2018-09-14T23:54:12Z,173226,Celia Cruz,Fania Classics,2013-06-11,0.879,0.445,0.221,0.00133,9,0.148,-12.534,0,0.0446,174.152,4,0.352
+38,Total,44,2018-09-14T23:54:12Z,174213,Celio Gonzalez,Las Estrellas De La Matancera,2013-04-23,0.708,0.525,0.277,0.0,0,0.125,-12.129,0,0.0383,108.949,4,0.559
+39,Seguiré Mi Viaje,36,2018-09-14T23:54:12Z,148653,Pepe Jara,Tesoros de Colección - Las Estrellas de la Hora Azul,2014-07-29,0.915,0.692,0.311,1.33e-05,7,0.107,-9.27,1,0.0397,92.84,4,0.677
+40,Conozco La Verdad,40,2018-09-14T23:54:12Z,169693,Carmen Delia Dipini,Carmen Delia Dipini con Johnny Rodriguez y su Trio,2009,0.902,0.722,0.191,0.00666,7,0.304,-11.21,1,0.0465,108.331,4,0.767
+41,Dos Gardenias,41,2018-09-14T23:54:12Z,183182,Daniel Santos,20 Exitos- Daniel Santos,1996-01-24,0.916,0.768,0.304,0.0898,5,0.501,-7.898,0,0.0447,116.054,4,0.948
+42,Pagina Blanca,45,2018-09-14T23:54:12Z,190386,Los Fantasmas,Antología...Trios,2002,0.864,0.56,0.479,4.08e-05,7,0.185,-7.279,1,0.0283,98.812,4,0.918
+43,Candilejas,39,2018-09-14T23:54:12Z,165186,Trio Delfines,Trio Delfines,1998-04-27,0.484,0.612,0.402,8.44e-05,7,0.118,-6.475,1,0.0337,124.236,4,0.699
+44,Cancionero,36,2018-09-14T23:54:12Z,126413,Alvaro Carrillo,15 Exitos De Alvaro Carillo Con Sus Mejors,1992-03-24,0.959,0.374,0.108,5.04e-05,2,0.104,-15.849,1,0.0561,177.727,3,0.463
+45,Prisionero del mar,39,2018-09-14T23:54:12Z,183560,Los Tecolines,Los Tecolines - Bolero Romantico,2009-08-18,0.926,0.711,0.289,0.088,4,0.129,-17.284,1,0.0339,128.464,4,0.79
+46,Se Acabó El Juguetito,46,2018-09-14T23:54:12Z,146146,Julio Jaramillo,Imprescindibles,2018-01-13,0.946,0.733,0.31,6.96e-05,5,0.185,-14.075,1,0.0582,113.592,4,0.934
+47,Silencio,49,2018-09-14T23:54:12Z,278640,Ibrahim Ferrer,Ibrahim Ferrer (Buena Vista Social Club presents),2016-04-15,0.883,0.335,0.306,0.00577,7,0.102,-10.559,1,0.0277,79.609,4,0.268
+48,Me Dices Que Te Vas,39,2018-09-14T23:54:12Z,193946,Cheo Feliciano,Son Inolvidables: Cheo Feliciano y la R. Venezolana,1996-11-15,0.683,0.769,0.303,0.000114,0,0.176,-14.375,1,0.0367,112.211,4,0.643
+49,Hipócrita,37,2018-09-14T23:54:12Z,169240,Fernando Fernández,Hipócrita y Otros Éxitos de Fernando Fernández,2014-06-20,0.785,0.748,0.394,0.000855,7,0.206,-11.145,1,0.11,119.837,4,0.574
+50,Noche de ronda - Remastered,39,2018-09-14T23:54:12Z,137482,Toña La Negra,Noche de Ronda (Remastered),2017-12-04,0.825,0.531,0.235,0.000104,6,0.377,-11.595,1,0.122,141.765,3,0.514
+51,Loca Pasión,41,2018-09-14T23:54:12Z,171720,Los Jaibos,Loca Pasión,2000-08-01,0.826,0.668,0.431,0.00158,5,0.151,-9.39,1,0.0304,113.667,1,0.779
+52,Las Cuarenta,42,2018-09-14T23:54:12Z,187626,Rolando Laserie,El Guapo De La Cancion,2014-10-08,0.753,0.643,0.279,0.0,2,0.262,-11.617,0,0.0693,99.606,4,0.796
+53,Estúpido Cupido,40,2018-09-14T23:54:12Z,153666,Hermanos Martinez Gil,15 Éxitos de los Hermanos Martínez Gil,2012,0.151,0.856,0.128,1.3e-05,10,0.0876,-23.137,1,0.114,128.096,4,0.717
+54,Perfume de Gardênia,30,2018-09-14T23:54:12Z,179986,Nelson Ned,El Romântico de América,1993-01-01,0.539,0.582,0.367,9.98e-06,2,0.356,-12.249,0,0.0281,103.363,4,0.636
+55,Envidia,37,2018-09-14T23:54:12Z,189000,Vicentico Valdés,Mi Diario Musical,2009,0.806,0.618,0.261,2.62e-05,10,0.092,-12.86,1,0.0358,83.676,4,0.552
+56,Es mi reina,43,2018-09-14T23:54:12Z,150733,Johnny Albino,"25 Éxitos De Johnny Albino, La Voz Del Bolero",2011-08-09,0.602,0.646,0.519,0.0,0,0.238,-9.592,1,0.0724,135.915,4,0.771
+57,Talisman,34,2018-09-14T23:54:12Z,196138,Antonio Badu,Frente a Frente,2015-02-20,0.836,0.769,0.261,0.0345,10,0.0853,-12.768,1,0.0327,104.976,4,0.606
+58,Concha Nacar-Limosna,38,2018-09-14T23:54:12Z,179560,Elvira Rios,Agustín Lara y sus Grandes Intérpretes,2012-09-28,0.977,0.432,0.108,0.00299,5,0.108,-18.701,1,0.0465,91.311,4,0.157
+59,Señora tentación,35,2018-09-14T23:54:12Z,210413,Hermanas Aguila,Antología. . .Hermanas Aguila,2002-09-30,0.964,0.49,0.127,0.0,2,0.0987,-12.161,0,0.0583,102.653,4,0.311

@@ -1,0 +1,101 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,"Luckenbach, Texas (Back to the Basics of Love)",59,2018-08-13T19:42:01Z,200493,Waylon Jennings,Ultimate Waylon Jennings,2004-03-22,0.704,0.684,0.45,0.00191,7,0.243,-10.422,1,0.0332,102.902,4,0.639
+1,One Of These Days - Remastered,43,2018-08-13T19:42:01Z,183720,Emmylou Harris,Elite Hotel (Expanded & Remastered),1975,0.447,0.663,0.387,3.18e-05,10,0.121,-9.271,1,0.03,124.671,4,0.681
+2,"Bright Lights, Big City",35,2018-08-13T19:42:01Z,156133,Sonny James,Capitol Collectors Series,2006-01-01,0.724,0.708,0.463,0.000222,5,0.0904,-13.748,1,0.0436,117.262,4,0.961
+3,Don't It Make My Brown Eyes Blue - 2001 Digital Remaster,49,2018-08-13T19:42:01Z,157933,Crystal Gayle,Crystal Gayle: The Hits,2007-01-01,0.714,0.675,0.49,0.000313,6,0.113,-7.818,1,0.0395,84.409,4,0.353
+4,Country Is,33,2018-08-13T19:42:01Z,131400,Tom T. Hall,20th Century Masters: The Millennium Collection: Best Of Tom T. Hall,2000-01-01,0.805,0.508,0.537,0.000112,0,0.085,-7.156,1,0.0288,146.144,4,0.941
+5,"Midnight, Me And The Blues",25,2018-08-13T19:42:01Z,170200,Mel Tillis,All His Great Hits,1995-01-01,0.864,0.626,0.28,0.00175,3,0.165,-14.833,1,0.0332,132.389,4,0.776
+6,Take This Job and Shove It,53,2018-08-13T19:42:01Z,156666,Johnny Paycheck,Johnny Paycheck - 16 Biggest Hits,1971,0.556,0.763,0.364,2.02e-05,5,0.0792,-14.244,1,0.0559,137.132,4,0.715
+7,Rose Colored Glasses,50,2018-08-13T19:42:01Z,200493,John Conlee,Rose Colored Glasses,1988-01-01,0.476,0.518,0.404,0.0,8,0.103,-14.134,1,0.0302,96.146,3,0.436
+8,Till The End,32,2018-08-13T19:42:01Z,166000,Vern Gosdin,Till The End,1977,0.411,0.547,0.265,1.35e-06,9,0.109,-16.803,1,0.0249,93.106,4,0.385
+9,Rhinestone Cowboy,31,2018-08-13T19:42:01Z,209306,Glen Campbell,Greatest Hits,2009-01-01,0.118,0.601,0.711,0.00163,0,0.43,-3.998,1,0.0255,115.168,4,0.719
+10,"Louisiana Woman, Mississippi Man",56,2018-08-13T19:42:01Z,151731,Conway Twitty,"Louisiana Woman, Mississippi Man",1973-01-01,0.477,0.62,0.711,0.000168,1,0.0812,-6.943,1,0.035,98.263,4,0.96
+11,The Grand Tour,53,2018-08-13T19:42:01Z,187373,George Jones,George Jones - 16 Biggest Hits,1972,0.944,0.458,0.275,0.0194,10,0.271,-11.498,1,0.0261,88.718,4,0.449
+12,Rose Garden - Single Version,57,2018-08-13T19:42:01Z,175866,Lynn Anderson,Rose Garden,1971,0.168,0.589,0.501,0.0,0,0.0741,-11.665,1,0.031,131.064,4,0.969
+13,Heaven's Just A Sin Away,29,2018-08-13T19:42:01Z,146466,The Kendalls,Heaven's Just A Sin Away,2005,0.775,0.56,0.593,0.0,6,0.0917,-7.622,1,0.0313,154.311,4,0.862
+14,'Til I Get It Right,35,2018-08-13T19:42:01Z,157933,Tammy Wynette,The Essential Tammy Wynette,2013-08-20,0.843,0.528,0.146,0.000356,0,0.101,-13.271,1,0.0288,133.894,4,0.336
+15,It Must Be Love - Single Version,33,2018-08-13T19:42:01Z,146733,Don Williams,Don Williams 20 Greatest Hits,1987-01-01,0.172,0.921,0.384,1.03e-06,5,0.0748,-17.658,1,0.0714,110.852,4,0.966
+16,Ridin' My Thumb To Mexico,34,2018-08-13T19:42:01Z,126200,Johnny Rodriguez,The Best Of Johnny Rodriguez 20th Century Masters The Millennium Collection,2006-01-01,0.966,0.623,0.331,4.56e-06,1,0.244,-9.349,1,0.0287,90.308,4,0.689
+17,Goin' Steady,26,2018-08-13T19:42:01Z,125266,Faron Young,Golden Hits,1995-01-01,0.437,0.48,0.436,0.0,0,0.239,-12.947,1,0.0338,165.717,4,0.939
+18,(If Loving You Is Wrong) I Don't Want To Be Right,32,2018-08-13T19:42:01Z,185013,Barbara Mandrell,Ultimate Collection: Barbara Mandrell,2001-01-01,0.038,0.628,0.536,1.23e-05,4,0.115,-10.905,0,0.0324,74.862,4,0.704
+19,Shadows In The Moonlight,27,2018-08-13T19:42:01Z,209733,Anne Murray,The Ultimate Collection (Deluxe Edition),2017-09-29,0.00368,0.634,0.686,2.93e-05,0,0.116,-5.86,1,0.0252,104.676,4,0.457
+20,Love In The Hot Afternoon,28,2018-08-13T19:42:01Z,201240,Gene Watson,Ultimate Collection: Gene Watson,2001-01-01,0.518,0.577,0.405,0.0,4,0.106,-11.211,1,0.038,112.791,3,0.296
+21,"When You're Hot, You're Hot",44,2018-08-13T19:42:01Z,139560,Jerry Reed,The Essential Jerry Reed,1995,0.354,0.788,0.832,0.0,4,0.1,-10.783,1,0.0981,101.045,4,0.91
+22,Some Broken Hearts Never Mend - Single Version,40,2018-08-13T19:42:01Z,168360,Don Williams,Don Williams 20 Greatest Hits,1987-01-01,0.314,0.638,0.447,0.1,9,0.0727,-16.228,1,0.0276,97.534,4,0.81
+23,Paper Roses,32,2018-08-13T19:42:01Z,158973,Marie Osmond,20th Century Masters: The Millennium Collection: Best of Donny & Marie Osmond,2002-01-01,0.32,0.367,0.506,1.53e-05,8,0.336,-10.522,1,0.0378,114.45,4,0.664
+24,Don't Take It Away - Single Version,32,2018-08-13T19:42:01Z,221400,Conway Twitty,Gold,2006-01-01,0.577,0.709,0.295,0.0,4,0.248,-16.319,1,0.0753,88.364,4,0.496
+25,Don't the Girls All Get Prettier at Closing Time,35,2018-08-13T19:42:01Z,177266,Mickey Gilley,16 Biggest Hits,1974,0.605,0.657,0.808,2.68e-05,0,0.291,-8.564,1,0.0445,89.918,4,0.926
+26,The Door Is Always Open,24,2018-08-13T19:42:01Z,163800,Dave and Sugar,Anthology,1998,0.499,0.455,0.479,0.0,5,0.121,-10.417,1,0.0272,188.482,4,0.826
+27,Every Which Way but Loose - 2009 Remastered Version,42,2018-08-13T19:42:01Z,171653,Eddie Rabbitt,Number One Hits,2009-10-05,0.458,0.598,0.483,7.88e-06,7,0.36,-7.474,1,0.0292,130.663,4,0.452
+28,This Time,37,2018-08-13T19:42:01Z,144733,Waylon Jennings,The Essential Waylon Jennings,2007-05-01,0.0884,0.448,0.597,0.285,0,0.149,-12.201,1,0.0381,98.494,4,0.514
+29,Out Of My Head And Back In My Bed - Single Version,21,2018-08-13T19:42:01Z,160920,Loretta Lynn,The Definitive Collection,2005-01-01,0.267,0.627,0.672,0.00237,3,0.746,-10.458,1,0.032,132.396,4,0.908
+30,Sleeping Single In A Double Bed - Single Version,31,2018-08-13T19:42:01Z,138853,Barbara Mandrell,Ultimate Collection: Barbara Mandrell,2001-01-01,0.445,0.705,0.66,0.0,0,0.065,-9.349,1,0.0322,139.379,4,0.972
+31,You Never Even Called Me By My Name,57,2018-08-13T19:42:01Z,314226,David Allan Coe,David Allan Coe - 16 Biggest Hits,1975,0.153,0.604,0.459,0.0,0,0.275,-13.19,1,0.0321,105.908,4,0.505
+32,Rub It In,31,2018-08-13T19:42:01Z,146800,Billy 'Crash' Craddock,"The Best Of Billy ""Crash"" Craddock",1996-01-01,0.422,0.756,0.532,1.02e-05,7,0.176,-11.143,1,0.0322,115.672,4,0.976
+33,Blue Skies,47,2018-08-13T19:42:01Z,213440,Willie Nelson,Stardust,1978,0.207,0.381,0.335,0.088,2,0.1,-12.797,1,0.0362,83.792,4,0.259
+34,I Can't Believe She Gives It All To Me - Single Version,27,2018-08-13T19:42:01Z,143373,Conway Twitty,Gold,2006-01-01,0.569,0.503,0.208,0.000122,2,0.112,-16.204,1,0.0284,91.758,4,0.387
+35,Marie Laveau,46,2018-08-13T19:42:01Z,190773,Bobby Bare,Super Hits,2004-06-18,0.867,0.599,0.535,1.44e-06,9,0.741,-10.522,1,0.0339,117.59,4,0.835
+36,Love Is Like a Butterfly,30,2018-08-13T19:42:01Z,140173,Dolly Parton,The Essential Dolly Parton,2011-01-07,0.721,0.686,0.187,0.0,8,0.12,-12.062,1,0.0391,89.616,4,0.772
+37,Two More Bottles of Wine - Remastered Version,39,2018-08-13T19:42:01Z,186333,Emmylou Harris,Quarter Moon In A Ten Cent Town (Expanded & Remastered),1978,0.251,0.764,0.736,0.000294,3,0.121,-7.571,1,0.0333,134.336,4,0.96
+38,Two Dollars in the Jukebox - 2008 Remastered Version,25,2018-08-13T19:42:01Z,142773,Eddie Rabbitt,Rocky Mountain Music,1976,0.067,0.759,0.621,0.000291,5,0.0623,-12.539,1,0.0314,134.319,4,0.921
+39,Amos Moses,50,2018-08-13T19:42:01Z,139760,Jerry Reed,The Essential Jerry Reed,1995,0.526,0.75,0.711,0.000653,2,0.0282,-10.633,1,0.0641,105.636,4,0.961
+40,Pass Me By,27,2018-08-13T19:42:01Z,157746,Johnny Rodriguez,20 Greatest Hits,2005,0.678,0.661,0.4,0.0,7,0.0697,-6.499,1,0.0245,101.025,4,0.397
+41,Lonely Women Make Good Lovers,23,2018-08-13T19:42:01Z,193960,Bob Luman,Greatest Hits,1974-03-01,0.712,0.652,0.484,0.124,8,0.272,-10.389,1,0.0309,121.604,4,0.636
+42,"Mammas, Don't Let Your Babies Grow Up to Be Cowboys",57,2018-08-13T19:42:01Z,152533,Waylon Jennings,The Essential Waylon Jennings,2007-05-01,0.578,0.373,0.423,0.00115,9,0.16,-11.642,1,0.0618,187.477,3,0.527
+43,I Can Help,52,2018-08-13T19:42:01Z,238333,Billy Swan,The Best Of Billy Swan,1974,0.511,0.471,0.675,0.019,0,0.232,-9.07,1,0.0513,125.313,4,0.53
+44,Barstool Mountain,24,2018-08-13T19:42:01Z,169000,Moe Bandy,The Very Best Of...Volume 1,2012-06-19,0.23,0.73,0.225,4.27e-06,2,0.258,-15.429,1,0.032,123.61,4,0.596
+45,Before The Next Teardrop Falls,47,2018-08-13T19:42:01Z,158306,Freddy Fender,The Freddy Fender Collection,1991-10-11,0.748,0.799,0.345,2.39e-05,10,0.169,-11.52,1,0.0276,90.417,4,0.776
+46,The Most Beautiful Girl,51,2018-08-13T19:42:01Z,162866,Charlie Rich,Charlie Rich - 16 Biggest Hits,1973,0.702,0.566,0.409,3.36e-06,7,0.101,-10.379,1,0.0265,103.233,4,0.458
+47,Bloody Mary Morning,42,2018-08-13T19:42:01Z,168933,Willie Nelson,Phases And Stages,1974,0.586,0.601,0.766,0.000903,7,0.347,-13.262,1,0.0466,130.14,4,0.856
+48,What a Difference You've Made in My Life,34,2018-08-13T19:42:01Z,239066,Ronnie Milsap,The Essential Ronnie Milsap,2006-07-31,0.528,0.422,0.537,0.000238,5,0.182,-10.214,1,0.0276,96.198,4,0.43
+49,Just Good Ol' Boys,28,2018-08-13T19:42:01Z,155226,Moe Bandy,The Ultimate Moe & Joe,2003,0.665,0.607,0.598,0.0,10,0.136,-8.875,1,0.0739,151.233,4,0.733
+50,"My Woman, My Woman, My Wife",36,2018-08-13T19:42:01Z,211106,Marty Robbins,Marty Robbins - 16 Biggest Hits,1952,0.927,0.429,0.317,3.5e-06,0,0.116,-11.322,1,0.0292,102.109,3,0.302
+51,One Piece at a Time,56,2018-08-13T19:42:01Z,244760,Johnny Cash,One Piece At A Time,1976,0.745,0.723,0.564,0.0,5,0.219,-12.194,1,0.294,102.581,4,0.963
+52,Stop And Smell The Roses,24,2018-08-13T19:42:01Z,201600,Mac Davis,Stop And Smell The Roses,1974,0.232,0.528,0.421,0.0,2,0.159,-16.302,1,0.0858,85.449,4,0.763
+53,Country Sunshine,31,2018-08-13T19:42:01Z,123666,Dottie West,The Essential Dottie West,1996-01-30,0.458,0.453,0.51,0.0,0,0.106,-8.94,1,0.0357,83.045,4,0.747
+54,Blue Eyes Crying in the Rain,57,2018-08-13T19:42:01Z,138600,Willie Nelson,Red Headed Stranger,1975,0.928,0.626,0.04,0.00178,4,0.11,-19.994,1,0.0405,117.136,4,0.418
+55,Y'all Come Back Saloon,40,2018-08-13T19:42:01Z,174226,The Oak Ridge Boys,Oak Ridge Boys Greatest Hits,1980-01-01,0.122,0.686,0.432,4.97e-05,2,0.0872,-14.904,1,0.0724,82.732,4,0.722
+56,She's Actin' Single (I'm Drinkin' Doubles),41,2018-08-13T19:42:01Z,171093,Gary Stewart,RCA Country Legends,2004-07-27,0.567,0.708,0.482,2.59e-05,6,0.115,-10.366,1,0.0315,109.41,4,0.699
+57,Coal Miner's Daughter,33,2018-08-13T19:42:01Z,181666,Loretta Lynn,20 #1's: Classic Country,2015-06-16,0.791,0.6,0.517,0.0187,9,0.108,-9.567,1,0.032,136.521,4,0.645
+58,Man in Black,57,2018-08-13T19:42:01Z,172986,Johnny Cash,Man In Black,1971,0.589,0.676,0.58,0.000145,5,0.218,-14.217,1,0.0506,95.358,4,0.89
+59,Drinkin' My Baby (Off My Mind) - 2009 Remastered Version,30,2018-08-13T19:42:01Z,145946,Eddie Rabbitt,Number One Hits,2009-10-05,0.0764,0.614,0.706,0.0,4,0.306,-7.397,0,0.0292,127.952,4,0.867
+60,"Take Me Home, Country Roads",60,2018-08-13T19:42:01Z,190040,John Denver,The Essential John Denver,2007-02-27,0.715,0.456,0.383,0.0,9,0.127,-9.516,1,0.0263,82.026,4,0.67
+61,Pure Love - Remastered,28,2018-08-13T19:42:01Z,140960,Ronnie Milsap,Ultimate Ronnie Milsap,2004-03-01,0.31,0.521,0.718,0.0,2,0.0648,-9.102,1,0.0324,151.216,4,0.849
+62,Misty,24,2018-08-13T19:42:01Z,175933,Ray Stevens,Greatest Hits - Original Recordings,2014-04-22,0.187,0.591,0.551,0.000652,2,0.0749,-13.72,1,0.0286,100.326,4,0.877
+63,The Gambler,30,2018-08-13T19:42:01Z,210679,Kenny Rogers,20 #1's: Classic Country,2015-06-16,0.408,0.682,0.532,0.0,4,0.122,-11.61,1,0.0826,88.286,4,0.773
+64,Blanket On The Ground,42,2018-08-13T19:42:01Z,215360,Billie Jo Spears,Country Greats,1987-01-01,0.394,0.465,0.519,0.00156,5,0.204,-11.819,1,0.0239,86.6,4,0.881
+65,You and Me,23,2018-08-13T19:42:01Z,200426,Tammy Wynette,The Essential Tammy Wynette,2013-08-20,0.584,0.458,0.234,0.00029,8,0.182,-14.843,1,0.0273,77.317,3,0.197
+66,Family Tradition,57,2018-08-13T19:42:01Z,242960,"Hank Williams, Jr.",The Bocephus Box Set,2000-08-22,0.0238,0.66,0.523,0.0,4,0.142,-12.068,1,0.0608,126.342,4,0.794
+67,Funny Face - Single Version,29,2018-08-13T19:42:01Z,166360,Donna Fargo,The Happiest Girl In The Whole U.S.A.,1998-12-29,0.794,0.538,0.243,2.76e-05,2,0.135,-13.146,1,0.0329,96.832,3,0.465
+68,Slippin' Away,28,2018-08-13T19:42:01Z,149800,Jean Shepard,Greatest Hits,2011-01-01,0.811,0.737,0.483,2.17e-06,5,0.196,-8.389,1,0.0281,113.365,4,0.802
+69,I Love,37,2018-08-13T19:42:01Z,125666,Tom T. Hall,20th Century Masters: The Millennium Collection: Best Of Tom T. Hall,2000-01-01,0.883,0.544,0.312,0.236,4,0.134,-12.146,1,0.0266,91.974,4,0.505
+70,Slide off of Your Satin Sheets,25,2018-08-13T19:42:01Z,177106,Johnny Paycheck,The Essential Johnny Paycheck,2014-03-28,0.576,0.714,0.446,0.000894,10,0.0798,-10.304,1,0.0323,107.313,4,0.625
+71,Thank God And Greyhound,29,2018-08-13T19:42:01Z,155586,Roy Clark,The Best Of Roy Clark,2005-08-09,0.482,0.455,0.351,0.0,10,0.0768,-13.845,1,0.0316,85.465,3,0.593
+72,Coat of Many Colors,54,2018-08-13T19:42:01Z,183666,Dolly Parton,Coat Of Many Colors,1971,0.93,0.624,0.257,7.56e-05,5,0.138,-13.341,1,0.0444,85.617,4,0.681
+73,Her Name Is...,29,2018-08-13T19:42:01Z,138800,George Jones,Anniversary (Ten Years Of Hits),1982,0.307,0.565,0.336,0.0,7,0.0949,-16.387,1,0.0319,82.294,4,0.796
+74,Good Lovin' (Makes It Right),25,2018-08-13T19:42:01Z,150146,Tammy Wynette,The Essential Tammy Wynette,2013-08-20,0.726,0.669,0.357,0.0,5,0.113,-12.176,1,0.0338,86.147,4,0.77
+75,Linda On My Mind - Single Version,20,2018-08-13T19:42:01Z,162693,Conway Twitty,Conway Twitty's Greatest Hits Volume II,1976,0.302,0.428,0.32,1.22e-05,9,0.074,-15.107,1,0.0291,105.765,4,0.572
+76,The Happiest Girl In The Whole U.S.A.,36,2018-08-13T19:42:01Z,150466,Donna Fargo,Classic Country Gold,2005-01-01,0.827,0.59,0.362,0.0,7,0.166,-10.123,1,0.0256,96.344,3,0.521
+77,Last Time I Saw Him,25,2018-08-13T19:42:01Z,182933,Dottie West,The Essential Dottie West,1996-01-30,0.296,0.554,0.665,0.000195,2,0.583,-8.413,1,0.0329,88.847,4,0.35
+78,Come On In (You Did The Best You Could Do),36,2018-08-13T19:42:01Z,177733,The Oak Ridge Boys,Oak Ridge Boys Greatest Hits,1980-01-01,0.181,0.69,0.639,0.000621,7,0.0799,-13.579,1,0.0413,94.661,4,0.928
+79,Daydreams About Night Things,46,2018-08-13T19:42:01Z,143333,Ronnie Milsap,The Essential Ronnie Milsap,2006-07-31,0.57,0.639,0.53,0.0,2,0.0911,-9.358,1,0.0319,138.72,4,0.918
+80,Whiskey River - Live,36,2018-08-13T19:42:01Z,211760,Willie Nelson,Greatest Hits (& Some That Will Be),1975,0.362,0.516,0.741,0.0142,7,0.127,-7.499,1,0.0327,99.748,4,0.761
+81,The Fightin' Side Of Me,33,2018-08-13T19:42:01Z,169346,Merle Haggard,HAG: The Hits Volume 2,2011-09-06,0.368,0.754,0.497,0.0,4,0.193,-11.14,1,0.039,95.502,4,0.789
+82,It's Four In The Morning - Single Version,19,2018-08-13T19:42:01Z,181026,Faron Young,20th Century Masters: The Millennium Collection: Best Of Faron Young,2001-01-01,0.556,0.473,0.341,5.39e-06,9,0.34,-13.48,1,0.031,126.735,3,0.501
+83,The Wurlitzer Prize (I Don't Want to Get Over You),35,2018-08-13T19:42:01Z,128253,Waylon Jennings,The Essential Waylon Jennings,2007-05-01,0.861,0.597,0.346,0.00309,7,0.13,-12.679,1,0.0399,118.704,4,0.499
+84,The Devil Went Down to Georgia,64,2018-08-13T19:42:01Z,215066,The Charlie Daniels Band,Million Mile Reflections,1979,0.131,0.517,0.535,0.0,0,0.085,-12.027,1,0.0494,135.087,4,0.933
+85,What Goes On When The Sun Goes Down,30,2018-08-13T19:42:01Z,172800,Ronnie Milsap,The Essential Ronnie Milsap,2006-07-31,0.661,0.693,0.484,1.22e-06,5,0.12,-10.004,1,0.0281,132.879,4,0.902
+86,It's Not Love (But It's Not Bad),24,2018-08-13T19:42:01Z,201386,Merle Haggard,The Very Best Of Merle Haggard,2007-01-01,0.189,0.659,0.281,0.0,7,0.112,-13.564,1,0.0268,108.287,4,0.518
+87,Bartender's Blues,28,2018-08-13T19:42:01Z,223200,George Jones,Super Hits,1972,0.637,0.556,0.207,1.37e-06,9,0.228,-16.11,1,0.0334,86.683,3,0.267
+88,You've Never Been This Far Before,27,2018-08-13T19:42:01Z,181932,Conway Twitty,Conway Twitty - 25 Number Ones,2004-01-01,0.715,0.492,0.242,0.213,10,0.099,-14.483,1,0.0332,138.495,4,0.503
+89,Suspicious Minds (with Jessi Colter),25,2018-08-13T19:42:01Z,240339,Waylon Jennings,Wanted! The Outlaws,1976,0.488,0.59,0.612,0.000106,2,0.0822,-11.739,1,0.0581,120.635,4,0.739
+90,The Year That Clayton Delaney Died,36,2018-08-13T19:42:01Z,165293,Tom T. Hall,20th Century Masters: The Millennium Collection: Best Of Tom T. Hall,2000-01-01,0.588,0.659,0.456,0.0,1,0.198,-8.883,1,0.0307,133.229,4,0.892
+91,If We're Not Back In Love By Monday,33,2018-08-13T19:42:01Z,196000,Merle Haggard,Ramblin' Fever,1977-01-01,0.848,0.634,0.181,4.56e-06,1,0.102,-16.74,1,0.0306,152.966,4,0.701
+92,The Power of Positive Drinkin',21,2018-08-13T19:42:01Z,145253,Mickey Gilley,The Essential Mickey Gilley,2015-01-09,0.629,0.535,0.912,0.00263,5,0.216,-8.18,1,0.0573,181.036,4,0.906
+93,Jolene,76,2018-08-13T19:42:01Z,161533,Dolly Parton,Jolene,1974,0.566,0.674,0.537,0.0,1,0.131,-10.971,0,0.0363,110.578,4,0.809
+94,Satin Sheets,30,2018-08-13T19:42:01Z,202733,Jeanne Pruett,Grand Ole Opry 75 Years Volume Two,2000-01-01,0.761,0.545,0.252,0.0,2,0.0703,-13.462,1,0.0272,99.156,4,0.349
+95,Love Put A Song In My Heart,19,2018-08-13T19:42:01Z,167893,Johnny Rodriguez,The Hits,1997-01-01,0.897,0.65,0.302,0.000129,9,0.147,-14.152,1,0.0345,118.828,4,0.813
+96,Good Hearted Woman,55,2018-08-13T19:42:01Z,178733,Waylon Jennings,Ultimate Waylon Jennings,2004-03-22,0.387,0.41,0.568,0.102,2,0.389,-11.673,1,0.0346,103.026,4,0.644
+97,Backside of Thirty,25,2018-08-13T19:42:01Z,156946,John Conlee,Classics,2003-11-18,0.209,0.641,0.631,0.0,7,0.109,-8.171,1,0.0243,92.706,3,0.716
+98,Help Me Make It Through The Night,32,2018-08-13T19:42:01Z,155533,Sammi Smith,The Best Of Sammi Smith,1996-01-01,0.636,0.562,0.353,0.000619,8,0.105,-11.882,1,0.0249,77.973,4,0.431
+99,Kiss an Angel Good Mornin',45,2018-08-13T19:42:01Z,123133,Charley Pride,The Essential Charley Pride,2005-06-12,0.708,0.684,0.498,0.0,4,0.365,-10.836,1,0.03,131.855,4,0.905

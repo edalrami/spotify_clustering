@@ -1,0 +1,70 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,Cómo Te Voy A Olvidar,67,2018-08-22T02:37:49Z,267826,Los Angeles Azules,Inolvidables,1996-01-01,0.229,0.668,0.472,3.58e-06,11,0.145,-7.912,0,0.0544,83.17,4,0.651
+1,Mil Horas,47,2018-08-22T02:37:49Z,226600,La Sonora Dinamita,"Greatest Cumbia Classics Of Colombia, Vol. 2",2015-07-01,0.111,0.737,0.688,0.00265,3,0.0851,-9.032,1,0.0388,100.995,4,0.826
+2,Oye Mujer,71,2018-08-22T02:37:49Z,259240,Raymix,Oye Mujer,2018-02-07,0.168,0.746,0.585,0.0,4,0.264,-5.937,0,0.0491,182.018,4,0.948
+3,Todo Me Gusta De Ti,67,2018-08-22T02:37:49Z,247893,Aaron Y Su Grupo Ilusion,Destilando Amor,2000-01-01,0.19,0.765,0.512,0.0,0,0.0681,-5.673,0,0.0327,90.336,4,0.759
+4,Baila Esta Cumbia,64,2018-08-22T02:37:49Z,161906,Selena,La Leyenda (Version Super Deluxe),2010-01-01,0.52,0.711,0.803,8.37e-06,0,0.0987,-4.58,1,0.124,182.92,4,0.787
+5,Juana La Cubana,57,2018-08-22T02:37:49Z,190800,Fito Olivares,Exitos Inolvidables,2012,0.763,0.467,0.619,0.00545,5,0.181,-10.079,1,0.0359,176.296,4,0.826
+6,Mayores - Urban Tropical,53,2018-08-22T02:37:49Z,210840,Becky G,Mayores (Urban Tropical),2017-09-22,0.0398,0.716,0.853,0.115,10,0.353,-3.809,1,0.0487,97.008,4,0.859
+7,Tiene Espinas El Rosal,68,2018-08-22T02:37:49Z,237960,Grupo Cañaveral De Humberto Pabón,"Grupo Cañaveral, Vol. III",1997-01-01,0.0343,0.68,0.423,0.0,11,0.0925,-11.112,0,0.136,169.184,4,0.822
+8,Que Bello,7,2018-08-22T02:37:49Z,249704,Sonora Tropicana,20 Grandes Exitos,2011-10-29,0.263,0.656,0.466,3.06e-05,7,0.0607,-7.928,1,0.076,204.019,4,0.93
+9,Cumbia Pa' Gozar,52,2018-08-22T02:37:49Z,207830,Los Angeles Azules,20 Exitos... Historia Musical,2015-01-21,0.161,0.755,0.492,0.000316,10,0.12,-7.745,1,0.0489,90.132,4,0.904
+10,La Chica Que Soñé,51,2018-08-22T02:37:49Z,190773,Tropical Panamá,La Chica Que Soñe,1992-01-01,0.324,0.717,0.529,0.000877,0,0.121,-7.623,1,0.0563,177.005,4,0.821
+11,Sin Pijama - Kumbia Remix,61,2018-08-22T02:37:49Z,204288,Becky G,Sin Pijama (Kumbia Remix),2018-06-08,0.048,0.642,0.785,2.84e-06,11,0.0705,-6.0,0,0.0378,188.003,4,0.97
+12,La Negra Catalina,48,2018-08-22T02:37:49Z,189213,Fito Olivares,Exitos Inolvidables,2012,0.13,0.612,0.588,1.35e-05,5,0.0695,-11.039,1,0.0457,178.904,4,0.937
+13,Rumba Frenesi,60,2018-08-22T02:37:49Z,311346,Grupo Kual?,Los Reyes De La Cumbia,2005-09-13,0.0645,0.565,0.709,0.0,8,0.0949,-7.438,0,0.0464,184.362,4,0.695
+14,Nunca Es Suficiente,63,2018-08-22T02:37:49Z,266213,Los Angeles Azules,Esto Sí Es Cumbia,2018-06-08,0.398,0.789,0.518,0.0,2,0.0891,-5.417,0,0.0406,94.001,4,0.78
+15,Muchachita Consentida,65,2018-08-22T02:37:49Z,211813,Rayito Colombiano,Cicatrices,1997-01-01,0.312,0.768,0.607,3.4e-05,5,0.0929,-6.044,1,0.0637,84.714,4,0.937
+16,Cumbia Caliente,47,2018-08-22T02:37:49Z,189226,Fito Olivares,Exitos Inolvidables,2012,0.114,0.77,0.525,1.41e-05,9,0.0487,-9.943,0,0.0589,95.508,4,0.935
+17,Mi Niña Mujer,53,2018-08-22T02:37:49Z,194106,Los Angeles Azules,De Plaza En Plaza (Cumbia Sinfónica/Deluxe),2017-02-10,0.395,0.49,0.631,0.0,7,0.0645,-4.386,1,0.0335,85.898,4,0.796
+18,El Pipiripau,47,2018-08-22T02:37:49Z,126693,Los Plebeyos,"""El Pipiripau"" y Muchos Exitos Mas",2015-09-17,0.173,0.715,0.843,1.34e-06,7,0.232,-4.211,1,0.0388,90.311,4,0.965
+19,Se Me Perdio La Cadenita,62,2018-08-22T02:37:49Z,157106,La Sonora Dinamita,Paradas Continuas,2010-02-01,0.0253,0.532,0.682,0.0,9,0.0822,-8.79,1,0.0495,96.341,4,0.715
+20,Techno Cumbia,51,2018-08-22T02:37:49Z,227440,Selena,Amor Prohibido,1994,0.543,0.661,0.619,0.0,6,0.0883,-11.348,1,0.0757,181.967,4,0.952
+21,Amor de Mis Amores,51,2018-08-22T02:37:49Z,246653,La Sonora Dinamita,"Greatest Cumbia Classics Of Colombia, Vol. 1",2015-07-01,0.36,0.669,0.824,8.84e-05,4,0.124,-5.127,0,0.0514,104.031,4,0.9
+22,El Hombre Que Yo Amo,54,2018-08-22T02:37:49Z,247000,Sonora Tropicana,Tesoros De Coleccion,1999,0.701,0.486,0.602,0.0,7,0.0652,-2.395,0,0.0569,201.667,4,0.825
+23,Más Que Tu Amigo,58,2018-08-22T02:37:49Z,209506,Marco Antonio Solís,Tu Amor O Tu Desprecio,2003-01-01,0.248,0.774,0.616,0.0281,0,0.0647,-7.509,0,0.0449,97.501,4,0.792
+24,La Gallina,51,2018-08-22T02:37:49Z,161800,Fito Olivares,Exitos Inolvidables,2012,0.111,0.863,0.871,0.264,10,0.0887,-7.524,1,0.0391,91.732,4,0.969
+25,Mis Sentimientos,58,2018-08-22T02:37:49Z,216986,Los Angeles Azules,Cómo Te Voy A Olvidar ¡Edición De Súper Lujo!,2015-10-16,0.207,0.748,0.696,0.000186,0,0.0713,-4.749,0,0.0314,92.997,4,0.855
+26,Pégale Papá,43,2018-08-22T02:37:49Z,173160,Los Plebeyos,Pégale Papá,2018-06-01,0.0698,0.731,0.887,2.22e-06,2,0.0464,-4.578,1,0.183,102.047,4,0.807
+27,Mi Cucu,54,2018-08-22T02:37:49Z,234706,La Sonora Dinamita,"Greatest Cumbia Classics Of Colombia, Vol. 1",2015-07-01,0.142,0.743,0.858,5.78e-06,7,0.311,-5.836,1,0.0369,104.815,4,0.917
+28,El Pescador de Barú,39,2018-08-22T02:37:49Z,174733,Los Warahuaco,"Cumbias, Cumbias",2015-07-01,0.242,0.779,0.612,0.0,5,0.0454,-8.521,0,0.0422,98.258,4,0.874
+29,La Pollera Amarilla,43,2018-08-22T02:37:49Z,183706,"Gladys ""La bomba tucumana""",Ayer Hoy y Siempre,2012-05-11,0.48,0.848,0.684,0.0,0,0.0639,-5.103,0,0.058,98.372,4,0.958
+30,La Danza de los Mirlos,39,2018-08-22T02:37:49Z,174520,Afrosound,Historia Músical - 40 Éxitos,2015-07-01,0.213,0.771,0.75,0.202,7,0.097,-6.33,1,0.0423,93.735,4,0.924
+31,La Negra Caderona,49,2018-08-22T02:37:49Z,266466,Aniceto Molina,Puro Vallenato,1994,0.574,0.727,0.838,0.000401,0,0.0497,-6.779,1,0.0409,95.86,4,0.709
+32,Azúcar,53,2018-08-22T02:37:49Z,210120,A.B. Quintanilla III Y Los Kumbia Kings,"A.B. Quintanilla III Presents Kumbia Kings Greatest Hits ""Album Versions""",2007-01-01,0.376,0.663,0.703,0.0,2,0.21,-3.763,0,0.0537,195.969,4,0.932
+33,Maruja,1,2018-08-22T02:37:49Z,229600,Sonora Dinamica De Colombia,15 Exitos Con Dinamita Pura - Para Bailar,2013-06-28,0.112,0.848,0.569,0.000877,7,0.0446,-11.263,1,0.0448,97.035,4,0.753
+34,Amor (Ft. Mon Laferte) - Mtv Unplugged,74,2018-08-22T02:37:49Z,312442,Los Auténticos Decadentes,Amor (Ft. Mon Laferte) (Mtv Unplugged),2018-07-20,0.0339,0.597,0.818,0.0,9,0.978,-5.317,0,0.0472,92.869,4,0.688
+35,Los Sabanales,46,2018-08-22T02:37:49Z,158515,Los Corraleros De Majagual,Album de los Corraleros de Majagual,1960,0.0827,0.83,0.652,0.000106,2,0.0397,-4.925,1,0.0484,123.644,4,0.802
+36,Oye,50,2018-08-22T02:37:49Z,190466,La Sonora Dinamita,Las Divas,2015-07-01,0.124,0.874,0.613,0.0,5,0.0855,-7.051,1,0.0574,112.061,4,0.873
+37,La Negra Tomasa - Bilongo - Versión Tropical,62,2018-08-22T02:37:49Z,472400,Caifanes,Caifanes,1988,0.234,0.53,0.683,0.311,2,0.274,-7.13,1,0.0313,174.441,4,0.694
+38,Encadenada A Mi - Cumbia,45,2018-08-22T02:37:49Z,229880,Los Bukis,Inalcanzable,1993-01-01,0.0592,0.713,0.582,3.67e-06,7,0.265,-11.84,1,0.033,155.544,4,0.976
+39,Cumbia poder,51,2018-08-22T02:37:49Z,300520,Celso Piña y su Ronda Bogotá,Barrio Bravo,2001-03-19,0.00525,0.728,0.793,0.0,11,0.101,-6.179,0,0.0353,105.499,4,0.966
+40,Ginza - Cumbia Remix,42,2018-08-22T02:37:49Z,175533,J Balvin,Ginza (The Remixes),2016-02-19,0.0331,0.548,0.787,7.21e-05,5,0.243,-2.842,0,0.0543,179.942,4,0.932
+41,Noche de Entierro - Cumbia Remix,37,2018-08-22T02:37:49Z,249746,Daddy Yankee,20 Number 1's Now,2007-11-20,0.19,0.818,0.958,0.000564,9,0.0914,-3.597,0,0.0668,97.002,4,0.922
+42,Tu Y Yo - Cumbia Remix,45,2018-08-22T02:37:49Z,232292,Thalía,Thalia,2002-05-21,0.102,0.689,0.572,2.13e-06,5,0.332,-6.8,0,0.0725,159.894,4,0.859
+43,Cumbia Anthem,38,2018-08-22T02:37:49Z,221306,El Dusty,Cumbia City,2018-05-11,0.00165,0.739,0.945,0.0814,9,0.0704,-2.905,1,0.062,91.987,4,0.166
+44,Los Invisibles - El Hijo de la Cumbia Remix,40,2018-08-22T02:37:49Z,276723,Ismael Serrano,La Respuesta,2016-05-06,0.133,0.682,0.403,0.00491,0,0.393,-11.144,1,0.238,170.026,4,0.601
+45,Para Bailar - Alika Y Nueva Alianza Remix,37,2018-08-22T02:37:49Z,205453,El Hijo De La Cumbia,Freestyle de Ritmos,2011,0.106,0.819,0.883,0.00419,10,0.0538,-2.56,0,0.0628,93.986,4,0.973
+46,Sergio el Bailador,58,2018-08-22T02:37:49Z,169600,Bronco,Sergio El Bailador,1993-06-25,0.306,0.789,0.67,0.0,7,0.0435,-12.263,1,0.0578,89.532,4,0.984
+47,Tu Traición,52,2018-08-22T02:37:49Z,214293,Grupo Bryndis,Tu Amor Secreto,1995-01-01,0.193,0.734,0.66,0.000546,7,0.102,-9.166,1,0.0361,84.58,4,0.931
+48,Mi Matamoros Querido,44,2018-08-22T02:37:49Z,188466,Rigo Tovar,40 Aniversario (Componente 1),2010-01-01,0.227,0.57,0.605,2.25e-05,10,0.15,-5.516,1,0.0294,109.791,4,0.737
+49,Echarme Al Olvido,57,2018-08-22T02:37:49Z,280826,Grupo Cañaveral De Humberto Pabón,"Grupo Cañaveral, Vol. III",1997-01-01,0.0717,0.781,0.344,0.0,0,0.0628,-12.779,1,0.0836,89.605,4,0.558
+50,El Paso Del Gigante,59,2018-08-22T02:37:49Z,216613,Grupo Sonador,Los Reyes De Los Sonidos,2005-04-26,0.397,0.824,0.72,2.65e-06,2,0.0333,-7.383,1,0.184,88.375,4,0.715
+51,Suavecito Suavecito,58,2018-08-22T02:37:49Z,225720,Laura Leon,15 Éxitos,1997,0.665,0.747,0.479,0.0,0,0.0621,-11.398,1,0.0417,96.268,4,0.923
+52,Que Nadie Sepa Mi Sufrir,45,2018-08-22T02:37:49Z,248320,Mi Sonora,Cumbias - 20 de Coleccion,2008-08-19,0.288,0.654,0.407,0.000143,4,0.142,-19.039,0,0.0561,104.074,4,0.924
+53,El Piropo,20,2018-08-22T02:37:49Z,231923,Pepe Gomez Jr. y su Grupo Union 82,El Piropo,2017-07-08,0.13,0.822,0.659,0.0,5,0.106,-4.321,1,0.0418,94.973,4,0.701
+54,Las Mujeres No Se Acaban,55,2018-08-22T02:37:49Z,271333,Grupo Kual?,Los Reyes De La Cumbia,2005-09-13,0.0206,0.516,0.866,0.000834,5,0.11,-6.686,0,0.0484,193.773,4,0.824
+55,La Pollera Colora,49,2018-08-22T02:37:49Z,228884,La Tropa Vallenata,En Concierto... 2012,2012-08-16,0.134,0.666,0.678,0.000146,5,0.609,-6.052,0,0.0603,101.551,4,0.873
+56,Cumbia sobre el río / Interludio,58,2018-08-22T02:37:49Z,342973,Celso Piña y su Ronda Bogotá,Barrio Bravo,2001-03-19,0.0237,0.711,0.816,0.797,1,0.294,-6.397,1,0.0515,96.999,4,0.861
+57,Me Volví A Acordar De Ti,42,2018-08-22T02:37:49Z,237133,Los Angeles De Charly,Cumbias Sonideras Románticas 2015,2014-04-28,0.135,0.667,0.568,0.0,2,0.397,-4.574,1,0.0264,146.003,4,0.775
+58,Guaracha Sabrosona,0,2018-08-22T02:37:49Z,220026,Alberto Pedraza,De Reventon,2003-11-01,0.0319,0.888,0.502,0.00233,7,0.0542,-8.858,1,0.0935,90.481,4,0.576
+59,Yo Soy Tu Maestro,57,2018-08-22T02:37:49Z,276813,Los Telez,Para Siempre (20) Exitos,2012-05-18,0.189,0.819,0.546,0.0,5,0.131,-8.095,0,0.057,155.034,4,0.888
+60,El Embrujo,53,2018-08-22T02:37:49Z,218746,Aaron Y Su Grupo Ilusion,Embrujados De Amor Y Cumbia,2009-01-01,0.177,0.824,0.71,3.3e-05,7,0.0923,-5.66,1,0.0336,96.525,4,0.679
+61,De quen chon,43,2018-08-22T02:37:49Z,167466,Chico Che,El Ritmo de Chico Che y la Crisis,2011-05-17,0.697,0.852,0.676,2.12e-05,9,0.0635,-10.635,1,0.0711,117.85,4,0.961
+62,El Gigante De Hierro,58,2018-08-22T02:37:49Z,216346,Grupo Sonador,Lo Nuevo Y…Lo Mejor,2003-02-25,0.0993,0.865,0.627,0.0173,9,0.0505,-11.4,0,0.0987,90.035,4,0.855
+63,Pedacito De Mi Vida ( Quimika),43,2018-08-22T02:37:49Z,217213,Cumbias Clasicas,Clasicas,2014-06-24,0.257,0.776,0.756,1.67e-06,2,0.178,-4.523,0,0.0375,92.064,4,0.89
+64,Los Caminos De La Vida,62,2018-08-22T02:37:49Z,291133,La Tropa Vallenata,Los Caminos De La Vida,1998-01-01,0.377,0.623,0.696,0.0,2,0.126,-6.144,0,0.0313,151.389,4,0.935
+65,El Gigante de Hierro,1,2018-08-22T02:37:49Z,213773,Grupo Sonador,Grandes Exitos Originales,2004-04-06,0.184,0.74,0.713,6e-06,9,0.123,-6.9,0,0.0677,90.04,4,0.836
+66,Escandalo,54,2018-08-22T02:37:49Z,288560,Margarita la diosa de la cumbia,30 Aniversario,2010-10-26,0.0391,0.917,0.571,0.0116,4,0.138,-6.456,0,0.0308,99.879,4,0.924
+67,Estupido (feat. Janeth Guadalupe),59,2018-08-22T02:37:49Z,299284,Los Papis RA7,Tonto Carino,2016-12-01,0.242,0.594,0.68,2.42e-06,7,0.117,-4.851,1,0.0341,206.085,4,0.888
+68,¿Dónde Estarás?,62,2018-08-22T02:37:49Z,231106,Raymix,Oye Mujer,2018-02-07,0.144,0.551,0.542,0.0,7,0.192,-7.548,0,0.0298,181.931,4,0.916

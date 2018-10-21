@@ -1,0 +1,27 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,X - Remix,89,2018-09-11T17:02:58Z,235746,Nicky Jam,X (Remix),2018-06-29,0.0561,0.663,0.696,3.77e-05,9,0.0778,-4.957,0,0.103,180.113,4,0.738
+1,Cumpleaños,69,2018-09-11T17:02:58Z,219000,Ozuna,Odisea,2017-08-25,0.0889,0.664,0.748,0.0,5,0.0899,-3.718,0,0.0628,170.107,4,0.735
+2,La Perla,49,2018-09-11T17:02:58Z,416133,Calle 13,Los De Atrás Vienen Conmigo,2008-07-21,0.694,0.73,0.68,0.0,7,0.208,-7.779,0,0.317,90.121,4,0.967
+3,El Amante,76,2018-09-11T17:02:58Z,219506,Nicky Jam,Fénix,2017-01-20,0.243,0.683,0.691,0.0,8,0.14,-5.535,1,0.0432,179.91,4,0.732
+4,Valió la Pena - Salsa Version,60,2018-09-11T17:02:58Z,289466,Marc Anthony,Valio La Pena,2004-07-27,0.332,0.521,0.704,7.1e-06,9,0.0665,-5.772,0,0.0513,98.364,4,0.846
+5,Cosa Nuestra de Barrio,39,2018-09-11T17:02:58Z,232318,Vico C,Xplosion,2010-11-09,0.00714,0.823,0.814,0.0,10,0.0681,-6.568,0,0.0993,104.063,4,0.906
+6,El Perdón,78,2018-09-11T17:02:58Z,205906,Nicky Jam,Fénix,2017-01-20,0.446,0.628,0.69,0.0,8,0.112,-5.828,1,0.0511,179.911,4,0.662
+7,Hasta Que Te Conoci,52,2018-09-11T17:02:58Z,292146,Marc Anthony,Desde Un Principio / From The Beginning,2006-01-01,0.571,0.529,0.644,1.22e-06,2,0.121,-8.932,0,0.0557,178.776,4,0.668
+8,Borinquen,34,2018-09-11T17:02:58Z,139893,Ismael Rivera,Anthology,2012-09-11,0.48,0.435,0.543,0.00151,0,0.173,-8.259,1,0.0354,110.338,4,0.793
+9,Manana Boricua,32,2018-09-11T17:02:58Z,189066,Cheo Feliciano,Anthology,2012-08-14,0.641,0.605,0.69,0.0,2,0.162,-7.602,0,0.047,105.315,4,0.927
+10,Soy Puerto Rico,33,2018-09-11T17:02:58Z,517408,Puerto Rico All Stars,Soy Puerto Rico,2013-05-24,0.557,0.807,0.93,1.82e-05,2,0.107,-2.039,1,0.0729,96.984,4,0.727
+11,RePResentando,39,2018-09-11T17:02:58Z,155318,Pj Sin Suela,RePResentando,2016-07-25,0.608,0.655,0.817,0.0,1,0.0463,-4.554,0,0.422,87.643,4,0.917
+12,Quítate Tú,45,2018-09-11T17:02:58Z,331320,Johnny Pacheco,Greatest Hits,2012-06-05,0.564,0.749,0.679,0.00103,10,0.88,-5.29,1,0.0434,122.215,4,0.935
+13,Amores Como el Nuestro,62,2018-09-11T17:02:58Z,301573,Jerry Rivera,Oro Salsero,1990,0.549,0.679,0.62,0.0189,0,0.0774,-10.943,1,0.0469,179.505,4,0.619
+14,All The Way Up (Remix),68,2018-09-11T17:02:58Z,284830,Fat Joe,All The Way Up (Remix) (feat. French Montana & Infared) - Single,2016-05-27,0.097,0.564,0.717,0.0,10,0.493,-6.403,0,0.397,117.489,5,0.423
+15,100% (feat. Tony Sunshine),38,2018-09-11T17:02:58Z,230146,Big Pun,The Legacy: The Best Of Big Pun,2009-09-15,0.0572,0.78,0.772,0.0,7,0.082,-3.222,0,0.262,99.606,4,0.706
+16,Loiza,36,2018-09-11T17:02:58Z,190173,Tego Calderon,El Abayarde,2003-07-01,0.325,0.881,0.924,0.00266,6,0.0629,-3.277,1,0.201,98.894,4,0.929
+17,El Watusi,49,2018-09-11T17:02:58Z,158893,Ray Barretto,Anthology,2012-09-11,0.864,0.507,0.566,4.55e-06,2,0.0676,-9.446,1,0.111,86.036,4,0.706
+18,Me Liberé,59,2018-09-11T17:02:58Z,263920,El Gran Combo De Puerto Rico,Nuevo Milenio - El Mismo Sabor,2001,0.395,0.754,0.875,0.0,7,0.0905,-1.94,0,0.0407,97.522,4,0.967
+19,Almost Like Praying (feat. Artists for Puerto Rico),53,2018-09-11T17:02:58Z,200457,Lin-Manuel Miranda,Almost Like Praying (feat. Artists for Puerto Rico),2017-10-06,0.0198,0.471,0.791,0.0,5,0.232,-3.373,0,0.238,188.36,4,0.507
+20,El Todopoderoso,44,2018-09-11T17:02:58Z,260053,Héctor Lavoe,El Cantante de los Cantantes,2013-06-18,0.204,0.57,0.74,1.62e-05,9,0.07,-7.61,0,0.0552,110.302,4,0.605
+21,Pam Pam,69,2018-09-11T17:02:58Z,227280,Wisin & Yandel,La Historia De El Dúo (Vol.1),2013-01-01,0.119,0.879,0.689,0.0,10,0.249,-6.43,1,0.108,95.034,4,0.736
+22,Dile,49,2018-09-11T17:02:58Z,204600,Don Omar,The Last Don,2003-01-01,0.166,0.831,0.716,2.3e-05,9,0.0545,-7.42,1,0.119,94.027,4,0.655
+23,Quiero Bailar,52,2018-09-11T17:02:58Z,183053,Ivy Queen,e5,2006-11-14,0.283,0.815,0.826,0.0,5,0.256,-5.217,1,0.155,95.031,4,0.737
+24,Chulin Culin Chunfly (feat. Residente Calle 13),54,2018-09-11T17:02:58Z,275360,Voltio,Voltio,2014-10-07,0.169,0.793,0.823,0.00104,7,0.0986,-6.39,1,0.0681,91.997,4,0.616
+25,En La Cama (feat. Daddy Yankee),51,2018-09-11T17:02:58Z,157049,Nicky Jam,Haciendo Escante,2001-12-04,0.157,0.856,0.894,0.0,10,0.112,-4.994,0,0.116,104.042,4,0.916

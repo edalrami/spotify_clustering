@@ -1,0 +1,48 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,Maniac - BOF Flashdance,6,2018-08-30T08:49:50Z,247440,Michael Sembello,80's Pop Number 1's,2007-01-01,0.019,0.651,0.639,0.0,3,0.0522,-7.836,0,0.0583,157.738,4,0.758
+1,We Will Rock You - Remastered,76,2018-08-30T08:49:50Z,122066,Queen,News Of The World (2011 Remaster),1977-10-28,0.676,0.692,0.497,0.0,2,0.259,-7.316,1,0.119,81.308,4,0.475
+2,Don't Stop Me Now - Remastered,81,2018-08-30T08:49:50Z,209413,Queen,Jazz (2011 Remaster),1978-11-10,0.0475,0.559,0.868,0.000176,5,0.776,-5.276,1,0.17,156.295,4,0.609
+3,What I Like About You,70,2018-08-30T08:49:50Z,175400,The Romantics,What I Like About You (And Other Romantic Hits),1990,0.319,0.542,0.915,5.34e-05,9,0.171,-9.637,1,0.0549,159.81,4,0.92
+4,Flower,52,2018-08-30T08:49:50Z,206293,Moby,Play & Play: B Sides,2008-06-02,0.19,0.686,0.61,0.000931,7,0.071,-5.902,1,0.0262,80.567,4,0.766
+5,Whip It,67,2018-08-30T08:49:50Z,161133,DEVO,Freedom Of Choice,1980-05-15,0.0744,0.78,0.869,0.004,9,0.0621,-7.255,1,0.0517,157.902,4,0.957
+6,Let's Twist Again - Rerecorded,2,2018-08-30T08:49:50Z,141066,Chubby Checker,Rock 'n' Roll Classics - Vol. 4,2007-09-01,0.0181,0.633,0.491,6.89e-06,3,0.0486,-13.727,1,0.0388,162.406,4,0.977
+7,Runnin' Down A Dream,13,2018-08-30T08:49:50Z,262026,Tom Petty,Greatest Hits,2008-01-01,0.000142,0.468,0.97,0.59,9,0.677,-4.855,1,0.0395,169.911,4,0.702
+8,Barbara Ann - Remastered,46,2018-08-30T08:49:50Z,133453,The Beach Boys,50 Big Ones: Greatest Hits,2012-01-01,0.118,0.573,0.572,0.0,11,0.148,-7.519,1,0.036,77.681,4,0.872
+9,Maria,0,2018-08-30T08:49:50Z,291240,Blondie,Original Album Classics,1999,0.0338,0.55,0.883,0.00174,9,0.07,-4.014,1,0.0664,159.677,4,0.772
+10,Danger Zone,71,2018-08-30T08:49:50Z,215133,Kenny Loggins,"Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",1997-03-25,0.241,0.544,0.897,0.0,3,0.13,-6.056,0,0.0471,157.17,4,0.647
+11,Surfin' U.S.A. - Remastered,70,2018-08-30T08:49:50Z,149373,The Beach Boys,Surfin' USA (Remastered),1963-03-25,0.661,0.55,0.854,0.0,3,0.112,-5.968,1,0.036,159.231,4,0.965
+12,I Saw Her Standing There - Remastered,27,2018-08-30T08:49:50Z,173946,The Beatles,Please Please Me (Remastered),1963-03-22,0.27,0.491,0.801,0.0,4,0.0665,-9.835,1,0.0361,160.109,4,0.971
+13,"Paint It, Black",48,2018-08-30T08:49:50Z,202120,The Rolling Stones,Big Hits (High Tide and Green Grass),1966-03-28,0.0635,0.474,0.773,0.00502,1,0.435,-10.466,1,0.0921,158.934,4,0.596
+14,The Boys Are Back in Town,74,2018-08-30T08:49:50Z,266720,Thin Lizzy,Jailbreak (Deluxe Edition),1976,0.234,0.445,0.706,0.000252,8,0.205,-9.803,1,0.0461,80.823,4,0.768
+15,Fly Away,71,2018-08-30T08:49:50Z,221332,Lenny Kravitz,5,1998-05-12,0.018,0.586,0.872,0.0,7,0.622,-5.066,1,0.0483,159.925,4,0.729
+16,Reptilia,71,2018-08-30T08:49:50Z,219753,The Strokes,Room On Fire,2003-10-28,0.000563,0.486,0.666,0.789,9,0.101,-5.084,1,0.033,157.992,4,0.741
+17,Hard To Explain,56,2018-08-30T08:49:50Z,224426,The Strokes,Is This It,2001-07-25,0.000413,0.406,0.682,0.849,7,0.0999,-6.281,1,0.0584,82.495,4,0.623
+18,I'm A Believer,59,2018-08-30T08:49:50Z,165613,The Monkees,The Best Of The Monkees,2003,0.595,0.503,0.772,2.47e-06,0,0.199,-6.205,1,0.0322,79.462,4,0.935
+19,Nutbush City Limits,57,2018-08-30T08:49:50Z,181533,Ike & Tina Turner,Tina!,2008-09-30,0.0891,0.687,0.886,0.153,7,0.0292,-5.846,1,0.0298,76.523,4,0.914
+20,Young Turks - 2008 Remastered Version,58,2018-08-30T08:49:50Z,302413,Rod Stewart,Some Guys Have All The Luck (Standard) (Int'l Version),2008-11-14,0.274,0.641,0.821,0.477,5,0.138,-8.783,0,0.0324,161.143,4,0.705
+21,Every Little Thing She Does Is Magic - Remastered 2003,66,2018-08-30T08:49:50Z,259500,The Police,Ghost In The Machine (Remastered),1981-10-02,0.121,0.558,0.768,0.0626,2,0.128,-9.997,1,0.0343,81.909,4,0.429
+22,"Fun, Fun, Fun - Mono",2,2018-08-30T08:49:50Z,139986,The Beach Boys,"Fun, Fun, Fun",2009-04-21,0.441,0.505,0.925,0.0,3,0.0498,-4.196,1,0.0374,155.242,4,0.965
+23,Greased Lightnin' - From “Grease” Soundtrack,48,2018-08-30T08:49:50Z,193066,John Travolta,Grease (Deluxe Edition),2003-01-01,0.211,0.562,0.858,0.00436,0,0.24,-9.884,1,0.113,159.783,4,0.91
+24,Dreaming,45,2018-08-30T08:49:50Z,188133,Blondie,Best Of Blondie,1981-10-31,0.00341,0.386,0.711,0.000118,2,0.084,-12.448,1,0.0361,160.193,4,0.771
+25,In the Mood,61,2018-08-30T08:49:50Z,211586,Glenn Miller,Greatest Hits,1996-04-04,0.854,0.645,0.398,0.306,8,0.0731,-12.208,1,0.11,82.768,4,0.705
+26,I Wanna Be Sedated - Remastered,66,2018-08-30T08:49:50Z,149466,Ramones,Road To Ruin: Expanded and Remastered,1978-09-22,0.169,0.597,0.96,2.89e-05,11,0.105,-3.989,1,0.042,163.017,4,0.937
+27,Creedence Song,0,2018-08-30T08:49:50Z,228995,John Fogerty,Revival (International Version),2007-10-01,0.00555,0.644,0.866,0.000399,11,0.0866,-5.063,0,0.0379,156.295,4,0.855
+28,Great Balls of Fire,46,2018-08-30T08:49:50Z,113640,Jerry Lee Lewis,Jerry Lee's Greatest,1961-01-01,0.395,0.444,0.596,0.0,7,0.147,-11.222,0,0.0669,159.775,4,0.867
+29,Zombie,41,2018-08-30T08:49:50Z,306364,The Cranberries,No Need To Argue (The Complete Sessions 1994-1995),1994-10-03,0.0158,0.309,0.649,0.00595,7,0.367,-8.994,1,0.035,166.915,4,0.313
+30,I'm Free (Heaven Helps the Man ),46,2018-08-30T08:49:50Z,226266,Kenny Loggins,The Essential Kenny Loggins,2002,0.0901,0.585,0.807,0.0,8,0.27,-6.308,1,0.039,160.253,4,0.814
+31,You Never Can Tell,27,2018-08-30T08:49:50Z,161946,Chuck Berry,You Never Can Tell: His Complete Chess Recordings 1960 -1966,2009-01-01,0.754,0.605,0.837,4.11e-05,7,0.3,-10.059,1,0.114,157.225,4,0.93
+32,Who Are You,63,2018-08-30T08:49:50Z,381626,The Who,Who Are You,1978-08-18,0.299,0.653,0.631,0.00265,9,0.0627,-11.334,1,0.0461,156.32,4,0.516
+33,Vacation,49,2018-08-30T08:49:50Z,179026,The Go-Go's,Return To The Valley Of The Go-Go's,1994-10-18,0.0023,0.547,0.753,0.00347,4,0.162,-10.834,1,0.0296,156.988,4,0.881
+34,Kashmir,70,2018-08-30T08:49:50Z,508200,Led Zeppelin,Physical Graffiti,1975-02-24,0.488,0.48,0.536,4.22e-05,2,0.155,-11.166,1,0.0427,80.617,3,0.581
+35,The Twist,60,2018-08-30T08:49:50Z,153760,Chubby Checker,The Best Of Chubby Checker 1959-1963,2005-01-01,0.202,0.533,0.638,0.0,4,0.0729,-7.13,1,0.0341,156.663,4,0.937
+36,River Deep Mountain High,57,2018-08-30T08:49:50Z,244160,Ike & Tina Turner,Tina!,2008-09-30,0.468,0.621,0.972,0.000585,8,0.195,-3.791,1,0.0724,155.115,4,0.866
+37,Authority Song,10,2018-08-30T08:49:50Z,229240,John Mellencamp,Uh-HUH! (Remastered),1983,0.00399,0.495,0.969,2.55e-05,2,0.404,-4.994,1,0.0427,156.135,4,0.966
+38,Kids In America,17,2018-08-30T08:49:50Z,204480,Kim Wilde,The Very Best Of Kim Wilde,2001,0.0597,0.566,0.769,0.0,4,0.579,-4.973,1,0.0469,159.651,4,0.324
+39,"Honey, I'm Home",14,2018-08-30T08:49:50Z,213200,Shania Twain,Come On Over,1997,0.0977,0.646,0.741,0.0,4,0.139,-5.807,1,0.0728,80.283,4,0.847
+40,Can't Run But,1,2018-08-30T08:49:50Z,216826,Paul Simon,1964-1993,1986,0.944,0.723,0.548,0.6,4,0.104,-17.061,0,0.0386,159.44,4,0.919
+41,Don't Come Around Here No More,44,2018-08-30T08:49:50Z,306600,Tom Petty and the Heartbreakers,Southern Accents,1985-03-26,0.000484,0.514,0.633,0.00697,10,0.0536,-12.02,1,0.0316,160.2,4,0.9
+42,"I Love You, Suzanne",38,2018-08-30T08:49:50Z,197706,Lou Reed,New Sensations,1984-04-01,0.102,0.53,0.858,0.36,2,0.126,-6.971,1,0.115,162.936,4,0.787
+43,Shake,33,2018-08-30T08:49:50Z,170666,Ike & Tina Turner,"Greatest Hits, Volume One",1989,0.0473,0.726,0.81,0.155,5,0.4,-12.663,1,0.0653,153.452,4,0.868
+44,Wake Me up Before You Go-Go,79,2018-08-30T08:49:50Z,231333,Wham!,Make It Big,1984-10-23,0.272,0.62,0.574,0.0,0,0.0607,-11.893,1,0.0421,81.548,4,0.9
+45,Don't Look Back,39,2018-08-30T08:49:50Z,158173,The Remains,The Remains,1966,0.554,0.436,0.793,0.0,0,0.188,-8.125,1,0.0682,157.696,4,0.742
+46,Take On Me,85,2018-08-30T08:49:50Z,225280,a-ha,Hunting High And Low,1985-06-01,0.018,0.573,0.902,0.00125,6,0.0928,-7.638,0,0.054,84.412,4,0.876

@@ -1,0 +1,51 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,Every Breath You Take,45,2018-10-08T06:44:10Z,253733,The Police,Every Breath You Take : The Classics,1995-01-01,0.413,0.828,0.447,0.00335,1,0.074,-10.563,1,0.0349,117.391,4,0.676
+1,All Out of Love,66,2018-10-08T06:44:10Z,241373,Air Supply,All Out Of Love,2018-02-02,0.077,0.502,0.513,0.0,0,0.494,-6.473,1,0.0251,108.371,4,0.318
+2,Hard To Say I'm Sorry - 2007 Remastered Version,65,2018-10-08T06:44:10Z,221413,Chicago,"The Best of Chicago, 40th Anniversary Edition",2007-10-01,0.662,0.561,0.42,2.6e-06,4,0.186,-7.79,1,0.0272,72.319,4,0.27
+3,Woman - 2010 - Remaster,69,2018-10-08T06:44:10Z,212933,John Lennon,Double Fantasy Stripped Down,1980-11-17,0.378,0.588,0.656,0.00227,3,0.042,-6.373,1,0.0224,79.701,4,0.746
+4,Foolish Beat,61,2018-10-08T06:44:10Z,262413,Debbie Gibson,Out Of The Blue,1987,0.267,0.542,0.44,2.48e-06,10,0.147,-11.161,0,0.0257,78.325,4,0.341
+5,Have I Told You Lately,67,2018-10-08T06:44:10Z,260386,Van Morrison,Avalon Sunset,1989-06-06,0.278,0.344,0.477,0.0128,4,0.136,-10.266,1,0.0338,143.78,4,0.182
+6,Can't Fight This Feeling,73,2018-10-08T06:44:10Z,294773,REO Speedwagon,Wheels Are Turnin',1985-01-22,0.155,0.408,0.48,1.82e-05,9,0.0877,-11.017,1,0.0266,156.344,4,0.19
+7,Every Woman In The World - Digitally Remastered 1999,49,2018-10-08T06:44:10Z,207760,Air Supply,The Best of Air Supply: Ones That You Love,1976,0.207,0.465,0.552,0.0,9,0.182,-7.23,1,0.0295,79.035,4,0.331
+8,Tonight I Celebrate My Love,65,2018-10-08T06:44:10Z,211400,Peabo Bryson,The Peabo Bryson Collection,1985-01-01,0.874,0.47,0.228,2.48e-05,3,0.133,-13.651,1,0.0316,116.947,4,0.14
+9,Endless Love - Endless Love/Soundtrack Version,48,2018-10-08T06:44:10Z,266266,Lionel Richie,The Definitive Collection,2003-02-04,0.64,0.207,0.358,0.000356,10,0.166,-9.672,1,0.0289,62.33,3,0.209
+10,When I See You Smile,67,2018-10-08T06:44:10Z,257440,Bad English,Bad English,1989-06-15,0.42,0.495,0.609,0.0,7,0.187,-9.902,1,0.0339,135.671,4,0.33
+11,Drive - Remastered,65,2018-10-08T06:44:10Z,234332,The Cars,Heartbeat City (Expanded),1984,0.115,0.261,0.703,0.00078,6,0.102,-7.871,1,0.0414,83.495,4,0.405
+12,We've Got Tonight,62,2018-10-08T06:44:10Z,234560,Kenny Rogers,We've Got Tonight,1983-12-02,0.767,0.543,0.227,4.29e-05,8,0.103,-11.247,1,0.0298,123.548,4,0.292
+13,Lover's Moon,58,2018-10-08T06:44:10Z,251400,Glenn Frey,The Allnighter,1984-01-01,0.771,0.62,0.186,0.0115,7,0.0738,-19.696,1,0.0276,137.715,4,0.44
+14,I'll Be Loving You (Forever),64,2018-10-08T06:44:10Z,263933,New Kids On The Block,Hangin' Tough,1988-09-02,0.282,0.598,0.282,0.0,11,0.105,-17.227,1,0.0256,134.706,4,0.305
+15,Arthur's Theme (Best That You Can Do) - Remastered Version,69,2018-10-08T06:44:10Z,234493,Christopher Cross,Arthur - The Album [Original Soundtrack],1981,0.169,0.526,0.515,0.000816,9,0.181,-11.169,1,0.0389,136.543,4,0.518
+16,Nothing's Gonna Change My Love For You,64,2018-10-08T06:44:10Z,242678,George Benson,20/20,1985-01-15,0.764,0.553,0.614,0.0,1,0.0811,-5.098,1,0.0306,136.628,4,0.345
+17,Open Arms,69,2018-10-08T06:44:10Z,202173,Journey,Escape,1981,0.584,0.405,0.21,0.0,2,0.139,-13.214,1,0.0279,100.577,3,0.174
+18,The One That You Love,62,2018-10-08T06:44:10Z,259000,Air Supply,The One That You Love,1981,0.728,0.396,0.479,9.51e-06,5,0.102,-8.072,1,0.0268,109.973,4,0.184
+19,True,74,2018-10-08T06:44:10Z,328293,Spandau Ballet,True - The Digital E.P.,2008-04-25,0.506,0.744,0.545,0.0977,0,0.0649,-9.361,1,0.0297,97.409,4,0.346
+20,The Flame,64,2018-10-08T06:44:10Z,338800,Cheap Trick,Lap Of Luxury,1988,0.513,0.629,0.581,2.06e-06,4,0.0755,-11.856,1,0.027,97.074,4,0.359
+21,Nothing's Gonna Stop Us Now,75,2018-10-08T06:44:10Z,270333,Starship,No Protection,1987,0.0298,0.643,0.801,0.0,6,0.0719,-4.921,1,0.0228,95.988,4,0.534
+22,"Say You, Say Me",32,2018-10-08T06:44:10Z,241066,Lionel Richie,Dancing On The Ceiling (Expanded Edition),1986,0.355,0.636,0.405,0.0,8,0.081,-11.113,1,0.0287,128.068,4,0.257
+23,Straight From The Heart,55,2018-10-08T06:44:10Z,211933,Bryan Adams,Cuts Like A Knife,1983-01-18,0.0814,0.578,0.213,0.0,0,0.116,-18.504,1,0.0277,84.778,4,0.317
+24,Take On Me,85,2018-10-08T06:44:10Z,225280,a-ha,Hunting High And Low,1985-06-01,0.018,0.573,0.902,0.00125,6,0.0928,-7.638,0,0.054,84.412,4,0.876
+25,Waiting For A Girl Like You,69,2018-10-08T06:44:10Z,292066,Foreigner,4 [Expanded],1981,0.31,0.33,0.469,2.3e-06,10,0.0402,-9.286,0,0.0335,201.327,4,0.433
+26,Careless Whisper,13,2018-10-08T06:44:10Z,300093,George Michael,Ladies & Gentlemen...The Best of George Michael,1998-11-09,0.144,0.575,0.634,1.68e-06,2,0.314,-8.822,0,0.0348,153.217,4,0.79
+27,Woman in Love,67,2018-10-08T06:44:10Z,231840,Barbra Streisand,Guilty,1980-09-23,0.248,0.469,0.278,0.000126,3,0.133,-16.311,0,0.028,169.735,4,0.331
+28,Do You Remember? - 2016 Remastered,60,2018-10-08T06:44:10Z,275986,Phil Collins,...But Seriously (Remastered),1989-11-20,0.114,0.677,0.509,0.0134,5,0.0659,-7.472,1,0.0252,93.042,4,0.525
+29,Listen To Your Heart,73,2018-10-08T06:44:10Z,328093,Roxette,Look Sharp! (2009 Version),1988-10-19,0.108,0.539,0.583,0.0,1,0.111,-4.935,0,0.0275,86.063,4,0.337
+30,Heaven,14,2018-10-08T06:44:10Z,243666,Bryan Adams,Reckless,1984-11-01,0.0596,0.34,0.412,0.0,9,0.117,-13.727,0,0.0268,69.857,4,0.402
+31,Glory Of Love,72,2018-10-08T06:44:10Z,258120,Peter Cetera,Solitude / Solitaire,1986,0.0778,0.518,0.585,2.43e-06,5,0.31,-8.485,1,0.0279,144.998,4,0.312
+32,"Take My Breath Away - Love Theme from ""Top Gun""",72,2018-10-08T06:44:10Z,255733,Berlin,Top Gun - Motion Picture Soundtrack (Special Expanded Edition),1999-01-01,0.0613,0.497,0.719,0.0,6,0.411,-9.397,1,0.0266,95.769,4,0.547
+33,It Might Be You (Theme From Tootsie),58,2018-10-08T06:44:10Z,256226,Dave Grusin,Tootsie (Original Motion Picture Soundtrack),1982,0.296,0.443,0.282,0.000231,7,0.308,-14.339,1,0.0299,179.714,4,0.262
+34,The Lady In Red,62,2018-10-08T06:44:10Z,256487,Chris de Burgh,Into The Light,1986-01-01,0.328,0.59,0.306,6.95e-06,10,0.0377,-16.326,1,0.0325,77.069,4,0.493
+35,Time After Time,74,2018-10-08T06:44:10Z,243066,Cyndi Lauper,She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition),2014-03-28,0.576,0.724,0.436,1.19e-06,0,0.0908,-9.321,1,0.0282,130.439,4,0.324
+36,Against All Odds (Take A Look At Me Now) - 2016 Remastered,72,2018-10-08T06:44:10Z,206360,Phil Collins,The Singles (Expanded),2016-10-14,0.198,0.58,0.498,0.0,1,0.132,-6.901,1,0.0277,116.271,4,0.111
+37,Every Time You Go Away,60,2018-10-08T06:44:10Z,324346,Paul Young,The Secret Of Association,1985,0.169,0.608,0.604,0.000133,5,0.106,-12.285,1,0.0433,164.254,4,0.673
+38,I Want To Know What Love Is - Remastered,76,2018-10-08T06:44:10Z,304786,Foreigner,Agent Provocateur,1984-12-12,0.193,0.477,0.471,1.76e-06,6,0.131,-10.036,1,0.0277,81.204,4,0.423
+39,Faithfully,70,2018-10-08T06:44:10Z,267080,Journey,Frontiers,1983,0.0979,0.202,0.644,0.0,11,0.109,-5.212,1,0.0324,85.04,5,0.252
+40,Total Eclipse of the Heart,56,2018-10-08T06:44:10Z,418000,Bonnie Tyler,Faster Than The Speed Of Night,1983,0.348,0.439,0.512,0.0,8,0.154,-12.875,1,0.0515,131.386,4,0.197
+41,With Or Without You - Remastered,35,2018-10-08T06:44:10Z,295520,U2,The Joshua Tree (Deluxe Edition Remastered),1987-03-10,0.000185,0.538,0.432,0.309,2,0.139,-11.882,1,0.0295,110.181,4,0.116
+42,Alone,73,2018-10-08T06:44:10Z,218733,Heart,Bad Animals,1987-06-06,0.638,0.418,0.452,0.00026,1,0.0959,-13.099,1,0.0356,175.088,4,0.168
+43,You're The Inspiration - 2006 Remastered Version,72,2018-10-08T06:44:10Z,229240,Chicago,Chicago 17 [Expanded],1984-05-14,0.368,0.583,0.602,0.0,11,0.22,-6.364,1,0.0274,74.008,4,0.388
+44,Right Here Waiting,74,2018-10-08T06:44:10Z,264333,Richard Marx,Repeat Offender,1989-01-01,0.8,0.395,0.252,0.0,0,0.101,-13.589,1,0.0301,177.679,4,0.126
+45,If You Don't Know Me By Now - 2008 Remastered Version,70,2018-10-08T06:44:10Z,204000,Simply Red,A New Flame (Expanded),1989,0.492,0.638,0.352,0.0,10,0.105,-9.266,1,0.0268,94.173,3,0.204
+46,Baby Can I Hold You,70,2018-10-08T06:44:10Z,193120,Tracy Chapman,Tracy Chapman,1988-01-01,0.0811,0.692,0.422,0.0,2,0.0848,-10.533,1,0.0333,74.375,4,0.468
+47,Eternal Flame,63,2018-10-08T06:44:10Z,235666,The Bangles,Everything,1988,0.64,0.521,0.233,0.0,7,0.245,-13.683,1,0.0254,78.927,3,0.409
+48,(I Just) Died In Your Arms,69,2018-10-08T06:44:10Z,280400,Cutting Crew,Broadcast,1986-01-01,0.0158,0.625,0.726,0.000169,11,0.0625,-11.402,0,0.0444,124.945,4,0.507
+49,How Am I Supposed to Live Without You,70,2018-10-08T06:44:10Z,255666,Michael Bolton,Soul Provider,1989-06-27,0.191,0.541,0.44,0.0,10,0.114,-12.206,1,0.031,140.273,4,0.232

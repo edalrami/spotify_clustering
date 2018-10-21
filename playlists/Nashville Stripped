@@ -1,0 +1,51 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,Tequila,80,2018-10-13T18:58:38Z,195986,Dan + Shay,Tequila,2018-01-10,0.0292,0.474,0.594,0.0,11,0.133,-5.756,1,0.0289,86.131,4,0.503
+1,Bad At Love - Recorded at Sound Stage Studios Nashville,66,2018-10-13T18:58:38Z,181000,Old Dominion,Spotify Singles,2018-08-08,0.292,0.767,0.677,0.0,5,0.292,-4.668,1,0.0332,119.954,4,0.591
+2,Come Back Road (Acoustic Sessions),49,2018-10-13T18:58:38Z,160265,Logan Mize,Acoustic Sessions,2018-09-28,0.243,0.734,0.681,0.0,7,0.13,-5.926,1,0.0405,89.991,4,0.672
+3,Asking For A Friend,73,2018-10-13T18:58:38Z,239280,Devin Dawson,Dark Horse,2018-01-19,0.238,0.713,0.527,7.49e-06,4,0.111,-7.512,1,0.0329,123.006,4,0.445
+4,Look At You,69,2018-10-13T18:58:38Z,195418,Seth Ennis,Mabelle - EP,2017-08-11,0.042,0.687,0.625,0.0,1,0.151,-6.942,0,0.0284,104.027,4,0.866
+5,Where You Are - Acoustic,59,2018-10-13T18:58:38Z,243898,Tenille Townes,Living Room Worktapes,2018-04-13,0.614,0.387,0.174,0.0,2,0.12,-14.765,1,0.0323,161.304,4,0.213
+6,It Goes On,57,2018-10-13T18:58:38Z,204750,Zac Brown,It Goes On,2018-01-16,0.647,0.508,0.513,0.000131,1,0.0828,-7.988,0,0.0265,89.724,4,0.123
+7,Beautiful Crazy (feat. Leon Bridges) - Live,60,2018-10-13T18:58:38Z,186419,Luke Combs,Beautiful Crazy (feat. Leon Bridges) [Live],2018-09-21,0.623,0.41,0.485,0.0,11,0.196,-6.362,1,0.0284,149.882,3,0.23
+8,Take It From Me - Stripped,51,2018-10-13T18:58:38Z,174082,Jordan Davis,Take It From Me (Stripped),2018-09-28,0.276,0.645,0.843,0.0,9,0.272,-4.864,1,0.0534,180.014,4,0.968
+9,All On Me - Recorded at Spotify Studios NYC,53,2018-10-13T18:58:38Z,211662,Devin Dawson,Spotify Singles,2018-03-21,0.299,0.668,0.389,2.2e-05,4,0.103,-10.137,1,0.0576,79.976,4,0.696
+10,If It Ain't You,60,2018-10-13T18:58:38Z,205197,Smithfield,If It Ain't You,2018-07-13,0.444,0.364,0.379,3.55e-05,0,0.0777,-13.357,1,0.0313,142.321,4,0.0883
+11,Always Remember Us This Way,79,2018-10-13T18:58:38Z,210200,Lady Gaga,A Star Is Born Soundtrack,2018-10-05,0.299,0.553,0.502,0.0,0,0.764,-5.972,1,0.0409,129.976,4,0.296
+12,Speechless,80,2018-10-13T18:58:38Z,212745,Dan + Shay,Speechless,2018-05-18,0.328,0.631,0.44,0.0,1,0.239,-5.948,1,0.028,136.033,4,0.418
+13,So Do I,54,2018-10-13T18:58:38Z,187913,Jordan Davis,Home State,2018-03-23,0.128,0.545,0.903,0.0,11,0.111,-3.876,1,0.0602,174.115,4,0.847
+14,Castle On The Hill - Recorded at Sound Stage Nashville,57,2018-10-13T18:58:38Z,255126,Thomas Rhett,Spotify Singles,2017-12-06,0.121,0.668,0.545,6.12e-05,0,0.146,-8.575,1,0.0296,132.985,4,0.586
+15,Love That About You,74,2018-10-13T18:58:38Z,157421,Filmore,Love That About You,2018-06-29,0.0463,0.552,0.573,0.0,9,0.105,-6.585,1,0.0948,182.14,4,0.525
+16,If I Were You (feat. Keith Urban),65,2018-10-13T18:58:38Z,213053,Jillian Jacqueline,If I Were You (feat. Keith Urban),2018-08-17,0.316,0.549,0.664,0.0,8,0.101,-4.942,0,0.0451,155.745,4,0.307
+17,Singles You Up - Stripped,51,2018-10-13T18:58:38Z,180613,Jordan Davis,Singles You Up (Stripped),2018-07-27,0.164,0.716,0.76,0.0,7,0.127,-5.126,1,0.0299,100.002,4,0.695
+18,I Don't Know About You,35,2018-10-13T18:58:38Z,207933,Chris Lane,I Don't Know About You,2018-06-29,0.601,0.594,0.808,0.0,1,0.119,-5.749,1,0.0615,144.028,4,0.73
+19,Whole Lot in Love - Acoustic,48,2018-10-13T18:58:38Z,156371,Austin Burke,Whole Lot in Love (Acoustic),2018-07-20,0.715,0.85,0.388,0.0,7,0.102,-8.836,1,0.0634,111.994,4,0.591
+20,Lose It - Acoustic,55,2018-10-13T18:58:38Z,183081,Kane Brown,Weekend,2018-08-08,0.0954,0.603,0.783,0.0,4,0.349,-5.305,0,0.0294,91.981,4,0.605
+21,Blue Tacoma - Recorded at Sound Stage Studios Nashville,52,2018-10-13T18:58:38Z,202690,Russell Dickerson,Spotify Singles,2018-02-07,0.147,0.574,0.638,0.0,8,0.185,-8.894,1,0.062,159.753,4,0.695
+22,Better Boat (feat. Mindy Smith),59,2018-10-13T18:58:38Z,224945,Kenny Chesney,Songs for the Saints,2018-07-27,0.827,0.574,0.265,2.25e-05,6,0.133,-11.3,1,0.0302,143.808,4,0.394
+23,Made That Way,54,2018-10-13T18:58:38Z,173774,Jordan Davis,Home State,2018-03-23,0.117,0.48,0.805,0.0,8,0.079,-5.448,1,0.0451,169.949,4,0.467
+24,Whiskey - Recorded at Spotify Studios NYC,52,2018-10-13T18:58:38Z,206280,Devin Dawson,Spotify Singles,2018-03-21,0.658,0.588,0.33,1.15e-06,0,0.085,-14.948,0,0.0934,99.968,4,0.231
+25,Best Years of My Life,55,2018-10-13T18:58:38Z,222733,Pistol Annies,Best Years of My Life,2018-09-27,0.316,0.435,0.411,1.15e-05,7,0.111,-8.483,1,0.0383,189.677,4,0.172
+26,Ain't Always Pretty (Acoustic Sessions),21,2018-10-13T18:58:38Z,200338,Logan Mize,Ain't Always Pretty (Acoustic Sessions),2018-07-06,0.595,0.583,0.54,0.0,1,0.104,-6.525,1,0.0269,159.899,4,0.645
+27,All To Myself,72,2018-10-13T18:58:38Z,169612,Dan + Shay,All To Myself,2018-05-03,0.23,0.651,0.782,0.0,1,0.139,-4.622,1,0.0303,94.94,4,0.619
+28,Dive - Recorded At Sound Stage Nashville,69,2018-10-13T18:58:38Z,260862,Luke Combs,Spotify Singles,2018-03-07,0.671,0.742,0.363,1.43e-06,1,0.145,-8.188,1,0.0282,130.921,3,0.351
+29,Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC,38,2018-10-13T18:58:38Z,157025,Jason Aldean,Spotify Singles,2017-07-05,0.0492,0.505,0.571,3.88e-06,7,0.0605,-10.782,1,0.0347,158.48,4,0.526
+30,House of the Rising Sun,45,2018-10-13T18:58:38Z,181813,Abby Anderson,House of the Rising Sun,2018-09-06,0.248,0.45,0.451,0.00469,6,0.155,-8.426,0,0.031,138.271,4,0.17
+31,Stay,61,2018-10-13T18:58:38Z,217226,Ryan Kinder,The Road,2018-05-18,0.418,0.522,0.434,0.0,4,0.109,-7.977,1,0.0321,127.477,4,0.172
+32,Heaven - Acoustic,58,2018-10-13T18:58:38Z,174585,Kane Brown,Heaven (Acoustic),2018-04-13,0.0762,0.692,0.709,1.64e-06,9,0.103,-5.889,1,0.03,80.015,4,0.662
+33,Got My Name Changed Back,50,2018-10-13T18:58:38Z,174253,Pistol Annies,Got My Name Changed Back,2018-09-27,0.0189,0.639,0.871,0.00463,9,0.0439,-5.774,1,0.044,99.075,4,0.812
+34,Better Off Gone (Acoustic Sessions),29,2018-10-13T18:58:38Z,204004,Logan Mize,Acoustic Sessions,2018-07-27,0.701,0.423,0.393,0.0,3,0.211,-5.909,1,0.0291,179.921,4,0.467
+35,I Don't Remember Me (Before You),63,2018-10-13T18:58:38Z,192680,Brothers Osborne,Port Saint Joe,2018-04-20,0.104,0.614,0.614,3.59e-05,4,0.104,-7.497,0,0.0314,146.03,4,0.598
+36,19 You + Me - Live Acoustic Bonus Track,51,2018-10-13T18:58:38Z,221706,Dan + Shay,Where It All Began,2014-04-01,0.571,0.416,0.422,0.0,6,0.161,-8.11,1,0.0279,150.607,3,0.703
+37,Rumor,76,2018-10-13T18:58:38Z,198440,Lee Brice,Lee Brice,2017-11-03,0.749,0.655,0.56,0.0,9,0.115,-6.857,1,0.0486,140.975,4,0.599
+38,One Number Away - Recorded At Sound Stage Nashville,54,2018-10-13T18:58:38Z,224987,Luke Combs,Spotify Singles,2018-03-07,0.619,0.7,0.633,0.0,7,0.339,-7.635,0,0.0334,142.015,4,0.506
+39,Million Reasons - Recorded at Sound Stage Studios Nashville,68,2018-10-13T18:58:38Z,194480,Dan + Shay,Spotify Singles,2018-10-10,0.0322,0.595,0.542,0.0,0,0.106,-6.443,1,0.0287,130.05,4,0.217
+40,Eyes On You - Acoustic Chill,55,2018-10-13T18:58:38Z,174576,Chase Rice,Eyes On You (Acoustic Chill),2018-08-31,0.433,0.717,0.459,1.89e-05,9,0.109,-6.075,1,0.0412,100.011,4,0.575
+41,Castaway,58,2018-10-13T18:58:38Z,181560,Brett Eldredge,Brett Eldredge,2017-08-04,0.834,0.445,0.227,0.0,2,0.115,-11.068,1,0.0328,91.426,4,0.195
+42,Costume Party,51,2018-10-13T18:58:38Z,176354,Lauren Duski,Costume Party,2018-07-11,0.281,0.384,0.545,0.0,3,0.149,-7.188,1,0.0351,168.106,4,0.179
+43,Here Tonight,73,2018-10-13T18:58:38Z,216533,Brett Young,Here Tonight,2018-09-14,0.0144,0.517,0.776,0.0,11,0.113,-5.271,1,0.0362,96.002,4,0.448
+44,Stupid (Acoustic),41,2018-10-13T18:58:38Z,186592,Levi Hummon,Stupid (Acoustic),2018-05-18,0.304,0.704,0.453,0.0,10,0.26,-7.498,1,0.03,91.998,4,0.428
+45,Dear God - Recorded at Woodshed Recording Malibu,50,2018-10-13T18:58:38Z,182469,Hunter Hayes,Spotify Singles,2018-09-05,0.108,0.601,0.551,0.0,8,0.221,-10.756,0,0.0799,119.824,4,0.319
+46,Homesick,73,2018-10-13T18:58:38Z,205323,Kane Brown,Homesick,2018-09-07,0.417,0.7,0.492,0.0,8,0.132,-8.84,1,0.0307,97.001,4,0.449
+47,For Her - Acoustic,47,2018-10-13T18:58:38Z,206026,Chris Lane,Girl Problems (Acoustic),2017-08-25,0.315,0.275,0.594,0.0,6,0.156,-5.27,1,0.0335,149.698,4,0.549
+48,More - Acoustic Live,46,2018-10-13T18:58:38Z,218768,Clare Dunn,More (Acoustic Live),2018-09-07,0.136,0.589,0.79,0.0,4,0.455,-5.034,0,0.043,89.863,4,0.694
+49,Take Back Home Girl (feat. Tori Kelly) - Acoustic,53,2018-10-13T18:58:38Z,212533,Chris Lane,Take Back Home Girl (feat. Tori Kelly) [Acoustic],2018-04-06,0.782,0.576,0.478,0.0,11,0.119,-6.898,1,0.0397,159.983,4,0.873

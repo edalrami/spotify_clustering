@@ -1,0 +1,59 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,Despacito x Shape Of You,63,2018-04-27T15:36:43Z,198946,Pentatonix,"PTX Presents: Top Pop, Vol. I",2018-04-13,0.0582,0.691,0.631,0.0,5,0.169,-7.239,1,0.0377,93.984,4,0.577
+1,Party In The U.S.A.,55,2018-04-27T15:36:43Z,63080,The Barden Bellas,Pitch Perfect Soundtrack,2012-01-01,0.822,0.519,0.36,0.0,10,0.177,-8.575,0,0.105,97.42,4,0.7
+2,Waka Waka,0,2018-04-27T15:36:43Z,199801,University of Rochester YellowJackets,United We Sing,2012-12-29,0.154,0.726,0.751,0.0,1,0.117,-6.758,1,0.174,127.034,4,0.859
+3,Somebody That I Used to Know,56,2018-04-27T15:36:43Z,199360,Pentatonix,"PTX, Vol. 1",2012-06-26,0.0402,0.594,0.433,0.0,1,0.104,-7.347,0,0.0334,128.918,4,0.202
+4,Attention,61,2018-04-27T15:36:43Z,171520,Pentatonix,"PTX Presents: Top Pop, Vol. I",2018-04-13,0.0661,0.533,0.61,0.0,7,0.225,-7.037,1,0.108,204.308,4,0.734
+5,I'm Yours / Somewhere Over The Rainbow,46,2018-04-27T15:36:43Z,214893,Straight No Chaser,Six Pack,2009-06-29,0.781,0.426,0.313,0.0,0,0.097,-7.774,1,0.0429,77.483,4,0.416
+6,"Kennedy Center Performance - From ""Pitch Perfect 2"" Soundtrack",50,2018-04-27T15:36:43Z,147293,The Barden Bellas,Pitch Perfect 2 (Original Motion Picture Soundtrack),2015-05-11,0.643,0.598,0.828,0.0,2,0.763,-4.18,1,0.0798,130.064,4,0.743
+7,Send My Love (To Your New Lover),49,2018-04-27T15:36:43Z,210731,Kurt Hugo Schneider,Send My Love (To Your New Lover),2016-06-25,0.146,0.751,0.599,0.0,2,0.0973,-8.087,1,0.237,82.031,4,0.966
+8,Chandelier,41,2018-04-27T15:36:43Z,247377,Twisted Measure,Chandelier,2015-04-25,0.868,0.256,0.137,0.0,11,0.19,-10.338,1,0.038,70.692,4,0.143
+9,"Any Way You Want It (World Championship Medley) - From ""Pitch Perfect 2"" Soundtrack",47,2018-04-27T15:36:43Z,116280,Pentatonix,Pitch Perfect 2 (Original Motion Picture Soundtrack),2015-05-11,0.322,0.603,0.792,0.0,7,0.118,-4.779,1,0.138,142.973,4,0.817
+10,"We Belong - From ""Pitch Perfect 2"" Soundtrack",46,2018-04-27T15:36:43Z,214746,Rebel Wilson,Pitch Perfect 2 (Original Motion Picture Soundtrack),2015-05-11,0.145,0.49,0.526,0.0,5,0.113,-6.559,1,0.0499,135.178,4,0.381
+11,I Knew You Were Trouble,43,2018-04-27T15:36:43Z,215626,Walk Off the Earth,I Knew You Were Trouble,2013-02-25,0.74,0.665,0.664,0.0,2,0.25,-5.505,1,0.0724,76.968,4,0.599
+12,"Back To Basics - From ""Pitch Perfect 2"" Soundtrack",51,2018-04-27T15:36:43Z,90653,The Barden Bellas,Pitch Perfect 2 (Original Motion Picture Soundtrack),2015-05-11,0.794,0.543,0.556,0.0,6,0.168,-5.379,0,0.14,100.998,4,0.736
+13,Daft Punk,64,2018-04-27T15:36:43Z,248560,Pentatonix,"PTX, Vol. 2",2013-11-05,0.00403,0.717,0.621,0.0,11,0.144,-7.588,0,0.0605,133.014,4,0.72
+14,"Riff Off - From ""Pitch Perfect 2"" Soundtrack",54,2018-04-27T15:36:43Z,264493,Das Sound Machine,Pitch Perfect 2 (Original Motion Picture Soundtrack),2015-05-11,0.208,0.612,0.655,0.0,1,0.0764,-6.249,1,0.354,107.565,4,0.729
+15,Feelin' It,35,2018-04-27T15:36:43Z,182760,Home Free,Feelin' It,2015-02-05,0.337,0.675,0.744,0.0,2,0.075,-5.788,1,0.0464,94.028,4,0.547
+16,Stars,39,2018-04-27T15:36:43Z,183466,Pentatonix,Stars,2015-06-02,0.00866,0.513,0.559,0.0,2,0.11,-7.103,1,0.0293,135.943,4,0.548
+17,Don't Stop Believin' (Glee Cast Version),65,2018-04-27T15:36:43Z,232000,Glee Cast,"Glee: The Music, Volume 1",2009-11-02,0.038,0.473,0.604,0.0,7,0.103,-4.034,1,0.0337,123.857,4,0.271
+18,Riff Off: Mickey/Like A Virgin/Hit Me With Your Best Shot/S&M/Let’s Talk About Sex/I’ll Make Love To You/Feels Like The First Time/No Diggity,58,2018-04-27T15:36:43Z,223840,The Barden Bellas,Pitch Perfect Soundtrack,2012-01-01,0.576,0.577,0.499,0.0,3,0.101,-5.586,0,0.355,125.492,4,0.706
+19,Can't Hold Us,55,2018-04-27T15:36:43Z,198040,Pentatonix,"PTX, Vol. 2",2013-11-05,0.0128,0.657,0.852,0.0,11,0.366,-6.186,0,0.121,143.004,4,0.79
+20,Cups - Movie Version,55,2018-04-27T15:36:43Z,76946,Anna Kendrick,Pitch Perfect Soundtrack,2012-01-01,0.554,0.927,0.329,2.87e-05,7,0.0302,-13.676,1,0.156,129.998,4,0.791
+21,I See Fire,0,2018-04-27T15:36:43Z,291718,Peter Hollens,I See Fire,2013-12-10,0.7,0.418,0.334,0.0,10,0.29,-7.38,0,0.0318,76.075,4,0.229
+22,Problem,30,2018-04-27T15:36:43Z,150459,Pentatonix,Problem,2014-08-12,0.0953,0.724,0.66,5.52e-06,11,0.118,-8.046,0,0.0787,108.19,4,0.756
+23,"Hey, Soul Sister",23,2018-04-27T15:36:43Z,110106,Street Corner Symphony,The Sing-Off: Season 2 - Episode 2 - Big Hits,2010-12-10,0.35,0.464,0.717,0.0,3,0.357,-5.935,1,0.0561,95.187,4,0.681
+24,Trebles Finals: Bright Lights Bigger City/Magic,55,2018-04-27T15:36:43Z,154560,The Treblemakers,Pitch Perfect Soundtrack,2012-01-01,0.201,0.574,0.525,0.0,9,0.0826,-7.257,0,0.234,112.948,4,0.465
+25,Remix to Ignition,41,2018-04-27T15:36:43Z,199533,The Dartmouth Aires,Impaired,2005,0.504,0.691,0.581,0.0,1,0.244,-9.671,1,0.037,129.972,4,0.752
+26,Text Me Merry Christmas (feat. Kristen Bell),39,2018-04-27T15:36:43Z,160840,Straight No Chaser,Under The Influence: Holiday Edition,2014-11-18,0.433,0.604,0.512,0.0,7,0.337,-5.045,1,0.0868,78.53,4,0.673
+27,Wake Me Up,48,2018-04-27T15:36:43Z,193733,Home Free,Crazy Life,2014-01-14,0.477,0.712,0.554,0.0,3,0.19,-6.672,1,0.0337,116.91,4,0.369
+28,Come Sail Away,35,2018-04-27T15:36:43Z,336693,Tufts Beelzebubs,PandæMonium,2007,0.632,0.376,0.521,2.24e-06,0,0.215,-7.673,1,0.042,122.817,3,0.19
+29,Right Round,53,2018-04-27T15:36:43Z,196986,The Treblemakers,Pitch Perfect Soundtrack,2012-01-01,0.372,0.761,0.814,0.0,7,0.254,-5.08,1,0.151,127.056,4,0.547
+30,Rhythm Of Love / Can't Help Falling In Love,45,2018-04-27T15:36:43Z,213880,Straight No Chaser,Six Pack: Volume 2,2011-11-28,0.196,0.56,0.761,0.0,8,0.0896,-6.407,1,0.072,85.483,4,0.686
+31,Radioactive,55,2018-04-27T15:36:43Z,228000,Pentatonix,Radioactive,2014-05-05,0.504,0.497,0.6,0.0,8,0.265,-7.677,1,0.0721,134.993,4,0.426
+32,Let It Go,33,2018-04-27T15:36:43Z,220452,Straight No Chaser,Let It Go,2014-04-04,0.659,0.491,0.389,0.0,3,0.184,-4.492,1,0.0282,130.201,4,0.389
+33,Love The Way You Lie,20,2018-04-27T15:36:43Z,158146,Urban Method,The Sing-Off: Season 3: Episode 1 - Signature Songs,2011-09-20,0.188,0.437,0.878,0.0,10,0.351,-3.876,1,0.396,79.474,4,0.621
+34,Landslide - Studio Version,21,2018-04-27T15:36:43Z,176813,The Backbeats,The Sing-Off: The Best of Season 2,2011-02-08,0.9,0.331,0.262,7.44e-06,11,0.104,-8.615,1,0.0307,129.674,4,0.203
+35,Game of Thrones,0,2018-04-27T15:36:43Z,168824,Peter Hollens,Game of Thrones,2012-08-28,0.147,0.337,0.791,0.952,0,0.097,-7.826,0,0.0642,173.899,3,0.228
+36,Misty Mountains (A Cappella),0,2018-04-27T15:36:43Z,260315,Peter Hollens,Misty Mountains (A Cappella),2013-01-04,0.924,0.294,0.158,0.0964,8,0.109,-15.491,0,0.0325,99.75,4,0.0869
+37,Sweet Caroline,38,2018-04-27T15:36:43Z,112360,Tufts Beelzebubs,Right Round / Sweet Caroline - Single,2011-10-13,0.767,0.563,0.311,1.2e-06,0,0.11,-9.18,1,0.0317,132.199,4,0.207
+38,Stacey's Mom,42,2018-04-27T15:36:43Z,201080,On The Rocks,Full Coverage,2010-06-29,0.225,0.763,0.615,0.0,9,0.103,-9.026,1,0.0483,120.018,4,0.806
+39,Bellas Finals: Price Tag/Don’t You (Forget About Me)/Give Me Everything/Just The Way You Are/Party In The U.S.A./Turn The Beat Around,60,2018-04-27T15:36:43Z,217080,The Barden Bellas,Pitch Perfect Soundtrack,2012-01-01,0.569,0.477,0.691,0.0,0,0.0904,-5.784,1,0.177,105.335,4,0.275
+40,Fix You,34,2018-04-27T15:36:43Z,246706,Straight No Chaser,With A Twist (Deluxe),2010-04-13,0.818,0.292,0.27,5.45e-05,3,0.102,-12.131,1,0.0313,67.013,3,0.205
+41,If I Were a Boy,17,2018-04-27T15:36:43Z,109213,The Backbeats,The Sing-Off: Season 2 - Episode 1 - Signature Songs,2010-12-10,0.547,0.222,0.431,0.0,9,0.731,-6.977,1,0.0356,174.042,4,0.211
+42,Creep - Studio Version,24,2018-04-27T15:36:43Z,221066,Street Corner Symphony,The Sing-Off: The Best of Season 2,2011-02-08,0.449,0.546,0.431,3.93e-05,7,0.1,-8.41,1,0.0305,93.952,4,0.12
+43,Bittersweet Symphony / Baba O'Riley / Last Friday Night / Hollaback Girl,23,2018-04-27T15:36:43Z,179053,The Sing-Off Contestants,The Sing-Off: Season 3: Episode 10 - Mastermix Medleys & Judge's Choice,2011-11-21,0.552,0.521,0.823,0.0,3,0.31,-6.147,1,0.0744,116.553,4,0.665
+44,The Final Countdown,24,2018-04-27T15:36:43Z,75360,Hullabahoos,Pitch Perfect Soundtrack (Special Edition),2012-01-01,0.373,0.539,0.685,0.0,0,0.0809,-5.157,0,0.0461,123.955,4,0.538
+45,Pumped Up Kicks,32,2018-04-27T15:36:43Z,233266,Hullabahoos,Morning Warriors,2012-03-30,0.582,0.673,0.793,0.0,3,0.261,-5.028,1,0.0427,128.046,4,0.847
+46,Medley: Killer Queen / Bohemian Rhapsody / Somebody To Love,23,2018-04-27T15:36:43Z,204160,The Dartmouth Aires,The Sing-Off: Season 3: Episode 7 - Superstar Medleys,2011-10-31,0.7,0.438,0.653,0.0,9,0.944,-7.2,1,0.36,108.36,1,0.311
+47,Bad Romance,38,2018-04-27T15:36:43Z,277546,On The Rocks,A Fifth,2010-06-22,0.217,0.666,0.721,0.0,9,0.0982,-5.848,0,0.0407,120.081,4,0.492
+48,Before He Cheats,16,2018-04-27T15:36:43Z,105013,Urban Method,The Sing-Off: Season 3: Episode 8 - New Country & Classic Rock,2011-11-07,0.588,0.358,0.807,0.0,1,0.82,-3.75,0,0.14,79.069,4,0.51
+49,Cruise,25,2018-04-27T15:36:43Z,100026,Home Free,"The Sing-Off: Season 4, Episode 1- The Sing-Off Is Back",2013-12-09,0.298,0.584,0.805,0.0,11,0.103,-4.057,1,0.109,74.938,4,0.89
+50,Ring of Fire,52,2018-04-27T15:36:43Z,141706,Home Free,Crazy Life,2014-01-14,0.43,0.714,0.503,2.07e-05,7,0.124,-8.053,1,0.039,104.882,4,0.339
+51,Halo,34,2018-04-27T15:36:43Z,278200,Pitch Slapped,Voices Only 2011 College A Cappella (Volume 1),2011-07-18,0.446,0.405,0.655,0.0,7,0.0977,-6.676,1,0.0389,74.805,4,0.267
+52,F**k You,26,2018-04-27T15:36:43Z,72786,The Sockapellas,Pitch Perfect Soundtrack (Special Edition),2012-01-01,0.295,0.781,0.427,0.0,1,0.237,-8.373,0,0.0468,127.892,4,0.764
+53,Don't Stop The Music,52,2018-04-27T15:36:43Z,185080,The Treblemakers,Pitch Perfect Soundtrack,2012-01-01,0.095,0.832,0.673,0.0,1,0.201,-6.478,0,0.115,124.987,4,0.84
+54,Grace Kelly - Studio Version,24,2018-04-27T15:36:43Z,198600,The Whiffenpoofs,The Sing-Off: The Best of Season 2,2011-02-08,0.767,0.57,0.464,0.0,7,0.113,-5.916,1,0.0385,121.969,4,0.633
+55,A-Punk,27,2018-04-27T15:36:43Z,141341,Rockapella,Bang,2010-10-12,0.21,0.795,0.636,0.0,2,0.0622,-5.874,1,0.19,87.552,4,0.952
+56,Wavin' Flag,20,2018-04-27T15:36:43Z,115706,University of Rochester YellowJackets,The Sing-Off: Season 3: Episode 1 - Signature Songs,2011-09-20,0.783,0.318,0.841,0.0,6,0.096,-4.926,0,0.3,165.634,3,0.753
+57,Livin' On A Prayer,7,2018-04-27T15:36:43Z,233946,The Magnets,Gobsmacked,2011-07-18,0.415,0.697,0.564,0.0,5,0.0663,-3.772,1,0.0344,108.048,4,0.767

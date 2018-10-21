@@ -1,0 +1,101 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,A Boy Named Sue - Live Version,47,2018-08-13T19:46:57Z,225266,Johnny Cash,The Greatest: The Number Ones,2012-08-03,0.758,0.688,0.445,0.0,10,0.71,-11.974,1,0.198,101.636,4,0.92
+1,Green Green Grass of Home,45,2018-08-13T19:46:57Z,178266,Porter Wagoner,20 All Time Greatest Hits,2005,0.651,0.679,0.202,0.000722,3,0.117,-17.938,1,0.0295,95.89,4,0.591
+2,Last Date - Instrumental,45,2018-08-13T19:46:57Z,146760,Floyd Cramer,Super Hits,1979,0.858,0.615,0.306,0.958,0,0.15,-12.026,1,0.0289,103.818,3,0.613
+3,Blue Kentucky Girl,44,2018-08-13T19:46:57Z,160626,Loretta Lynn,Gold,2006-01-01,0.71,0.714,0.346,0.00232,11,0.0998,-11.666,1,0.0371,113.264,4,0.57
+4,The Image of Me,46,2018-08-13T19:46:57Z,177333,Conway Twitty,Timeless,2017-10-06,0.338,0.557,0.438,8.17e-06,9,0.136,-6.034,1,0.0268,87.895,3,0.45
+5,We'll Get Ahead Someday,44,2018-08-13T19:46:57Z,117053,Porter Wagoner,The Essential Porter Wagoner & Dolly Parton,2015-10-02,0.333,0.68,0.404,0.0,11,0.114,-12.732,1,0.0307,82.02,4,0.917
+6,Jackson (with June Carter Cash),43,2018-08-13T19:46:57Z,166266,Johnny Cash,Keep On the Sunny Side - June Carter Cash: Her Life In Music,1952,0.552,0.707,0.483,0.000143,0,0.388,-9.929,1,0.0371,128.32,4,0.79
+7,It's Such A Pretty World Today,43,2018-08-13T19:46:57Z,150093,Wynn Stewart,Lost Country Hits of the 60s,2013-01-01,0.854,0.622,0.344,0.0,4,0.31,-12.833,1,0.0396,118.377,4,0.673
+8,Wine Me Up,43,2018-08-13T19:46:57Z,144120,Faron Young,Hello Walls,2013-10-23,0.133,0.547,0.254,8.24e-05,9,0.263,-16.548,1,0.0461,139.65,4,0.903
+9,The Race Is On,44,2018-08-13T19:46:57Z,126533,George Jones,Best Of,2013-01-01,0.454,0.465,0.674,0.0,9,0.233,-8.318,1,0.0833,171.246,4,0.923
+10,Almost Persuaded,43,2018-08-13T19:46:57Z,176360,David Houston,Almost Persuaded,1966,0.861,0.251,0.338,0.0,8,0.144,-11.897,1,0.0382,81.642,3,0.353
+11,Timber I'm Falling,41,2018-08-13T19:46:57Z,152800,Ferlin Husky,Super Hits,2005,0.526,0.757,0.701,4.84e-05,4,0.121,-7.345,1,0.0347,112.947,4,0.884
+12,Wichita Lineman - Remastered,59,2018-08-13T19:46:57Z,186200,Glen Campbell,Wichita Lineman (Remastered),1968,0.326,0.192,0.392,0.000199,5,0.248,-11.667,1,0.0328,172.312,4,0.391
+13,I Don't Wanna Play House,44,2018-08-13T19:46:57Z,154626,Tammy Wynette,Tammy Wynette'S Greatest Hits,1967,0.806,0.546,0.258,1.06e-05,7,0.165,-12.894,1,0.0317,100.683,4,0.464
+14,The Streets of Baltimore,42,2018-08-13T19:46:57Z,157640,Bobby Bare,Streets of Baltimore,1966-08-22,0.629,0.578,0.447,0.0,4,0.19,-14.212,1,0.032,116.128,4,0.808
+15,Branded Man - Remastered,40,2018-08-13T19:46:57Z,186800,Merle Haggard,Prison,2001-01-01,0.386,0.731,0.465,0.0,2,0.0854,-8.133,1,0.03,120.877,4,0.519
+16,Don't Worry,44,2018-08-13T19:46:57Z,193422,Marty Robbins,The Story Of My Life: The Best Of Marty Robbins 1952-1965,1996-03-12,0.879,0.648,0.165,0.000216,4,0.13,-16.446,1,0.0348,99.585,4,0.435
+17,Lonesome 7-7203,39,2018-08-13T19:46:57Z,166053,Hawkshaw Hawkins,20 Greatest Hits,2005,0.812,0.616,0.332,0.000401,9,0.332,-13.455,1,0.0319,115.88,4,0.662
+18,Yesterday When I Was Young,42,2018-08-13T19:46:57Z,200240,Roy Clark,The Best Of Roy Clark,2005-08-09,0.555,0.328,0.365,0.0,2,0.146,-13.772,0,0.0582,178.103,4,0.344
+19,The Carroll County Accident,38,2018-08-13T19:46:57Z,169200,Porter Wagoner,The Essential Porter Wagoner,1997-04-26,0.346,0.643,0.504,0.0,7,0.247,-11.231,1,0.0395,91.688,4,0.705
+20,Homecoming - Single Version,40,2018-08-13T19:46:57Z,201000,Tom T. Hall,Tom T. Hall's Greatest Hits,1972-01-01,0.943,0.638,0.301,0.00705,11,0.13,-17.691,1,0.0474,122.767,4,0.676
+21,Act Naturally,55,2018-08-13T19:46:57Z,143693,Buck Owens,All-Time Greatest Hits,2010-08-31,0.336,0.552,0.474,0.0,7,0.173,-6.847,1,0.0275,92.156,4,0.7
+22,Does My Ring Hurt Your Finger,41,2018-08-13T19:46:57Z,137493,Charley Pride,The Essential Charley Pride,1997-04-26,0.649,0.454,0.326,0.0,11,0.129,-11.214,1,0.0283,107.64,4,0.708
+23,Skip a Rope,42,2018-08-13T19:46:57Z,160784,Henson Cargill,All-American Cowboy,1988,0.608,0.623,0.51,0.00267,6,0.0699,-13.092,0,0.0374,145.604,4,0.54
+24,Gentle On My Mind - Remastered,54,2018-08-13T19:46:57Z,178626,Glen Campbell,Gentle On My Mind (Remastered),1967,0.189,0.597,0.415,0.0,3,0.123,-13.799,1,0.0323,108.987,4,0.826
+25,Big Bad John,55,2018-08-13T19:46:57Z,182560,Jimmy Dean,The Best Of Jimmy Dean,1961,0.596,0.516,0.457,0.0,8,0.106,-12.609,1,0.184,173.934,4,0.455
+26,Honey - 1991 - Remaster,56,2018-08-13T19:46:57Z,239066,Bobby Goldsboro,Honey - The Best of Bobby Goldsboro,1991,0.21,0.5,0.189,3.08e-05,7,0.129,-17.563,1,0.0307,93.259,4,0.587
+27,Six Days On The Road,35,2018-08-13T19:46:57Z,134706,Dave Dudley,20th Century Masters: The Millennium Collection: Best Of Dave Dudley,2002-01-01,0.666,0.701,0.565,4.66e-06,7,0.356,-10.715,1,0.046,90.403,4,0.913
+28,Sea of Heartbreak,40,2018-08-13T19:46:57Z,151773,Don Gibson,The Essential Don Gibson,2014-03-28,0.37,0.594,0.48,9.04e-05,7,0.33,-12.03,1,0.0351,91.18,4,0.799
+29,Bright Lights and Country Music,9,2018-08-13T19:46:57Z,161413,Bill Anderson,Greats,2012-07-02,0.0985,0.669,0.407,2.2e-05,9,0.1,-11.588,1,0.0284,135.367,4,0.69
+30,Ring of Fire,63,2018-08-13T19:46:57Z,155706,Johnny Cash,The Essential Johnny Cash,2002-02-12,0.267,0.661,0.517,0.000158,7,0.431,-8.004,1,0.0269,104.563,4,0.676
+31,Don't You Ever Get Tired of Hurting Me,38,2018-08-13T19:46:57Z,168240,Ray Price,The Other Woman,1965,0.661,0.372,0.184,0.361,7,0.207,-16.772,1,0.031,83.535,4,0.541
+32,Make the World Go Away,40,2018-08-13T19:46:57Z,157826,Eddy Arnold,The Essential Eddy Arnold,2013-11-19,0.926,0.214,0.215,9.33e-05,1,0.121,-11.312,1,0.0318,205.359,3,0.477
+33,Still - Single Version,36,2018-08-13T19:46:57Z,166973,Bill Anderson,The Definitive Collection,2006-01-01,0.638,0.551,0.146,0.0111,8,0.203,-18.9,1,0.0488,94.497,4,0.297
+34,Ode To Billie Joe,53,2018-08-13T19:46:57Z,255001,Bobbie Gentry,Ode To Billie Joe,1967-08-21,0.721,0.637,0.189,0.0,7,0.0939,-10.726,1,0.0471,120.142,4,0.695
+35,Don't Let Me Cross Over,37,2018-08-13T19:46:57Z,177106,Carl Butler,Don't Let Me Cross Over,1963,0.871,0.59,0.188,0.0,7,0.0877,-12.253,1,0.0302,113.907,3,0.521
+36,"Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA (1st Show) - January 1968",69,2018-08-13T19:46:57Z,156426,Johnny Cash,At Folsom Prison (Legacy Edition),1968,0.0215,0.594,0.577,0.00792,0,0.883,-12.772,1,0.0534,110.783,4,0.89
+37,Pop a Top,40,2018-08-13T19:46:57Z,140306,Jim Ed Brown,The Essential Jim Ed Brown And The Browns,1996-01-30,0.687,0.524,0.497,5.66e-06,9,0.175,-10.824,1,0.0372,118.263,4,0.913
+38,Above And Beyond,39,2018-08-13T19:46:57Z,148000,Buck Owens,All-Time Greatest Hits,2010-08-31,0.597,0.52,0.525,0.0,8,0.0847,-7.449,1,0.0412,147.601,5,0.743
+39,Statue of a Fool,36,2018-08-13T19:46:57Z,181106,Jack Greene,20 All Time Greatest Hits,2005,0.845,0.474,0.249,0.00437,10,0.129,-14.124,1,0.0346,110.078,3,0.216
+40,D-I-V-O-R-C-E,41,2018-08-13T19:46:57Z,175253,Tammy Wynette,Tammy Wynette'S Greatest Hits,1967,0.836,0.619,0.33,0.0,9,0.154,-11.332,1,0.0295,99.353,4,0.602
+41,Once a Day,21,2018-08-13T19:46:57Z,138146,Connie Smith,The Essential Connie Smith,1996-04-15,0.221,0.492,0.334,0.0,6,0.0852,-10.458,1,0.0305,136.547,4,0.692
+42,The End of the World,58,2018-08-13T19:46:57Z,157573,Skeeter Davis,The Essential Skeeter Davis,1994-05-23,0.936,0.232,0.216,4.93e-06,10,0.246,-10.674,1,0.0314,94.268,3,0.432
+43,Dang Me,46,2018-08-13T19:46:57Z,102400,Roger Miller,Super Hits,1996,0.705,0.564,0.378,0.000716,9,0.0723,-14.468,1,0.168,197.325,4,0.687
+44,Fist City,43,2018-08-13T19:46:57Z,132447,Loretta Lynn,Fist City,1968-01-01,0.711,0.657,0.558,0.0,0,0.334,-8.736,1,0.0413,77.849,4,0.906
+45,Hello Walls,36,2018-08-13T19:46:57Z,142626,Faron Young,Classic Country Gold,2005-01-01,0.775,0.596,0.327,0.0,0,0.232,-11.569,1,0.0319,102.198,4,0.65
+46,Walk Through This World With Me,36,2018-08-13T19:46:57Z,137960,George Jones,Walk Through This World With Me,1966,0.449,0.435,0.295,0.000265,7,0.11,-9.043,1,0.0276,94.292,4,0.49
+47,Standing In The Shadows,31,2018-08-13T19:46:57Z,189573,"Hank Williams, Jr.","The Best Of Hank Williams, Jr. 20th Century Masters The Millennium Collection",2004-01-01,0.906,0.512,0.295,0.0131,2,0.141,-14.377,1,0.0344,97.955,4,0.579
+48,500 Miles Away from Home,47,2018-08-13T19:46:57Z,162506,Bobby Bare,Super Hits,2004-06-18,0.659,0.519,0.374,6.88e-06,7,0.644,-13.115,1,0.0314,109.253,4,0.521
+49,Chug-A-Lug,44,2018-08-13T19:46:57Z,123360,Roger Miller,The Very Best of…,2006-01-01,0.69,0.699,0.408,0.000219,11,0.145,-11.46,1,0.096,171.922,4,0.842
+50,(That's What You Get) For Lovin' Me,37,2018-08-13T19:46:57Z,146133,Waylon Jennings,The Essential Waylon Jennings,2007-05-01,0.664,0.608,0.684,2.94e-06,4,0.0897,-9.806,1,0.0419,89.074,4,0.873
+51,I've Got A Tiger By The Tail - 2006 Remastered Version,49,2018-08-13T19:46:57Z,133866,Buck Owens,21 #1 Hits: The Ultimate Collection,2006-08-01,0.595,0.701,0.497,3.12e-05,4,0.118,-10.05,1,0.0316,96.513,4,0.963
+52,Mama Tried,37,2018-08-13T19:46:57Z,134453,Merle Haggard,Mama Tried/ Pride In What I Am,2006-01-01,0.719,0.738,0.538,1.35e-05,2,0.0653,-10.118,1,0.0374,97.487,4,0.81
+53,Send Me The Pillow You Dream On,38,2018-08-13T19:46:57Z,173960,Johnny Tillotson,25 All-Time Greatest Hits,2001-01-01,0.703,0.334,0.31,1.27e-05,2,0.279,-9.126,1,0.0295,109.171,4,0.48
+54,Harper Valley P.T.A.,48,2018-08-13T19:46:57Z,194400,Jeannie C. Riley,Harper Valley P.T.A. (The Plantation Recordings 1968-70),2013-09-30,0.629,0.795,0.448,0.0,4,0.0659,-13.427,1,0.0444,122.318,4,0.96
+55,One in a Row,31,2018-08-13T19:46:57Z,152986,Willie Nelson,One Hell Of A Ride,2008-04-01,0.724,0.545,0.194,0.000191,10,0.193,-10.909,1,0.0279,96.515,4,0.515
+56,The Bottle Let Me Down,41,2018-08-13T19:46:57Z,168466,Merle Haggard,Vintage Collections,2010-01-01,0.552,0.705,0.451,0.000845,2,0.118,-8.469,1,0.0275,125.86,4,0.704
+57,I've Been Everywhere - Remastered,38,2018-08-13T19:46:57Z,164640,Hank Snow,The Essential Hank Snow,2013-11-19,0.551,0.449,0.537,0.000148,6,0.412,-13.138,1,0.0392,119.689,4,0.961
+58,Just Between You and Me,32,2018-08-13T19:46:57Z,134786,Charley Pride,Super Hits,1996-10-14,0.618,0.527,0.439,0.0,6,0.345,-11.593,1,0.0323,110.195,4,0.659
+59,(Margie's At) The Lincoln Park Inn,33,2018-08-13T19:46:57Z,198733,Bobby Bare,(Margie's At) The Lincoln Park Inn,1969-06-01,0.724,0.364,0.318,0.000234,2,0.151,-13.345,1,0.0308,131.155,3,0.525
+60,You Ain't Woman Enough,38,2018-08-13T19:46:57Z,132320,Loretta Lynn,The Definitive Collection,2005-01-01,0.488,0.673,0.44,0.0,8,0.0653,-10.761,1,0.0935,75.239,4,0.845
+61,Ballad Of Forty Dollars,32,2018-08-13T19:46:57Z,183400,Tom T. Hall,20th Century Masters: The Millennium Collection: Best Of Tom T. Hall,2000-01-01,0.334,0.6,0.843,0.0,2,0.346,-7.489,1,0.0462,115.081,4,0.866
+62,Daddy Sang Bass,53,2018-08-13T19:46:57Z,140440,Johnny Cash,The Essential Johnny Cash,2002-02-12,0.699,0.681,0.638,0.000629,4,0.0581,-7.818,1,0.0367,96.882,4,0.677
+63,A Six Pack To Go,32,2018-08-13T19:46:57Z,129360,Hank Thompson,20 Greatest Hits,2005,0.489,0.67,0.413,0.00251,9,0.119,-14.734,1,0.18,165.823,4,0.593
+64,Don't Come Home A-Drinkin' (With Lovin' On Your Mind),29,2018-08-13T19:46:57Z,127520,Loretta Lynn,The Definitive Collection,2005-01-01,0.743,0.747,0.563,2.68e-06,1,0.144,-8.47,1,0.0642,83.311,4,0.942
+65,The Cold Hard Facts of Life,34,2018-08-13T19:46:57Z,192946,Porter Wagoner,The Cold Hard Facts of Life,1967,0.851,0.516,0.438,0.0,0,0.403,-11.834,1,0.0321,132.519,4,0.42
+66,Am I Losing You,39,2018-08-13T19:46:57Z,139733,Jim Reeves,Greatest Hits,1989-09-21,0.91,0.528,0.121,0.00451,9,0.125,-21.213,1,0.0345,87.834,4,0.38
+67,Wings Of A Dove,32,2018-08-13T19:46:57Z,139093,Ferlin Husky,Capitol Collectors Series,1989-01-01,0.54,0.498,0.555,0.0,4,0.26,-11.577,1,0.0468,184.891,3,0.888
+68,Little Green Apples - Single Version,35,2018-08-13T19:46:57Z,157960,Roger Miller,All Time Greatest Hits,2003-01-01,0.879,0.506,0.182,0.0892,0,0.134,-17.9,1,0.0552,101.797,4,0.398
+69,Abilene,39,2018-08-13T19:46:57Z,133333,George Hamilton IV,Abilene,1963,0.445,0.63,0.448,1.43e-05,5,0.271,-15.015,1,0.0271,104.024,4,0.753
+70,She Thinks I Still Care - Single Version,40,2018-08-13T19:46:57Z,153333,George Jones,Best Of,2013-01-01,0.642,0.552,0.362,0.0,11,0.124,-9.847,1,0.0297,115.023,4,0.639
+71,Welcome to My World,56,2018-08-13T19:46:57Z,152600,Jim Reeves,The Essential Jim Reeves,1997-02-14,0.725,0.341,0.252,0.0594,3,0.287,-14.869,1,0.0288,81.058,4,0.399
+72,"Saginaw, Michigan",32,2018-08-13T19:46:57Z,182573,Lefty Frizzell,"Saginaw, Michigan",1964,0.878,0.596,0.366,0.00263,10,0.23,-14.933,1,0.0325,145.717,4,0.853
+73,Burning Memories - Single Version,32,2018-08-13T19:46:57Z,149200,Ray Price,Burning Memories,1964,0.899,0.32,0.297,0.000738,7,0.347,-15.054,0,0.0357,102.12,4,0.445
+74,Take Me,37,2018-08-13T19:46:57Z,140733,George Jones,The Essential George Jones,2006,0.863,0.427,0.209,0.0,9,0.103,-13.851,1,0.0308,102.668,3,0.333
+75,Flowers On the Wall,54,2018-08-13T19:46:57Z,138800,The Statler Brothers,Flowers On The Wall: The Essential Statler Brothers 1964-1969,1996-03-12,0.792,0.784,0.451,4.09e-05,8,0.115,-11.225,0,0.0723,100.303,4,0.78
+76,Walk On By,35,2018-08-13T19:46:57Z,140160,Leroy Van Dyke,Classic Country Gold,2005-01-01,0.738,0.602,0.488,0.00352,10,0.254,-11.649,1,0.031,134.218,4,0.97
+77,May the Bird of Paradise Fly up Your Nose,34,2018-08-13T19:46:57Z,151693,Little Jimmy Dickens,May the Bird of Paradise Fly Up Your Nose,1965,0.738,0.66,0.801,1.04e-05,4,0.627,-8.446,1,0.115,104.374,4,0.867
+78,Stand By Your Man,54,2018-08-13T19:46:57Z,157893,Tammy Wynette,Stand By Your Man,1968,0.776,0.563,0.331,0.000846,9,0.125,-9.681,1,0.0283,105.761,4,0.608
+79,Swinging Doors,31,2018-08-13T19:46:57Z,172920,Merle Haggard,Super Hits Collection - 32 Songs - Swinging Doors,2005,0.0234,0.79,0.523,0.00102,5,0.109,-7.627,1,0.0293,122.358,4,0.606
+80,Yakety Axe - Buddha Remastered - 2000,33,2018-08-13T19:46:57Z,123240,Chet Atkins,The Essential Chet Atkins,2007-07-16,0.305,0.608,0.691,0.629,0,0.067,-10.119,1,0.0331,118.942,4,0.921
+81,Detroit City,43,2018-08-13T19:46:57Z,169933,Bobby Bare,Super Hits,2004-06-18,0.518,0.519,0.319,9.05e-06,11,0.096,-13.142,1,0.0287,121.647,4,0.473
+82,Devil Woman,44,2018-08-13T19:46:57Z,172245,Marty Robbins,The Story Of My Life: The Best Of Marty Robbins 1952-1965,1996-03-12,0.921,0.684,0.277,6.54e-06,4,0.124,-13.1,1,0.0533,145.155,4,0.642
+83,Right Or Wrong,32,2018-08-13T19:46:57Z,157160,Wanda Jackson,The Ultimate Collection,2007-01-01,0.814,0.425,0.291,0.0,7,0.143,-10.554,1,0.0315,114.574,4,0.393
+84,He'll Have to Go,58,2018-08-13T19:46:57Z,138640,Jim Reeves,The Essential Jim Reeves,1997-02-14,0.909,0.554,0.186,0.00144,1,0.11,-15.846,1,0.0379,81.181,3,0.2
+85,Talk Back Trembling Lips,31,2018-08-13T19:46:57Z,160440,Ernest Ashworth,Greatest Hits,1991-04-15,0.751,0.575,0.435,0.0,9,0.0795,-11.801,1,0.0326,135.955,4,0.739
+86,The Last Thing On My Mind,43,2018-08-13T19:46:57Z,156160,Porter Wagoner,The Essential Porter Wagoner & Dolly Parton,2015-10-02,0.563,0.611,0.412,0.0,11,0.24,-12.513,1,0.0282,105.811,4,0.713
+87,I Fall To Pieces - Single Version,44,2018-08-13T19:46:57Z,167693,Patsy Cline,Sweet Dreams: Her Complete Decca Masters (1960-1963),2010-01-01,0.884,0.555,0.218,7.36e-05,10,0.289,-11.793,1,0.0319,111.584,4,0.612
+88,Big Iron,65,2018-08-13T19:46:57Z,235733,Marty Robbins,Gunfighter Ballads And Trail Songs,1959,0.803,0.726,0.474,0.0,1,0.258,-7.834,0,0.0491,116.027,4,0.57
+89,King Of The Road - Single Version,48,2018-08-13T19:46:57Z,148280,Roger Miller,All Time Greatest Hits,2003-01-01,0.652,0.674,0.365,0.0,11,0.14,-10.23,1,0.0758,118.009,4,0.532
+90,Misery Loves Company,31,2018-08-13T19:46:57Z,149546,Porter Wagoner,The Best Of The Best,2005,0.534,0.455,0.441,0.0,5,0.124,-11.119,1,0.08,189.169,3,0.633
+91,From a Jack to a King,32,2018-08-13T19:46:57Z,130000,Ned Miller,Classic American Hits,2012-03-13,0.824,0.607,0.624,0.0,11,0.102,-2.983,1,0.0336,100.809,4,0.694
+92,Leavin' On Your Mind - Single Version,38,2018-08-13T19:46:57Z,144040,Patsy Cline,Sweet Dreams: Her Complete Decca Masters (1960-1963),2010-01-01,0.88,0.476,0.237,7.73e-06,7,0.485,-12.795,1,0.0292,104.614,3,0.4
+93,Together Again,31,2018-08-13T19:46:57Z,148400,Buck Owens,Together Again / My Heart Skips a Beat,1995-05-17,0.585,0.413,0.254,0.0469,1,0.138,-9.899,1,0.0281,76.904,4,0.526
+94,Me And Bobby McGee,38,2018-08-13T19:46:57Z,196400,Roger Miller,Super Hits,1996,0.392,0.538,0.492,0.00182,2,0.051,-14.736,1,0.0323,166.049,4,0.899
+95,Girl On The Billboard,33,2018-08-13T19:46:57Z,157000,Del Reeves,Son Of The South,2007-04-12,0.437,0.571,0.653,0.0,2,0.205,-9.043,1,0.0378,171.06,4,0.851
+96,There Goes My Everything,33,2018-08-13T19:46:57Z,142880,Jack Greene,20 All Time Greatest Hits,2005,0.838,0.425,0.342,0.0,10,0.147,-10.81,1,0.0282,139.205,5,0.365
+97,"Please Help Me, I'm Falling",49,2018-08-13T19:46:57Z,141466,Hank Locklin,RCA Country Legends,2003-03-01,0.828,0.552,0.336,0.0,7,0.324,-10.712,1,0.0311,105.479,4,0.553
+98,Alabam,32,2018-08-13T19:46:57Z,139906,Cowboy Copas,20 All-Time Greatest Hits,2005,0.378,0.719,0.653,0.00364,2,0.129,-11.572,1,0.0305,106.718,4,0.96
+99,Sweet Dreams (Of You) - Single Version,33,2018-08-13T19:46:57Z,152733,Patsy Cline,Sweet Dreams: Her Complete Decca Masters (1960-1963),2010-01-01,0.95,0.342,0.135,0.000117,8,0.335,-13.416,1,0.0313,83.0,4,0.387

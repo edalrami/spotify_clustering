@@ -1,0 +1,66 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,Y cómo es él?,64,2018-09-14T15:29:48Z,248000,José Luis Perales,Celebridades- Jose Luis Perales,2008-03-21,0.66,0.219,0.323,0.0,10,0.106,-12.211,1,0.0333,170.437,4,0.339
+1,Volveré,66,2018-09-14T15:29:48Z,242253,Diego Verdaguer,Diego Verdaguer En Los 70's,2009-11-09,0.872,0.5,0.418,1.66e-05,7,0.232,-11.237,1,0.0324,120.078,4,0.459
+2,Cómo Te Extraño Mi Amor (En Vivo),65,2018-09-14T15:29:48Z,195800,Leo Dan,Celebrando a una Leyenda (En Vivo),2018-03-23,0.447,0.696,0.907,0.0,2,0.729,-2.932,1,0.0407,124.993,4,0.686
+3,Olvídame y Pega la Vuelta,60,2018-09-14T15:29:48Z,185800,Pimpinela,Pimpinela,1982,0.454,0.459,0.838,0.0,8,0.691,-5.759,1,0.212,77.627,4,0.563
+4,Querida (En Vivo) - En el Palacio de Bellas Artes,58,2018-09-14T15:29:48Z,327333,Juan Gabriel,La Historia Del Divo,2006,0.463,0.52,0.499,0.0,2,0.104,-7.052,1,0.0247,87.804,4,0.423
+5,Y Volveré,3,2018-09-14T15:29:48Z,240053,Los Angeles Negros,Celebridades- los Angeles Negros,2008-03-11,0.718,0.537,0.421,0.0011,11,0.121,-7.379,0,0.0273,92.271,4,0.329
+6,Sera Porque Te Amo,58,2018-09-14T15:29:48Z,190564,Ricchi E Poveri,Exclusive Ricchi E Poveri - 15 Exitos,2010-01-28,0.157,0.874,0.668,0.0,4,0.0493,-7.421,1,0.038,118.889,4,0.979
+7,Tú de Qué Vas,72,2018-09-14T15:29:48Z,238160,Franco De Vita,Stop,2004-04-28,0.405,0.607,0.629,0.0,11,0.203,-5.931,1,0.0316,80.11,4,0.567
+8,Te He Prometido,57,2018-09-14T15:29:48Z,185560,Leo Dan,Mis Favoritas,2011-09-05,0.421,0.538,0.374,0.0,9,0.129,-9.936,1,0.0342,127.338,4,0.83
+9,Corazón de Poeta,56,2018-09-14T15:29:48Z,273133,Jeanette,Originales - 20 Exitos,1981,0.549,0.692,0.526,0.00726,6,0.144,-11.729,0,0.0284,115.29,4,0.673
+10,Porqué Te Vas?,59,2018-09-14T15:29:48Z,201160,Jeanette,Porque Te Vas,2011-01-25,0.427,0.612,0.458,8.41e-06,0,0.103,-11.086,0,0.069,172.516,4,0.961
+11,¿Quieres Ser Mi Amante?,63,2018-09-14T15:29:48Z,249666,Camilo Sesto,Camilo,1974,0.792,0.409,0.574,1.28e-06,5,0.0915,-8.112,0,0.0415,151.979,4,0.55
+12,Asi Fue,60,2018-09-14T15:29:48Z,324573,Isabel Pantoja,Lo Esencial,2000-01-01,0.274,0.749,0.51,1.21e-06,7,0.161,-4.408,1,0.0275,109.979,4,0.514
+13,Para Amarnos Más,65,2018-09-14T15:29:48Z,208253,Manuel Mijares,Antología,2002-01-01,0.379,0.521,0.592,0.000749,3,0.081,-10.755,1,0.0349,140.295,4,0.31
+14,Mi gran noche,57,2018-09-14T15:29:48Z,180866,Raphael,Maravilloso Raphael,2005-11-21,0.579,0.645,0.653,0.0,9,0.0726,-7.183,1,0.0629,138.498,4,0.868
+15,¿A Dónde Vamos A Parar?,19,2018-09-14T15:29:48Z,228920,Marco Antonio Solís,En Total Plenitud,2010-01-01,0.446,0.376,0.5,0.00438,0,0.124,-4.893,1,0.0288,144.04,4,0.188
+16,La Gata Bajo la Lluvia,63,2018-09-14T15:29:48Z,217506,Rocío Dúrcal,Mis Mejores Canciones,1992-10-14,0.717,0.302,0.461,2.23e-06,7,0.57,-12.678,1,0.0547,175.799,4,0.521
+17,prometimos no llorar,55,2018-09-14T15:29:48Z,203133,Palito Ortega,Colecccion de Oro,2001,0.763,0.452,0.542,3.74e-06,9,0.0874,-13.393,0,0.0546,166.962,4,0.592
+18,"Ella...Ella Ya Me Olvidó, Yo la Recuerdo Ahora",57,2018-09-14T15:29:48Z,222560,Leonardo Favio,Baladas De Amor,2000-11-04,0.445,0.373,0.327,0.0,9,0.131,-13.964,0,0.0288,105.467,4,0.429
+19,El Triste,53,2018-09-14T15:29:48Z,251946,José José,Mis Favoritas,2011-09-05,0.636,0.363,0.561,0.0,0,0.105,-7.671,0,0.0394,108.993,4,0.495
+20,Secreto De Amor,66,2018-09-14T15:29:48Z,275200,Joan Sebastian,Lo Mejor de Joan Sebastian,2008-09-01,0.768,0.568,0.476,4.43e-05,2,0.119,-7.111,0,0.0438,95.834,4,0.577
+21,El Hombre Que Yo Amo,15,2018-09-14T15:29:48Z,212840,Myriam Hernandez,Yo Sé Que Te Acordarás Pop Latino (Vol. 2),2014-04-10,0.214,0.313,0.589,0.0,8,0.0914,-4.705,0,0.0528,177.825,4,0.217
+22,Amigo,45,2018-09-14T15:29:48Z,205133,Roberto Carlos,Grandes Exitos,2007-05-08,0.187,0.582,0.668,0.0,11,0.114,-8.585,0,0.0433,145.271,4,0.864
+23,Mi Forma De Sentir,6,2018-09-14T15:29:48Z,246493,Pedro Fernández,Éxitos Deluxe,2012-01-01,0.672,0.307,0.334,0.0,4,0.117,-8.537,1,0.0318,132.589,4,0.264
+24,Fuiste Mía un Verano,57,2018-09-14T15:29:48Z,173480,Leonardo Favio,Baladas De Amor,2000-11-04,0.421,0.45,0.379,0.00711,9,0.148,-10.661,0,0.0325,120.166,4,0.449
+25,Si Tu No Vuelves,59,2018-09-14T15:29:48Z,278293,Miguel Bosé,Lo Mejor De Bosé,1999,0.355,0.74,0.509,0.0963,6,0.117,-6.971,1,0.0332,121.971,4,0.133
+26,Te He Prometido (En Vivo),63,2018-09-14T15:29:48Z,190280,Leo Dan,Celebrando a una Leyenda (En Vivo),2018-03-23,0.221,0.674,0.891,0.0,7,0.927,-4.786,1,0.0477,129.97,4,0.648
+27,Cómo Quisiera Decirte - 2002 Digital Remaster,2,2018-09-14T15:29:48Z,166373,Los Angeles Negros,Celebridades- los Angeles Negros,2008-03-11,0.546,0.653,0.528,0.0,4,0.0702,-5.444,0,0.0317,92.099,4,0.232
+28,Corazón mágico,56,2018-09-14T15:29:48Z,198000,Dyango,30 Exitos Insuperables,2003-03-07,0.243,0.639,0.36,1.35e-06,4,0.048,-12.725,1,0.03,114.004,4,0.559
+29,Procuro Olvidarte - Remasterizado,49,2018-09-14T15:29:48Z,269520,Hernaldo Zuniga,Hernaldo (Remasterizado),1980,0.798,0.397,0.426,0.0,11,0.19,-11.18,0,0.0608,156.413,4,0.48
+30,Quererte A Ti,53,2018-09-14T15:29:48Z,276533,Angela Carrasco,Ellas Cantan Asi,2003-05-27,0.744,0.338,0.242,0.0,9,0.084,-15.993,1,0.0401,169.365,4,0.256
+31,Bailar Pegados,20,2018-09-14T15:29:48Z,282826,Sergio Dalma,1989-2004 Lo Mejor De,2004-01-01,0.126,0.564,0.509,0.000743,0,0.075,-8.498,1,0.0286,139.832,4,0.392
+32,Rosa Rosa,48,2018-09-14T15:29:48Z,162541,Sandro,Rosa Rosa,2018-02-14,0.0346,0.334,0.927,0.0,0,0.0664,-5.367,1,0.107,99.224,4,0.857
+33,Un Beso Y Una Flor,60,2018-09-14T15:29:48Z,274160,Nino Bravo,Super 20,1976-01-01,0.671,0.266,0.529,0.0,9,0.0608,-9.852,1,0.0315,168.084,4,0.416
+34,El Gato Que Está Triste y Azul - Un Gato Nel Blu,44,2018-09-14T15:29:48Z,231493,Roberto Carlos,30 Grandes Canciones,2000,0.675,0.447,0.457,0.0,4,0.339,-10.969,1,0.0331,112.918,4,0.59
+35,El Ultimo Beso - The last kiss,55,2018-09-14T15:29:48Z,162186,Polo,El Ultimo Beso,2011-02-21,0.807,0.687,0.395,0.0,4,0.369,-7.811,1,0.041,136.302,4,0.754
+36,La Soledad,59,2018-09-14T15:29:48Z,263493,Laura Pausini,Lo Mejor De Laura Pausini - Volvere Junto A Ti,2001-10-08,0.722,0.593,0.349,0.0,8,0.133,-6.894,1,0.0284,124.046,4,0.218
+37,Eres Tú,55,2018-09-14T15:29:48Z,212400,Mocedades,Coleccion Original: Mocedades,1998-01-01,0.0372,0.421,0.61,0.0,2,0.288,-5.418,1,0.0274,81.608,4,0.713
+38,Dejenme Si Estoy Llorando,57,2018-09-14T15:29:48Z,181906,Nelson Ned,Antologia (Volumen 2),2000-08-29,0.498,0.349,0.41,0.0,7,0.113,-10.299,1,0.033,115.656,3,0.667
+39,Echame A Mi La Culpa,50,2018-09-14T15:29:48Z,177800,Albert Hammond,My Spanish Album,1994-09-08,0.308,0.623,0.505,0.0,0,0.261,-12.736,1,0.0294,110.983,4,0.817
+40,Se Que Volveras,13,2018-09-14T15:29:48Z,262664,Nana Mouskouri,Nana Latina,1996-01-01,0.601,0.533,0.498,0.00156,2,0.117,-9.279,1,0.0246,95.313,4,0.241
+41,Puerto Montt,51,2018-09-14T15:29:48Z,188360,Los Iracundos,Antologia Los Iracundos,2000,0.169,0.32,0.574,1.43e-06,2,0.61,-6.887,0,0.0306,105.805,4,0.531
+42,Tu Cabeza en Mi Hombro,53,2018-09-14T15:29:48Z,153000,Enrique Guzman,Tesoros De Colección - Los 5 Grandes del Rock,2012,0.804,0.185,0.43,3.94e-06,7,0.341,-8.064,1,0.0321,85.034,4,0.433
+43,Quiereme Mucho - Yours,48,2018-09-14T15:29:48Z,244013,Julio Iglesias,Personalidad,2002-09-03,0.696,0.448,0.758,5.47e-05,2,0.423,-5.938,1,0.0406,125.775,4,0.585
+44,Como una Ola,50,2018-09-14T15:29:48Z,256093,Rocío Jurado,Coleccion Original: Rocio Jurado,1999-01-01,0.758,0.602,0.465,1.92e-05,4,0.058,-7.539,1,0.0314,104.265,4,0.397
+45,No soy de aquí,51,2018-09-14T15:29:48Z,247266,Alberto Cortez,Grandes Éxitos: Alberto Cortez,2005-03-21,0.433,0.199,0.581,0.174,5,0.145,-4.664,0,0.0329,79.522,4,0.474
+46,Deja De Llorar,49,2018-09-14T15:29:48Z,205453,Manolo Galvan,20 Secretos de Amor - Manolo Galván,2004-04-15,0.584,0.429,0.431,0.0,7,0.122,-8.626,0,0.037,146.32,4,0.381
+47,Mediterraneo,60,2018-09-14T15:29:48Z,205226,Joan Manuel Serrat,Mediterráneo,1971,0.599,0.545,0.59,0.0,9,0.0916,-7.257,0,0.0813,100.835,3,0.583
+48,Te Quiero Tanto,49,2018-09-14T15:29:48Z,231666,Ivan,Fotonovela,2000-10-23,0.295,0.614,0.723,9.12e-06,9,0.082,-10.269,0,0.0726,117.01,4,0.52
+49,El Pecador,53,2018-09-14T15:29:48Z,200875,Alberto Vazquez,16 Exitos Baladas - Alberto Vazquez,1991-12-19,0.696,0.248,0.318,0.0,4,0.158,-8.971,0,0.0358,177.253,3,0.154
+50,Un Ramito de Violetas,49,2018-09-14T15:29:48Z,252666,Cecilia,Un Ramito De Violetas,1992-03-05,0.937,0.329,0.227,2.65e-05,9,0.465,-16.514,0,0.0469,73.807,4,0.319
+51,Dos Amantes,43,2018-09-14T15:29:48Z,250600,Danny Rivera,Lo Mejor de Danny Rivera,2004,0.643,0.352,0.339,0.0038,4,0.358,-14.335,1,0.0371,81.253,4,0.462
+52,Si Voz Te Vas,48,2018-09-14T15:29:48Z,175453,Piero,Mis Recuerdos,2013-10-25,0.776,0.531,0.388,2.7e-06,9,0.163,-11.518,0,0.0306,88.504,4,0.76
+53,Me Muero por Estar Contigo,46,2018-09-14T15:29:48Z,226826,Silvana Di Lorenzo,20 Secretos De Amor - Silvana Di Lorenzo,2004-05-24,0.0341,0.562,0.4,8.17e-06,6,0.0842,-6.484,1,0.0331,90.399,4,0.558
+54,De Tanto Soñar,51,2018-09-14T15:29:48Z,213106,Diego Verdaguer,Coco Loco,1984-07-13,0.534,0.701,0.487,0.0112,7,0.0757,-14.379,1,0.0457,127.749,4,0.811
+55,Un Cafe Para Platon,47,2018-09-14T15:29:48Z,242560,Fernando Ubiergo,Mis Mejores Canciones,2006-01-01,0.791,0.346,0.398,5.21e-05,9,0.154,-12.539,1,0.0366,86.058,4,0.381
+56,Capri se Acabó,47,2018-09-14T15:29:48Z,211666,Hervé Vilard,Herve Vilard,2007-01-01,0.0337,0.402,0.471,0.0,10,0.0747,-9.294,1,0.105,67.891,4,0.723
+57,Beso A Beso... Dulcemente,47,2018-09-14T15:29:48Z,252213,Paloma San Basilio,Diva,2006-02-20,0.578,0.416,0.499,0.0,1,0.163,-6.736,1,0.03,126.918,4,0.439
+58,Rosa Rosa,45,2018-09-14T15:29:48Z,160053,Sandro,Sandro - Grandes exitos,2011-10-21,0.713,0.672,0.622,5.44e-05,11,0.271,-10.718,0,0.111,99.642,3,0.903
+59,El Amor Es Triste - (Love Is Blue),40,2018-09-14T15:29:48Z,141000,Angelica Maria,Tesoros De Colección - Los 5 Grandes del Rock,2012,0.739,0.618,0.409,1.37e-05,7,0.37,-11.928,1,0.0304,115.957,4,0.612
+60,El Gato Y Yo,49,2018-09-14T15:29:48Z,207573,Amanda Miguel,"Mexicanos, Vol. 2",2011-06-09,0.00633,0.753,0.802,0.000127,4,0.919,-6.198,0,0.0354,129.992,4,0.928
+61,Insoportablemente Bella,59,2018-09-14T15:29:48Z,216813,Emmanuel,Mis Favoritas,2010-06-14,0.208,0.56,0.476,0.0,9,0.0465,-7.618,0,0.0266,66.761,4,0.256
+62,Como Deseo Ser Tu Amor,0,2018-09-14T15:29:48Z,227160,Los Galos,30 Mejores Exitos,2008,0.372,0.511,0.405,0.000262,9,0.151,-10.254,1,0.0366,89.841,4,0.459
+63,Alguien Canto - The Music Played,48,2018-09-14T15:29:48Z,197866,Matt Monro,En Espana/Grandes Exitos En Espanol,2007-04-09,0.709,0.393,0.365,0.00726,6,0.317,-10.496,0,0.0278,81.525,4,0.364
+64,Atento Al Lobo,41,2018-09-14T15:29:48Z,267818,Lucio Dalla,Historias Y Cuentos,2003-04-09,0.648,0.862,0.672,0.0,0,0.149,-6.322,1,0.0332,107.087,4,0.796

@@ -1,0 +1,100 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,I'm Movin' On,33,2018-08-13T19:45:28Z,167920,"Hank Snow, The Singing Ranger, And His Rainbow Ranch Boys",Super Hits,2004-06-22,0.769,0.569,0.701,0.000104,2,0.211,-7.404,1,0.0307,97.436,4,0.933
+1,"Blue, Blue Day",40,2018-08-13T19:45:28Z,113240,Don Gibson,The Essential Don Gibson,2014-03-28,0.794,0.729,0.486,0.0,4,0.192,-10.84,1,0.0299,100.161,4,0.978
+2,Be-Bop-A-Lula,50,2018-08-13T19:45:28Z,156306,Gene Vincent & His Blue Caps,Dance To The Bop,2004-02-07,0.414,0.593,0.537,0.0,9,0.147,-10.906,1,0.0444,126.071,4,0.843
+3,Chattanoogie Shoe Shine Boy,33,2018-08-13T19:45:28Z,169000,Red Foley,Country Music Hall Of Fame: Red Foley,1991-01-01,0.617,0.74,0.382,0.00549,10,0.116,-15.948,1,0.0563,148.269,4,0.836
+4,Jambalaya (On The Bayou) - Single Version,53,2018-08-13T19:45:28Z,174933,Hank Williams,40 Greatest Hits,1978-01-01,0.885,0.507,0.188,7.49e-06,7,0.0895,-15.554,1,0.0348,164.279,4,0.872
+5,I Forgot More Than You'll Ever Know - Remastered,36,2018-08-13T19:45:28Z,181506,The Davis Sisters,Skeeter Davis: RCA Country Legend,2001-09-25,0.887,0.661,0.288,0.0,1,0.132,-6.635,1,0.0255,96.513,3,0.417
+6,White Lightning - Single Version,47,2018-08-13T19:45:28Z,165453,George Jones,Best Of,2013-01-01,0.709,0.626,0.797,1.21e-06,10,0.128,-9.607,1,0.0687,149.483,4,0.955
+7,Hound Dog,71,2018-08-13T19:45:28Z,136026,Elvis Presley,Elvis' Golden Records,1958-03-21,0.733,0.357,0.756,0.00505,0,0.76,-8.492,1,0.0621,174.797,4,0.95
+8,You Win Again,37,2018-08-13T19:45:28Z,155760,Hank Williams,The Complete Hank Williams,1998-01-01,0.674,0.648,0.228,0.0,4,0.122,-12.684,1,0.0292,114.258,4,0.544
+9,It Wasn't God Who Made Honky Tonk Angels,34,2018-08-13T19:45:28Z,150933,Kitty Wells,20th Century Masters: The Millennium Collection: Best of Kitty Wells,2002-01-01,0.701,0.565,0.23,0.0,9,0.346,-9.772,1,0.0284,137.81,4,0.792
+10,Whole Lotta Shakin' Going On,48,2018-08-13T19:45:28Z,177693,Jerry Lee Lewis,Original Golden Hits - Volume 1,1969-01-01,0.664,0.379,0.53,4.45e-06,0,0.14,-11.281,1,0.0313,159.177,4,0.574
+11,I Walk The Line - Single Version,52,2018-08-13T19:45:28Z,163026,Johnny Cash,Classic Country Gold,2005-01-01,0.777,0.863,0.382,0.00103,10,0.109,-14.34,1,0.0464,105.766,4,0.744
+12,"Cold, Cold Heart - Single Version",39,2018-08-13T19:45:28Z,163053,Hank Williams,The Best Of Hank Williams 20th Century Masters The Millennium Collection Volume 2,2006-01-01,0.885,0.583,0.232,0.0,2,0.15,-8.386,1,0.034,113.491,4,0.517
+13,Jailhouse Rock,74,2018-08-13T19:45:28Z,146480,Elvis Presley,Elvis' Golden Records,1958-03-21,0.41,0.647,0.582,1.93e-06,10,0.0715,-9.538,0,0.0755,167.396,4,0.915
+14,Young Love,43,2018-08-13T19:45:28Z,152200,Sonny James,Capitol Collectors Series,2006-01-01,0.752,0.455,0.244,9.52e-06,2,0.0959,-16.097,1,0.041,146.483,3,0.383
+15,There Stands The Glass,38,2018-08-13T19:45:28Z,146666,Webb Pierce,20th Century Masters: The Millennium Collection: Best Of Webb Pierce,2001-01-01,0.911,0.512,0.256,0.0,3,0.358,-7.178,1,0.0305,114.972,4,0.718
+16,Salty Dog Rag,35,2018-08-13T19:45:28Z,164762,Red Foley,Salty Dog Rag,2014-03-15,0.68,0.713,0.583,0.0,10,0.127,-9.211,1,0.0831,178.991,4,0.851
+17,Don't Be Cruel,64,2018-08-13T19:45:28Z,122893,Elvis Presley,Elvis' Golden Records,1958-03-21,0.856,0.697,0.55,3.44e-05,2,0.0907,-11.496,1,0.18,84.802,4,0.844
+18,Why Don't You Love Me - Single Version,2,2018-08-13T19:45:28Z,143373,Hank Williams,The Best Of Hank Williams 20th Century Masters The Millennium Collection,2006-01-01,0.532,0.774,0.299,0.0,7,0.0897,-13.219,1,0.0622,140.481,4,0.963
+19,Crazy Arms,40,2018-08-13T19:45:28Z,152906,Ray Price,Greatest Hits,1956,0.666,0.506,0.42,0.0,5,0.204,-9.785,1,0.0334,116.76,4,0.761
+20,Tennessee Stud - Remastered,35,2018-08-13T19:45:28Z,185026,Eddy Arnold,The Essential Eddy Arnold,2013-11-19,0.71,0.807,0.319,0.0,5,0.126,-17.234,1,0.0443,94.789,4,0.689
+21,The Battle Of New Orleans,48,2018-08-13T19:45:28Z,151626,Johnny Horton,Johnny Horton'S Greatest Hits,1961,0.764,0.703,0.776,0.0,9,0.0988,-10.983,1,0.139,177.283,4,0.921
+22,Birmingham Bounce,33,2018-08-13T19:45:28Z,171288,Red Foley,Salty Dog Rag,2014-03-15,0.635,0.83,0.583,2.34e-06,8,0.097,-10.736,1,0.0905,92.377,4,0.873
+23,Kisses Sweeter Than Wine,35,2018-08-13T19:45:28Z,133466,Jimmie Rodgers,Kisses Sweeter Than Wine,2017-03-16,0.957,0.704,0.227,8.02e-05,9,0.0895,-14.351,1,0.0914,85.026,4,0.679
+24,Sixteen Tons,56,2018-08-13T19:45:28Z,158306,Tennessee Ernie Ford,Vintage Collections,1997-01-01,0.796,0.693,0.324,0.0,11,0.246,-15.085,1,0.205,144.14,4,0.382
+25,Great Balls of Fire,50,2018-08-13T19:45:28Z,111240,Jerry Lee Lewis,The Essential Jerry Lee Lewis [The Sun Sessions],2013-05-10,0.55,0.592,0.627,0.0,10,0.43,-10.14,1,0.0662,79.567,4,0.909
+26,Wildwood Flower - Instrumental,33,2018-08-13T19:45:28Z,177866,Hank Thompson,Vintage Collections,1996-06-11,0.597,0.648,0.449,0.896,0,0.0537,-10.971,1,0.0416,117.197,4,0.974
+27,Am I Losing You,39,2018-08-13T19:45:28Z,139733,Jim Reeves,Greatest Hits,1989-09-21,0.91,0.528,0.121,0.00451,9,0.125,-21.213,1,0.0345,87.834,4,0.38
+28,Heartbreak Hotel,65,2018-08-13T19:45:28Z,127560,Elvis Presley,Elvis' Golden Records,1958-03-21,0.84,0.696,0.21,1.62e-06,4,0.107,-11.922,1,0.067,93.543,4,0.717
+29,Fraulein,32,2018-08-13T19:45:28Z,161440,Bobby Helms,20 Of His Best,2010-03-30,0.261,0.745,0.408,0.00321,7,0.112,-9.703,1,0.0368,120.981,4,0.676
+30,Send Me the Pillow You Dream On,46,2018-08-13T19:45:28Z,147440,Hank Locklin,RCA Country Legends,2003-03-01,0.84,0.595,0.308,4.08e-06,3,0.0942,-11.626,1,0.0333,119.755,4,0.624
+31,Always Late (With Your Kisses),27,2018-08-13T19:45:28Z,184040,Lefty Frizzell,16 Biggest Hits,1950,0.842,0.776,0.198,0.0,9,0.35,-11.406,1,0.0318,117.755,3,0.567
+32,Hey Joe,31,2018-08-13T19:45:28Z,157146,Kitty Wells,Heartbreak USA 1953-1962,2014-10-27,0.763,0.742,0.503,0.0,10,0.128,-7.474,1,0.0309,112.825,4,0.856
+33,Singing the Blues,41,2018-08-13T19:45:28Z,145640,Marty Robbins,The Essential Marty Robbins 1951-1982,1991-10-29,0.391,0.546,0.469,0.0,5,0.091,-8.967,1,0.0289,142.712,4,0.779
+34,All Shook Up,64,2018-08-13T19:45:28Z,117080,Elvis Presley,Elvis' Golden Records,1958-03-21,0.881,0.624,0.468,6.35e-06,10,0.144,-12.162,1,0.132,74.139,4,0.952
+35,Bye Bye Love,60,2018-08-13T19:45:28Z,142906,The Everly Brothers,The Very Best of The Everly Brothers,1964-08-01,0.724,0.547,0.523,0.0,9,0.103,-9.176,1,0.0572,169.598,4,0.89
+36,The Auctioneer,45,2018-08-13T19:45:28Z,167622,Leroy Van Dyke,Golden Hits - The World's Most Famous Auctioneer,1974-01-01,0.452,0.702,0.727,2.39e-06,2,0.352,-9.209,1,0.0451,131.398,4,0.971
+37,I Don't Hurt Anymore - Remastered,31,2018-08-13T19:45:28Z,175266,Hank Snow & His Rainbow Ranch Boys,The Essential Hank Snow,2013-11-19,0.812,0.548,0.349,0.0,11,0.13,-10.805,1,0.0295,94.379,4,0.702
+38,Gotta Travel On,25,2018-08-13T19:45:28Z,150493,Billy Grammer,Gotta Travel On: The Very Best Of Billy Grammar,1998,0.822,0.568,0.512,1.14e-05,3,0.0941,-12.223,1,0.0764,177.144,4,0.892
+39,Waterloo,26,2018-08-13T19:45:28Z,148306,Stonewall Jackson,The Best Of Stonewall Jackson,1992,0.527,0.345,0.684,0.0,8,0.359,-9.338,0,0.0311,202.968,4,0.962
+40,Slow Poke,30,2018-08-13T19:45:28Z,178706,Hawkshaw Hawkins,Best Of The Best,2005,0.712,0.637,0.576,0.00884,8,0.101,-12.716,1,0.0373,137.723,4,0.876
+41,Ballad of a Teenage Queen,49,2018-08-13T19:45:28Z,130826,Johnny Cash,Johnny Cash at Sun,2014-01-15,0.583,0.678,0.407,0.0,3,0.121,-11.037,0,0.055,97.957,4,0.641
+42,Gone,35,2018-08-13T19:45:28Z,129533,Ferlin Husky,"Super Country Hits, Vol. 1",2013-10-24,0.816,0.641,0.383,2.12e-05,9,0.147,-9.542,1,0.0279,82.536,4,0.608
+43,Invitation to the Blues,32,2018-08-13T19:45:28Z,168106,Ray Price,Greatest Hits,1956,0.788,0.507,0.358,2.5e-05,3,0.0673,-12.085,1,0.0324,116.489,4,0.814
+44,A White Sport Coat (with Ray Conniff),33,2018-08-13T19:45:28Z,148600,Marty Robbins,The Essential Marty Robbins 1951-1982,1991-10-29,0.811,0.622,0.648,0.000212,1,0.146,-8.825,1,0.0308,114.055,4,0.808
+45,Cattle Call,34,2018-08-13T19:45:28Z,163346,Eddy Arnold,The Essential Eddy Arnold,1996-06-18,0.918,0.438,0.243,0.000811,3,0.0916,-12.28,1,0.027,78.745,3,0.442
+46,Goin' Steady,31,2018-08-13T19:45:28Z,161533,Faron Young,The Complete Capitol Hits Of Faron Young,2000,0.797,0.734,0.309,0.0,0,0.0883,-8.149,1,0.0344,117.662,4,0.683
+47,Midnight,24,2018-08-13T19:45:28Z,192960,Red Foley,Country Music Hall Of Fame: Red Foley,1991-01-01,0.823,0.691,0.26,4.8e-06,2,0.102,-14.15,1,0.0297,79.08,4,0.447
+48,In The Jailhouse Now,33,2018-08-13T19:45:28Z,125906,Webb Pierce,20th Century Masters: The Millennium Collection: Best Of Webb Pierce,2001-01-01,0.896,0.624,0.474,0.0,4,0.0772,-6.028,1,0.0355,80.548,4,0.811
+49,"Goodnight, Irene",32,2018-08-13T19:45:28Z,181653,Ernest Tubb,The Definitive Collection,2006-01-01,0.863,0.669,0.187,0.0,4,0.339,-12.353,1,0.043,128.878,3,0.517
+50,Blue Suede Shoes,30,2018-08-13T19:45:28Z,136960,Carl Perkins,A-Sides,2013-12-10,0.26,0.531,0.804,0.000877,2,0.272,-3.438,1,0.0383,168.761,4,0.97
+51,"Hey, Good Lookin' - Single Version",52,2018-08-13T19:45:28Z,175333,Hank Williams,40 Greatest Hits,1978-01-01,0.874,0.789,0.25,0.0,7,0.125,-12.786,1,0.0413,141.076,4,0.87
+52,Hey Joe,26,2018-08-13T19:45:28Z,149360,Carl Smith,Deep Water,2005,0.329,0.737,0.611,3.87e-06,2,0.0712,-8.686,1,0.0291,110.107,4,0.646
+53,On Top Of Old Smokey,26,2018-08-13T19:45:28Z,164293,The Weavers,The Weavers Ultimate Collection,2013-04-17,0.861,0.418,0.498,0.0,11,0.273,-7.275,1,0.0348,167.583,3,0.6
+54,Folsom Prison Blues,53,2018-08-13T19:45:28Z,172026,Johnny Cash,50's Jukebox Classics,2014-05-15,0.716,0.728,0.679,3.65e-05,5,0.0901,-5.78,1,0.0262,101.601,4,0.869
+55,I Ain't Never - Single Version,29,2018-08-13T19:45:28Z,113640,Webb Pierce,20th Century Masters: The Millennium Collection: Best Of Webb Pierce,2001-01-01,0.681,0.934,0.651,1.8e-05,11,0.0925,-6.264,1,0.0318,122.587,4,0.962
+56,Half As Much,27,2018-08-13T19:45:28Z,162933,Hank Williams,The Complete Hank Williams,1998-01-01,0.895,0.667,0.33,2.87e-05,2,0.119,-9.947,1,0.0302,127.109,4,0.464
+57,Making Believe - 1955 Single Version,26,2018-08-13T19:45:28Z,173800,Kitty Wells,20th Century Masters: The Millennium Collection: Best of Kitty Wells,2002-01-01,0.747,0.55,0.257,0.0,5,0.161,-10.82,1,0.0254,102.787,4,0.471
+58,Four Walls,38,2018-08-13T19:45:28Z,168640,Jim Reeves,The Essential Jim Reeves,1997-02-14,0.848,0.388,0.157,2.41e-05,9,0.309,-15.955,1,0.0291,95.965,3,0.227
+59,I Love You a Thousand Ways,21,2018-08-13T19:45:28Z,163000,Lefty Frizzell,16 Biggest Hits,1950,0.642,0.675,0.312,0.0,4,0.0898,-9.351,1,0.0316,127.179,4,0.644
+60,Kaw-Liga - Single Version,39,2018-08-13T19:45:28Z,153693,Hank Williams,The Best Of Hank Williams 20th Century Masters The Millennium Collection Volume 2,2006-01-01,0.817,0.636,0.382,0.0,11,0.234,-7.649,0,0.0329,111.216,4,0.69
+61,Honeycomb [Single Version],25,2018-08-13T19:45:28Z,137106,Jimmie Rodgers,The Best Of Jimmie Rodgers,1990,0.608,0.552,0.463,0.0,2,0.323,-11.568,1,0.106,198.372,4,0.909
+62,Under Your Spell Again,28,2018-08-13T19:45:28Z,160379,Buck Owens,Essential Country Hits,2017-01-06,0.459,0.586,0.434,1.56e-05,9,0.0606,-6.148,1,0.0302,76.235,4,0.799
+63,Love Me Tender - Mono,39,2018-08-13T19:45:28Z,162133,Elvis Presley,The 50 Greatest Love Songs,2001-11-12,0.91,0.454,0.0659,5.74e-06,9,0.103,-15.13,1,0.0404,78.135,4,0.282
+64,Honky Tonk Blues - 1952 Single Version,27,2018-08-13T19:45:28Z,130133,Hank Williams,Their Greatest Hits,2007-01-01,0.83,0.776,0.256,3.41e-06,9,0.112,-11.046,1,0.0505,127.867,4,0.772
+65,I Love You Because,26,2018-08-13T19:45:28Z,127746,Margaret Whiting,Best Jazz Country,2013-10-22,0.889,0.482,0.257,1.1e-06,5,0.13,-11.482,1,0.0281,97.12,4,0.586
+66,The Wild Side Of Life,35,2018-08-13T19:45:28Z,164520,Hank Thompson,Songs Of The Brazos Valley,1956-01-01,0.924,0.596,0.144,0.0,2,0.219,-10.307,1,0.0298,115.681,4,0.451
+67,Why Baby Why - Single Version,35,2018-08-13T19:45:28Z,137760,George Jones,Best Of George Jones: 20th Century Masters: The Millennium Collection,2000-01-01,0.667,0.671,0.606,6.59e-06,7,0.0524,-4.426,1,0.0471,79.403,4,0.921
+68,Indian Love Call,35,2018-08-13T19:45:28Z,190653,Slim Whitman,The Very Best Of Slim Whitman,2010-01-01,0.97,0.242,0.261,0.000253,3,0.1,-7.895,1,0.0335,203.913,4,0.386
+69,Walkin' After Midnight,55,2018-08-13T19:45:28Z,154000,Patsy Cline,The Very Best Of Patsy Cline,1996-01-01,0.806,0.749,0.315,0.0,0,0.121,-9.159,1,0.0344,134.834,3,0.813
+70,Slow Poke - Single Version,29,2018-08-13T19:45:28Z,180560,Pee Wee King & His Golden West Cowboys,Nippers 50's-Vol.1,1988-10-18,0.732,0.756,0.175,2.47e-06,7,0.0737,-15.094,1,0.138,133.907,4,0.783
+71,I'll Sail My Ship Alone,25,2018-08-13T19:45:28Z,132626,Moon Mullican,30 Country Hits: A History Of Country Music,2005,0.683,0.751,0.411,0.0,2,0.0934,-10.854,1,0.0308,93.939,4,0.967
+72,I Can't Help It (If I'm Still In Love With You) - Single Version,30,2018-08-13T19:45:28Z,143200,Hank Williams,The Best Of Hank Williams 20th Century Masters The Millennium Collection Volume 2,2006-01-01,0.728,0.671,0.29,0.0,4,0.318,-6.781,1,0.0368,115.991,4,0.608
+73,Honky Tonk Man,30,2018-08-13T19:45:28Z,130933,Johnny Horton,The Essential Johnny Horton,2013-06-04,0.516,0.525,0.622,0.0,4,0.505,-10.18,1,0.0367,135.816,4,0.965
+74,Wake Up Little Susie,61,2018-08-13T19:45:28Z,123520,The Everly Brothers,The Very Best of The Everly Brothers,1964-08-01,0.318,0.709,0.62,0.0,2,0.0426,-9.382,1,0.034,93.723,4,0.936
+75,I Can't Stop Loving You,34,2018-08-13T19:45:28Z,154440,Don Gibson,The Essential Don Gibson,2014-03-28,0.946,0.595,0.289,8.98e-05,11,0.246,-11.768,1,0.0292,83.428,4,0.505
+76,"Blues, Stay Away From Me",28,2018-08-13T19:45:28Z,174693,The Delmore Brothers,16 All Time Favorite Songs,2005,0.925,0.631,0.339,0.471,3,0.106,-9.796,1,0.0249,103.224,4,0.6
+77,Rebel Rouser,52,2018-08-13T19:45:28Z,153533,Duane Eddy,The Best Of Duane Eddy,1965,0.789,0.388,0.434,0.954,7,0.728,-11.997,1,0.0354,206.313,4,0.873
+78,My Special Angel,40,2018-08-13T19:45:28Z,179293,Bobby Helms,Bobby Helms Sings To My Special Angel,1957-03-03,0.824,0.478,0.29,0.0,1,0.114,-8.591,1,0.0243,79.111,4,0.375
+79,Heartaches By The Number,37,2018-08-13T19:45:28Z,176626,Ray Price,Super Hits,1954,0.639,0.515,0.603,0.0,10,0.121,-6.246,1,0.0318,127.151,4,0.892
+80,Your Cheatin' Heart - Single Version,47,2018-08-13T19:45:28Z,163506,Hank Williams,40 Greatest Hits,1978-01-01,0.947,0.666,0.129,4.59e-06,0,0.333,-17.21,1,0.0322,128.054,4,0.562
+81,Alabama Jubilee,20,2018-08-13T19:45:28Z,167906,Red Foley,Country Music Hall Of Fame: Red Foley,1991-01-01,0.231,0.801,0.607,6.51e-05,0,0.315,-13.441,1,0.0596,125.263,4,0.908
+82,(Let Me Be Your) Teddy Bear,38,2018-08-13T19:45:28Z,107186,Elvis Presley,Elvis' Golden Records,1958-03-21,0.83,0.628,0.399,0.0,0,0.353,-12.447,1,0.18,87.807,4,0.924
+83,City Lights,31,2018-08-13T19:45:28Z,179600,Ray Price,Greatest Hits,1956,0.891,0.326,0.495,0.0,10,0.241,-10.839,1,0.0386,109.915,4,0.723
+84,Oh Lonesome Me,34,2018-08-13T19:45:28Z,149026,Don Gibson,The Essential Don Gibson,2014-03-28,0.793,0.672,0.731,2.5e-06,10,0.0687,-10.139,1,0.0343,102.98,4,0.943
+85,Too Old To Cut The Mustard,31,2018-08-13T19:45:28Z,172000,Red Foley,Retrospective: Volume 2,1987-01-01,0.761,0.819,0.457,0.0,2,0.0576,-11.173,1,0.0409,106.091,4,0.805
+86,Big River,51,2018-08-13T19:45:28Z,151426,Johnny Cash,Johnny Cash at Sun,2014-01-15,0.854,0.632,0.559,0.000103,5,0.127,-10.49,1,0.0674,182.942,4,0.884
+87,A Satisfied Mind,28,2018-08-13T19:45:28Z,166040,Porter Wagoner,The Essential Porter Wagoner,2013-06-04,0.945,0.732,0.243,3.85e-05,4,0.0955,-7.638,1,0.0299,115.14,3,0.432
+88,Just Call Me Lonesome,23,2018-08-13T19:45:28Z,155306,Eddy Arnold,Ultimate Eddy Arnold,2003-10-20,0.812,0.633,0.232,0.0,7,0.265,-11.325,1,0.0314,121.855,4,0.622
+89,If You've Got the Money I've Got the Time - 78rpm Version,37,2018-08-13T19:45:28Z,179306,Lefty Frizzell,"The Complete Columbia Recording Sessions, Vol. 1 - 1950-1951",1950,0.83,0.545,0.392,9.41e-05,2,0.0903,-10.091,1,0.0481,208.426,4,0.951
+90,Don't Take Your Guns to Town,52,2018-08-13T19:45:28Z,182666,Johnny Cash,The Essential Johnny Cash,2002-02-12,0.864,0.629,0.204,0.0,10,0.0863,-12.619,1,0.075,89.199,3,0.489
+91,If You Ain't Lovin' (You Ain't Livin'),32,2018-08-13T19:45:28Z,142000,Faron Young,The Complete Capitol Hits Of Faron Young,2000,0.752,0.625,0.416,0.0,7,0.0853,-10.282,1,0.0316,149.44,4,0.833
+92,Raunchy,30,2018-08-13T19:45:28Z,144826,Bill Justis,Sun King Collection - Bill Justis,2012-05-15,0.764,0.506,0.742,0.767,2,0.0854,-5.796,1,0.03,76.353,4,0.731
+93,The Three Bells,27,2018-08-13T19:45:28Z,169573,The Browns,Pure... Country,2010-12-10,0.893,0.47,0.159,0.0,7,0.124,-14.795,1,0.0403,106.488,4,0.418
+94,"Cry, Cry, Cry - Long Version",30,2018-08-13T19:45:28Z,183000,Johnny Cash,Johnny Cash at Sun,2014-01-15,0.779,0.783,0.615,0.000324,5,0.153,-10.7,1,0.0754,104.663,4,0.9
+95,How's the World Treating You,26,2018-08-13T19:45:28Z,176600,Eddy Arnold,The Essential Eddy Arnold,2013-11-19,0.952,0.528,0.168,0.000151,2,0.289,-12.053,1,0.0305,82.83,4,0.39
+96,El Paso,62,2018-08-13T19:45:28Z,259306,Marty Robbins,Gunfighter Ballads And Trail Songs,1959,0.835,0.654,0.452,2.89e-05,2,0.16,-9.709,1,0.03,106.662,3,0.691
+97,Forever And Always,0,2018-08-13T19:45:28Z,148093,Lefty Frizzell,The Singles Collection 1950-62,2018-01-19,0.589,0.66,0.115,4.47e-06,7,0.193,-13.591,1,0.0274,96.671,4,0.395
+98,Mockin' Bird Hill,5,2018-08-13T19:45:28Z,136612,Mary Ford,Musical Moments to Remember: Les Paul & Mary Ford – From Mockin' Bird Hill to Blue Hawaii (Remastered 2016),2016-05-06,0.923,0.581,0.278,0.0,1,0.224,-11.037,1,0.0442,166.52,3,0.773

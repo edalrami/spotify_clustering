@@ -1,0 +1,46 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,Stand Up for Something (feat. Common),45,2018-02-07T20:46:50Z,224306,Andra Day,Marshall (Original Motion Picture Soundtrack),2017-09-29,0.255,0.425,0.759,0.0,8,0.102,-4.839,0,0.128,141.173,3,0.623
+1,Optimistic,42,2018-02-07T20:46:50Z,318760,Sounds Of Blackness,The Very Best Of Sounds Of Blackness & Ann Nesby,2001-01-01,0.0213,0.712,0.924,0.000381,6,0.309,-4.367,1,0.0669,104.109,4,0.839
+2,Racism And Injustice,21,2018-02-07T20:46:50Z,260160,"Martin Luther King, Jr.",Civil Rights Leader,2010-01-12,0.922,0.65,0.316,0.0,9,0.739,-18.244,0,0.94,117.198,4,0.306
+3,Black Gold (special guest: Algebra Blessett),26,2018-02-07T20:46:50Z,314746,Esperanza Spalding,Black Gold (special guest: Algebra Blessett),2012-01-01,0.622,0.416,0.433,7.43e-05,7,0.351,-9.995,0,0.104,83.602,4,0.463
+4,Say It Loud - I'm Black And I'm Proud,29,2018-02-07T20:46:50Z,288440,James Brown,Say It Loud - I'm Black And I'm Proud,1969,0.176,0.83,0.441,0.00104,3,0.0482,-11.992,1,0.171,116.233,4,0.946
+5,Oprah 75th Golden Globes Cecil B. DeMille Award Acceptance Speech,24,2018-02-07T20:46:50Z,504750,Oprah Winfrey,75th Golden Globes,2018-01-08,0.847,0.686,0.529,0.0,5,0.933,-8.69,1,0.894,114.227,5,0.326
+6,Don't Touch My Hair,63,2018-02-07T20:46:50Z,257546,Solange,A Seat at the Table,2016-09-30,0.409,0.823,0.411,0.00135,0,0.649,-7.061,1,0.0557,90.997,4,0.397
+7,Visions,54,2018-02-07T20:46:50Z,323266,Stevie Wonder,Innervisions,1973-08-03,0.953,0.478,0.2,0.000521,6,0.104,-16.081,0,0.037,130.466,4,0.14
+8,Thank You,19,2018-02-07T20:46:50Z,31373,Barack Obama,"Hope,Change,History and Present - (Barack Obama's Greatest Speeches 2007-2010)",2010-05-03,0.355,0.273,0.846,0.0,7,0.94,-15.659,1,0.099,101.644,4,0.0326
+9,I Have a Dream - The Complete Speech of Martin Luther King Jr.,24,2018-02-07T20:46:50Z,1047933,"Martin Luther King, Jr.",I Have a Dream - The Complete Speech,2011-07-11,0.985,0.586,0.117,2.84e-05,11,0.39,-29.11,1,0.831,133.891,4,0.274
+10,Feeling Good,74,2018-02-07T20:46:50Z,174000,Nina Simone,I Put A Spell On You,1965-06,0.854,0.318,0.334,0.0,7,0.188,-9.267,0,0.0487,78.508,4,0.541
+11,Africa,43,2018-02-07T20:46:50Z,373600,D'Angelo,Voodoo,2000-01-01,0.608,0.726,0.33,0.127,9,0.724,-9.935,1,0.211,94.755,4,0.378
+12,Tell Him,56,2018-02-07T20:46:50Z,280760,Ms. Lauryn Hill,The Miseducation of Lauryn Hill,1998-08-25,0.19,0.655,0.647,0.00877,1,0.0412,-9.465,1,0.0903,80.077,4,0.931
+13,Redemption Song,71,2018-02-07T20:46:50Z,233560,Bob Marley & The Wailers,Uprising,1980,0.578,0.684,0.248,0.0,0,0.0643,-10.505,1,0.0435,116.002,4,0.621
+14,"Final Speech - April 3, 1968",20,2018-02-07T20:46:50Z,69853,"Martin Luther King, Jr.",I Have A Dream,2010-03-30,0.986,0.521,0.741,0.00175,1,0.833,-12.401,1,0.641,93.02,3,0.437
+15,1960 What?,22,2018-02-07T20:46:50Z,747222,Gregory Porter,Water,2010-05-11,0.515,0.511,0.505,6.26e-05,3,0.114,-10.773,1,0.0421,119.292,4,0.622
+16,Alright,53,2018-02-07T20:46:50Z,194490,Kendrick Lamar,Alright,2015-10-16,0.0818,0.78,0.784,0.0,7,0.623,-5.619,1,0.2,110.054,4,0.666
+17,UMI Says,55,2018-02-07T20:46:50Z,305280,Mos Def,Black On Both Sides,1999-10-12,0.305,0.72,0.67,0.0,2,0.0928,-10.224,1,0.132,121.342,4,0.566
+18,Negro Sense of Humor,12,2018-02-07T20:46:50Z,157266,Dick Gregory,Dick Gregory on Comedy,2008-09-01,0.995,0.653,0.146,0.957,10,0.109,-22.707,0,0.445,88.668,4,0.331
+19,We The People....,28,2018-02-07T20:46:50Z,172013,A Tribe Called Quest,We got it from Here... Thank You 4 Your service,2016-11-10,0.00362,0.706,0.749,1.23e-05,1,0.122,-5.764,1,0.0411,92.602,4,0.912
+20,Blk/ Wooomen/ chant,16,2018-02-07T20:46:50Z,66093,Sonia Sanchez,A Sun Lady for All Seasons Reads Her Poetry,1971-01-01,0.936,0.688,0.127,1.32e-05,7,0.0943,-18.816,1,0.891,88.504,4,0.377
+21,Woman,40,2018-02-07T20:46:50Z,267600,Raheem DeVaughn,Love Behind The Melody,2008-08-12,0.5,0.751,0.48,0.0,0,0.298,-5.784,0,0.22,87.016,4,0.632
+22,The Fact Is (I Need You),38,2018-02-07T20:46:50Z,277773,Jill Scott,Beautifully Human: Words and Sounds Vol. 2,2004-08-31,0.726,0.474,0.418,0.000285,7,0.306,-9.082,1,0.102,67.23,4,0.565
+23,Soul Sista,50,2018-02-07T20:46:50Z,318666,Bilal,1st Born Second,2001-01-01,0.573,0.701,0.322,4.84e-06,8,0.186,-10.379,0,0.133,145.848,4,0.675
+24,I Have Known Rivers,17,2018-02-07T20:46:50Z,69026,Langston Hughes,Anthology of Negro Poetry,1954-01-01,0.763,0.651,0.0809,0.0,0,0.157,-21.8,0,0.808,92.814,5,0.42
+25,A Change Is Gonna Come,65,2018-02-07T20:46:50Z,191160,Sam Cooke,Ain't That Good News (Remastered),1964-03-01,0.76,0.212,0.42,0.0,10,0.307,-9.919,1,0.0344,169.555,3,0.493
+26,Strange Fruit,38,2018-02-07T20:46:50Z,192013,Billie Holiday,The Complete Commodore/Decca Masters,2009-01-01,0.975,0.29,0.0423,0.000192,10,0.155,-19.03,0,0.036,58.017,4,0.0384
+27,In A Sentimental Mood,7,2018-02-07T20:46:50Z,258226,Duke Ellington,Duke Ellington & John Coltrane,1963-02,0.951,0.47,0.244,0.0509,10,0.109,-13.608,0,0.0335,108.154,4,0.264
+28,Shirley Chisholm - 1972,12,2018-02-07T20:46:50Z,35920,Shirley Chisholm,Inspirational Speeches Vol. 4,2011-05-16,0.826,0.777,0.376,0.0,8,0.0706,-10.928,1,0.794,112.639,4,0.349
+29,Black Butterfly,33,2018-02-07T20:46:50Z,265226,Deniece Williams,The Best Of Deniece Williams: Gonna Take A Miracle,1996-03-12,0.474,0.455,0.455,0.000301,2,0.132,-11.899,0,0.0362,129.467,4,0.162
+30,Brotha,47,2018-02-07T20:46:50Z,268133,Angie Stone,Mahogany Soul,2001-10-16,0.538,0.801,0.434,0.0,7,0.0729,-9.174,0,0.376,132.254,4,0.661
+31,U Will Know - Extended Version,39,2018-02-07T20:46:50Z,265640,B.M.U. (Black Men United),U Will Know,1994-01-01,0.0293,0.718,0.561,0.0,11,0.44,-11.895,0,0.0871,96.116,4,0.644
+32,If I Was President 2016,28,2018-02-07T20:46:50Z,131321,Wyclef Jean,If I Was President 2016,2016-10-14,0.246,0.651,0.443,0.0,4,0.238,-6.671,0,0.324,89.526,4,0.43
+33,I Can,59,2018-02-07T20:46:50Z,253720,Nas,God's Son,2002-12-13,0.103,0.837,0.885,0.0,6,0.0666,-3.914,0,0.182,95.313,4,0.694
+34,Space Program,0,2018-02-07T20:46:50Z,156480,Wanda Sykes,Sick & Tired,2007-01-16,0.869,0.589,0.604,2.46e-06,4,0.684,-18.562,0,0.941,111.968,4,0.197
+35,The Space Program,24,2018-02-07T20:46:50Z,340853,A Tribe Called Quest,We got it from Here... Thank You 4 Your service,2016-11-10,0.445,0.611,0.686,2.11e-06,1,0.659,-6.087,1,0.338,101.657,4,0.534
+36,Living For The City,27,2018-02-07T20:46:50Z,443000,Stevie Wonder,At The Close Of A Century,1999-01-01,0.124,0.583,0.503,0.0,11,0.192,-12.507,1,0.0701,98.864,4,0.454
+37,Inner City Blues (Make Me Wanna Holler),58,2018-02-07T20:46:50Z,331960,Marvin Gaye,What's Going On - 40th Anniversary (Super Deluxe),1971-05-21,0.714,0.633,0.6,0.161,11,0.078,-9.093,1,0.0339,94.096,4,0.687
+38,Wake Up Everybody,0,2018-02-07T20:46:50Z,266373,John Legend,Wake Up Everybody,2010-08-06,0.549,0.626,0.447,0.0,6,0.352,-8.151,1,0.0554,93.908,4,0.694
+39,I Say a Little Prayer,76,2018-02-07T20:46:50Z,216773,Aretha Franklin,Aretha Now,1968-06-14,0.48,0.59,0.355,0.0,9,0.0585,-14.051,1,0.0352,133.03,4,0.499
+40,Human Nature,58,2018-02-07T20:46:50Z,246040,Michael Jackson,Thriller,1982-11-30,0.498,0.628,0.409,0.00595,2,0.29,-14.348,1,0.0306,93.005,4,0.755
+41,Greatest Love Of All,65,2018-02-07T20:46:50Z,291400,Whitney Houston,Whitney Houston,1985-02-14,0.484,0.502,0.305,3.55e-06,9,0.117,-16.011,1,0.0339,131.242,4,0.248
+42,Open My Heart,47,2018-02-07T20:46:50Z,340040,Yolanda Adams,The Best Of Me - Yolanda Adams Greatest Hits (U.S. Version),2007-05-08,0.7,0.414,0.402,0.0,10,0.365,-8.911,0,0.0427,105.368,4,0.171
+43,Mercy Mercy Me (The Ecology),58,2018-02-07T20:46:50Z,196506,Marvin Gaye,What's Going On - 40th Anniversary (Super Deluxe),1971-05-21,0.147,0.488,0.768,0.429,11,0.0806,-8.207,0,0.042,93.617,4,0.447
+44,Caravan of Love,51,2018-02-07T20:46:50Z,341973,"Isley, Jasper, Isley",The Essential Isley Brothers,2004,0.586,0.665,0.502,0.0,7,0.19,-11.045,1,0.0258,88.295,4,0.81

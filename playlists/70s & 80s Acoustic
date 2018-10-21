@@ -1,0 +1,64 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,More Than Words,69,2018-07-02T14:20:51Z,334106,Extreme,Extreme II - Pornograffitti,1990-01-01,0.468,0.615,0.129,0.0,6,0.114,-14.892,1,0.0286,91.769,4,0.249
+1,Free Fallin',73,2018-07-02T14:20:51Z,256000,Tom Petty,Full Moon Fever,1989-01-01,0.219,0.63,0.449,0.0,5,0.0622,-13.243,1,0.0252,84.378,4,0.623
+2,Landslide,77,2018-07-02T14:20:51Z,199493,Fleetwood Mac,Fleetwood Mac,1975-07-11,0.883,0.414,0.161,0.000223,7,0.117,-22.32,0,0.0318,159.375,4,0.423
+3,Lean on Me,69,2018-07-02T14:20:51Z,258834,Bill Withers,Still Bill,1972,0.782,0.619,0.22,1.19e-05,0,0.124,-13.843,1,0.0667,75.16,4,0.423
+4,Hotel California - Remastered,83,2018-07-02T14:20:51Z,391376,Eagles,Hotel California (Remastered),1976,0.00574,0.579,0.508,0.000494,2,0.0575,-9.484,1,0.027,147.125,4,0.609
+5,Fast Car,79,2018-07-02T14:20:51Z,296800,Tracy Chapman,Tracy Chapman,1988-01-01,0.313,0.711,0.292,0.0,4,0.131,-15.523,0,0.037,103.951,4,0.194
+6,You're So Vain,74,2018-07-02T14:20:51Z,258411,Carly Simon,No Secrets,1972,0.157,0.659,0.678,6.69e-06,0,0.0784,-8.18,1,0.0313,106.186,4,0.647
+7,Dust in the Wind,76,2018-07-02T14:20:51Z,206266,Kansas,Point Of Know Return,1977,0.367,0.475,0.322,0.00056,7,0.11,-10.687,1,0.0283,93.503,4,0.387
+8,Ooh La La,64,2018-07-02T14:20:51Z,214080,Faces,Ooh La La,1973,0.579,0.601,0.574,1.14e-05,2,0.216,-8.166,1,0.03,147.964,4,0.8
+9,You've Got A Friend,53,2018-07-02T14:20:51Z,268706,James Taylor,Greatest Hits,1976,0.681,0.695,0.282,0.0267,9,0.0767,-15.359,1,0.0295,91.681,4,0.445
+10,Redemption Song,71,2018-07-02T14:20:51Z,233560,Bob Marley & The Wailers,Uprising,1980,0.578,0.684,0.248,0.0,0,0.0643,-10.505,1,0.0435,116.002,4,0.621
+11,Crazy Love,54,2018-07-02T14:20:51Z,155453,Van Morrison,Moondance,1970-02,0.841,0.575,0.188,4.37e-05,9,0.228,-18.758,1,0.0959,77.464,4,0.334
+12,I'm on Fire,72,2018-07-02T14:20:51Z,155880,Bruce Springsteen,Born In The U.S.A.,1984-06-04,0.589,0.62,0.446,0.0299,1,0.0727,-14.451,0,0.0347,88.591,4,0.868
+13,Heart Of Gold,70,2018-07-02T14:20:51Z,187013,Neil Young,Harvest (Remastered Version),1972-02-14,0.189,0.541,0.459,0.0274,4,0.099,-10.433,0,0.0297,171.165,4,0.803
+14,Wildflowers - Remastered,13,2018-07-02T14:20:51Z,216573,Dolly Parton,The Complete Trio Collection,2016-09-09,0.762,0.609,0.368,6.28e-06,10,0.335,-13.338,1,0.0294,90.373,4,0.618
+15,"Rocket Man (I Think It's Going To Be A Long, Long Time)",80,2018-07-02T14:20:51Z,281613,Elton John,Honky Chateau,1972-05-19,0.386,0.602,0.522,1.44e-05,10,0.0941,-9.031,1,0.0285,136.637,4,0.36
+16,In The Air Tonight - 2015 Remastered,77,2018-07-02T14:20:51Z,336453,Phil Collins,Face Value (Deluxe Editon),1981-01-01,0.551,0.446,0.239,4.1e-06,0,0.0697,-13.945,1,0.0316,189.507,4,0.298
+17,Wicked Game - Remastered,65,2018-07-02T14:20:51Z,286880,Chris Isaak,Best Of Chris Isaak,2006-05-05,0.743,0.664,0.553,0.00978,9,0.0838,-7.723,1,0.0264,112.52,4,0.287
+18,Hallelujah,64,2018-07-02T14:20:51Z,277160,Leonard Cohen,Various Positions,1984-12-11,0.715,0.28,0.344,0.00642,0,0.133,-12.577,1,0.0293,171.143,3,0.232
+19,My Sweet Lord,78,2018-07-02T14:20:51Z,281226,George Harrison,All Things Must Pass (Remastered),1970-11-27,0.0794,0.538,0.704,0.0,1,0.0867,-8.904,0,0.0332,120.963,4,0.583
+20,A Horse with No Name,77,2018-07-02T14:20:51Z,252239,America,America,1972,0.686,0.654,0.506,0.0155,11,0.155,-17.18,0,0.0535,123.179,4,0.831
+21,Jolene,76,2018-07-02T14:20:51Z,161533,Dolly Parton,Jolene,1974,0.566,0.674,0.537,0.0,1,0.131,-10.971,0,0.0363,110.578,4,0.809
+22,Let It Be - Remastered 2009,78,2018-07-02T14:20:51Z,243026,The Beatles,Let It Be (Remastered),1970-05-08,0.631,0.443,0.403,0.0,0,0.111,-8.339,1,0.0322,143.462,4,0.41
+23,Maggie May,34,2018-07-02T14:20:51Z,350266,Rod Stewart,Every Picture Tells A Story,1971-01-01,0.559,0.605,0.574,0.113,2,0.0684,-10.536,1,0.0377,129.449,4,0.543
+24,Me and Julio Down by the Schoolyard,71,2018-07-02T14:20:51Z,164813,Paul Simon,Paul Simon,1972-01-14,0.237,0.626,0.816,1.8e-06,9,0.104,-10.593,1,0.13,105.33,4,0.798
+25,Where You Lead,62,2018-07-02T14:20:51Z,200146,Carole King,Tapestry,1971,0.763,0.784,0.459,1.28e-06,0,0.0684,-10.446,1,0.0304,106.957,4,0.931
+26,Me and Bobby McGee,69,2018-07-02T14:20:51Z,271333,Janis Joplin,Pearl (Legacy Edition),1971-01-11,0.302,0.453,0.464,5.96e-05,2,0.152,-10.96,1,0.0431,93.19,4,0.658
+27,If You Could Read My Mind,60,2018-07-02T14:20:51Z,229560,Gordon Lightfoot,Gord's Gold,1975,0.68,0.603,0.252,6.96e-05,2,0.147,-12.402,1,0.0337,122.631,4,0.179
+28,Pink Moon,64,2018-07-02T14:20:51Z,123173,Nick Drake,Pink Moon,1972-01-01,0.851,0.456,0.26,0.166,3,0.142,-15.435,1,0.0548,82.321,4,0.491
+29,Walkin' Back to Georgia,59,2018-07-02T14:20:51Z,170759,Jim Croce,You Don't Mess Around With Jim,1972-04-01,0.621,0.661,0.518,1.78e-05,6,0.0953,-10.061,0,0.0319,127.266,4,0.776
+30,Going To California,55,2018-07-02T14:20:51Z,212160,Led Zeppelin,Led Zeppelin IV (Remastered Version),1971-11-08,0.943,0.503,0.265,0.045,2,0.0867,-15.913,1,0.0333,78.044,4,0.522
+31,"My My, Hey Hey (Out of the Blue)",67,2018-07-02T14:20:51Z,227705,Neil Young,Rust Never Sleeps,1979-06-27,0.856,0.502,0.4,0.000375,7,0.333,-13.697,0,0.0294,127.182,4,0.435
+32,I Walk the Line,71,2018-07-02T14:20:51Z,176533,Johnny Cash,I Walk the Line (Original Soundtrack Recording),1970,0.877,0.713,0.258,0.00606,9,0.0967,-14.59,1,0.0384,98.805,4,0.56
+33,Across The Universe - Remastered 2009,66,2018-07-02T14:20:51Z,228133,The Beatles,Let It Be (Remastered),1970-05-08,0.361,0.257,0.412,8.68e-05,1,0.0702,-11.788,1,0.0287,152.126,4,0.858
+34,Wild World,75,2018-07-02T14:20:51Z,200160,Yusuf / Cat Stevens,Tea For The Tillerman (Remastered),1970-11-23,0.354,0.483,0.503,0.000284,0,0.116,-9.396,1,0.0341,151.862,4,0.598
+35,California,62,2018-07-02T14:20:51Z,230226,Joni Mitchell,Blue,1971-06-22,0.905,0.464,0.328,0.0,4,0.135,-9.005,1,0.0407,70.859,3,0.784
+36,"Dreams (Sessions, Roughs & Outtakes) - 2004 Remastered Edition",49,2018-07-02T14:20:51Z,261546,Fleetwood Mac,Rumours (Super Deluxe),1977-02-04,0.405,0.872,0.316,0.0126,0,0.0849,-14.415,1,0.0436,119.528,4,0.57
+37,Tangled up in Blue,63,2018-07-02T14:20:51Z,341626,Bob Dylan,Blood On The Tracks,1975-01-17,0.414,0.421,0.661,1.16e-06,9,0.0962,-13.126,1,0.0433,100.965,4,0.554
+38,Imagine - Remastered 2010,77,2018-07-02T14:20:51Z,187866,John Lennon,Imagine,1971-09-09,0.907,0.547,0.257,0.183,0,0.0935,-12.358,1,0.0252,75.752,4,0.169
+39,Maybe I’m Amazed - Remastered 2011,65,2018-07-02T14:20:51Z,229826,Paul McCartney,McCartney (Special Edition),1970-04-17,0.387,0.471,0.494,0.0944,7,0.617,-10.407,1,0.0312,79.255,4,0.373
+40,Tom's Diner,46,2018-07-02T14:20:51Z,129106,Suzanne Vega,Solitude Standing,1987-01-01,0.589,0.712,0.167,0.0,1,0.157,-22.047,0,0.891,96.637,4,0.376
+41,Easy,58,2018-07-02T14:20:51Z,260893,Commodores,The Very Best Of The Commodores,1995-01-01,0.233,0.575,0.432,0.00135,10,0.0743,-13.642,0,0.0314,132.145,4,0.348
+42,Up Where We Belong,62,2018-07-02T14:20:51Z,233240,Joe Cocker,The Ultimate Collection 1968-2003,2003-12-01,0.597,0.573,0.429,8.18e-05,2,0.0839,-8.68,1,0.0294,139.097,4,0.361
+43,Life On Mars? - 2015 Remastered Version,71,2018-07-02T14:20:51Z,235986,David Bowie,Hunky Dory (2015 Remastered Version),1971-12-17,0.639,0.442,0.384,7.7e-05,10,0.0539,-14.635,1,0.0414,123.281,4,0.216
+44,Personal Jesus - Acoustic Version,45,2018-07-02T14:20:51Z,207866,Depeche Mode,Personal Jesus,1989,0.918,0.667,0.266,0.284,9,0.136,-16.339,0,0.0362,138.178,4,0.349
+45,Wuthering Heights,66,2018-07-02T14:20:51Z,269066,Kate Bush,The Kick Inside,1978-02-17,0.366,0.481,0.392,0.0452,1,0.124,-11.381,1,0.0312,124.572,4,0.52
+46,Stuck In The Middle With You - Remastered,63,2018-07-02T14:20:51Z,201334,Stealers Wheel,Stuck In The Middle With You,2009-03-31,0.119,0.837,0.496,0.357,7,0.115,-11.821,1,0.0402,125.017,4,0.964
+47,Just The Two Of Us (feat. Bill Withers),65,2018-07-02T14:20:51Z,237106,"Grover Washington, Jr.",Anthology,1985,0.576,0.803,0.488,0.0609,1,0.0763,-9.303,1,0.0803,95.771,4,0.624
+48,(You Make Me Feel Like) A Natural Woman,62,2018-07-02T14:20:51Z,229066,Carole King,Tapestry,1971,0.953,0.624,0.158,0.00135,9,0.112,-13.059,1,0.0289,85.492,3,0.303
+49,Cecilia,68,2018-07-02T14:20:51Z,174826,Simon & Garfunkel,Bridge Over Troubled Water,1970-01-26,0.357,0.755,0.876,5.17e-06,0,0.22,-8.867,1,0.0362,102.762,4,0.954
+50,Our House,67,2018-07-02T14:20:51Z,179760,"Crosby, Stills, Nash & Young",Deja Vu,1970-03-11,0.896,0.593,0.205,5.46e-05,9,0.119,-14.601,1,0.0479,140.279,4,0.377
+51,And It Stoned Me,50,2018-07-02T14:20:51Z,272160,Van Morrison,Moondance,1970-02,0.35,0.593,0.468,3.52e-05,7,0.0919,-11.165,1,0.0285,75.798,4,0.597
+52,Famous Blue Raincoat,58,2018-07-02T14:20:51Z,310773,Leonard Cohen,Songs Of Love And Hate,1971-03-19,0.948,0.474,0.0404,0.000263,9,0.111,-22.208,0,0.0387,119.415,3,0.18
+53,All Things Must Pass,59,2018-07-02T14:20:51Z,226866,George Harrison,All Things Must Pass (Remastered),1970-11-27,0.494,0.508,0.56,0.00611,9,0.106,-8.244,1,0.0304,122.514,4,0.386
+54,Stand By Me - Remastered,63,2018-07-02T14:20:51Z,211666,John Lennon,Rock 'N' Roll,1975-02-17,0.29,0.632,0.556,0.0215,9,0.0779,-10.138,1,0.0288,104.996,4,0.633
+55,"Baby, I Love Your Way",50,2018-07-02T14:20:51Z,309760,Peter Frampton,Acoustic Classics,2016-02-26,0.614,0.749,0.246,0.000138,0,0.0967,-12.847,1,0.0383,132.153,4,0.308
+56,Solsbury Hill,21,2018-07-02T14:20:51Z,262600,Peter Gabriel,Vanilla Sky (Music from the Motion Picture),2001-12-11,0.378,0.678,0.622,0.000953,11,0.363,-8.875,1,0.0301,102.229,1,0.471
+57,Boulder To Birmingham - Remastered,48,2018-07-02T14:20:51Z,213026,Emmylou Harris,Pieces Of The Sky (Expanded & Remastered),1975,0.78,0.476,0.318,2e-06,10,0.104,-10.953,1,0.0304,126.495,4,0.311
+58,Something On Your Mind,53,2018-07-02T14:20:51Z,203333,Karen Dalton,In My Own Time,1971,0.55,0.41,0.598,0.00274,2,0.092,-8.515,1,0.0405,76.445,4,0.262
+59,You're The Inspiration - 2006 Remastered Version,72,2018-07-02T14:20:51Z,229240,Chicago,Chicago 17 [Expanded],1984-05-14,0.368,0.583,0.602,0.0,11,0.22,-6.364,1,0.0274,74.008,4,0.388
+60,Ripple,44,2018-07-02T14:20:51Z,250333,Grateful Dead,What A Long Strange Trip It's Been - The Best Of The Grateful Dead,1977-10-01,0.345,0.6,0.363,0.000333,7,0.25,-15.469,1,0.037,125.761,4,0.75
+61,You Are So Beautiful,53,2018-07-02T14:20:51Z,159640,Joe Cocker,I Can Stand A Little Rain,1974-01-01,0.83,0.387,0.194,0.00145,1,0.131,-10.829,1,0.031,121.7,4,0.0862
+62,Blue Bayou,63,2018-07-02T14:20:51Z,239399,Linda Ronstadt,Simple Dreams,1977,0.739,0.732,0.161,0.000379,11,0.105,-12.817,1,0.0306,95.21,4,0.5

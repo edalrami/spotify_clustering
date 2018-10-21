@@ -1,0 +1,97 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,Bohemian Rhapsody - Remastered 2011,44,2018-10-20T08:01:33Z,354320,Queen,A Night At The Opera (2011 Remaster),1975-11-21,0.271,0.414,0.404,0.0,0,0.3,-9.928,0,0.0499,71.105,4,0.224
+1,Have You Ever Seen The Rain?,67,2018-10-20T08:01:33Z,160000,Creedence Clearwater Revival,Chronicle: 20 Greatest Hits,1976-01-01,0.0876,0.776,0.516,1.82e-05,0,0.182,-9.981,1,0.0295,115.989,4,0.806
+2,Is This Love,26,2018-10-20T08:01:33Z,230527,Bob Marley & The Wailers,Legend (The Definitive Remasters),1984,0.108,0.775,0.559,0.0,6,0.0945,-8.377,0,0.088,122.229,4,0.804
+3,Don't Go Breaking My Heart,39,2018-10-20T08:01:33Z,275440,Elton John,Rock Of The Westies (Remastered),1975-10-24,0.149,0.729,0.844,2.87e-06,5,0.0604,-8.824,1,0.0344,131.459,4,0.777
+4,Hold the Line,77,2018-10-20T08:01:33Z,235800,Toto,Toto,1978-10-15,0.0397,0.494,0.698,0.00634,6,0.152,-12.049,0,0.0553,95.842,4,0.778
+5,September,82,2018-10-20T08:01:33Z,214826,"Earth, Wind & Fire",The Eternal Dance,1992-09-08,0.114,0.697,0.809,0.000521,9,0.183,-8.197,1,0.0302,125.941,4,0.98
+6,Hotel California - Remastered,83,2018-10-20T08:01:33Z,391376,Eagles,Hotel California (Remastered),1976,0.00574,0.579,0.508,0.000494,2,0.0575,-9.484,1,0.027,147.125,4,0.609
+7,The Chain - 2004 Remastered Edition,79,2018-10-20T08:01:33Z,270213,Fleetwood Mac,Rumours (Super Deluxe),1977-02-04,0.009,0.545,0.67,0.000822,9,0.0451,-8.81,1,0.0496,151.553,4,0.481
+8,Superstition - Single Version,42,2018-10-20T08:01:33Z,244826,Stevie Wonder,Number Ones,2007-01-01,0.0172,0.642,0.735,0.000733,8,0.0391,-8.866,1,0.0806,99.682,4,0.864
+9,Sultans Of Swing,42,2018-10-20T08:01:33Z,348624,Dire Straits,Dire Straits (Remastered),1978-10-07,0.0771,0.731,0.797,0.0248,5,0.334,-9.992,1,0.0309,148.192,4,0.933
+10,Rocket Man (I Think It's Going To Be A Long Long Time),17,2018-10-20T08:01:33Z,282013,Elton John,Rocket Man,2007-03-26,0.431,0.6,0.507,4.98e-06,10,0.0924,-9.98,1,0.0289,136.611,4,0.333
+11,Don't Stop Me Now - Remastered,81,2018-10-20T08:01:33Z,209413,Queen,Jazz (2011 Remaster),1978-11-10,0.0475,0.559,0.868,0.000176,5,0.776,-5.276,1,0.17,156.295,4,0.609
+12,Daddy Cool,56,2018-10-20T08:01:33Z,207893,Boney M.,The Essential Boney M.,2012-08-24,0.27,0.764,0.775,0.767,5,0.156,-6.907,0,0.0368,124.424,4,0.936
+13,It's a Heartache,12,2018-10-20T08:01:33Z,210573,Bonnie Tyler,From The Heart: Greatest Hits,2007-03-10,0.033,0.539,0.648,1.16e-06,0,0.29,-7.336,1,0.0299,118.89,4,0.493
+14,Ain't No Sunshine,77,2018-10-20T08:01:33Z,125093,Bill Withers,Just As I Am,1971,0.457,0.479,0.416,1.72e-05,4,0.118,-11.451,0,0.124,79.593,4,0.514
+15,Rich Girl - Remastered,72,2018-10-20T08:01:33Z,144333,Daryl Hall & John Oates,The Essential Daryl Hall & John Oates,2005-04-25,0.5,0.597,0.643,0.0,5,0.0435,-6.303,1,0.134,167.963,4,0.823
+16,Sweet Home Alabama,62,2018-10-20T08:01:33Z,284413,Lynyrd Skynyrd,Lynyrd Skynyrd Greatest Hits,2008-01-01,0.0915,0.609,0.661,0.000482,7,0.254,-9.549,1,0.0252,97.93,4,0.892
+17,Go Your Own Way,30,2018-10-20T08:01:33Z,218400,Fleetwood Mac,Rumours,1977-02-04,0.0219,0.597,0.812,0.00106,5,0.102,-12.062,1,0.0315,135.68,4,0.823
+18,Roxanne - Remastered 2003,73,2018-10-20T08:01:33Z,191500,The Police,Outlandos D'Amour (Remastered),1978-11-02,0.0384,0.618,0.748,4.1e-06,0,0.0477,-8.905,1,0.361,134.001,4,0.662
+19,The Logical Song - Remastered 2010,33,2018-10-20T08:01:33Z,251253,Supertramp,Breakfast In America (Deluxe Edition),1979-03-29,0.512,0.625,0.758,0.00022,5,0.153,-6.213,0,0.0463,119.719,4,0.695
+20,Spirit In The Sky,73,2018-10-20T08:01:33Z,239600,Norman Greenbaum,Music From The Motion Picture Michael,1979,0.112,0.601,0.643,0.00209,2,0.088,-5.828,1,0.0314,128.262,4,0.552
+21,We Are The Champions - Remastered 2011,74,2018-10-20T08:01:33Z,179200,Queen,News Of The World (2011 Remaster),1977-10-28,0.378,0.268,0.459,0.0,10,0.118,-6.94,1,0.0346,64.177,4,0.175
+22,"Another Brick In The Wall, Pt. 2 - 2011 Remastered Version",17,2018-10-20T08:01:33Z,238746,Pink Floyd,The Wall [2011 - Remaster] (2011 Remastered Version),1979-11-30,0.0781,0.694,0.394,0.000677,0,0.247,-15.881,1,0.0428,104.126,4,0.719
+23,Dreams,27,2018-10-20T08:01:33Z,254453,Fleetwood Mac,Rumours,1977-02-04,0.139,0.823,0.338,0.00129,0,0.5,-15.899,1,0.0413,120.473,4,0.785
+24,Mrs. Robinson,75,2018-10-20T08:01:33Z,244026,Simon & Garfunkel,Bookends,1968-04-03,0.713,0.606,0.457,2.53e-05,6,0.0747,-14.035,0,0.0497,92.033,4,0.813
+25,Lady Marmalade,60,2018-10-20T08:01:33Z,235266,Patti LaBelle,Best Of Patti Labelle,1974,0.551,0.571,0.652,0.0,2,0.0598,-11.034,0,0.0499,117.956,4,0.947
+26,Video Killed The Radio Star - Single Version,25,2018-10-20T08:01:33Z,197906,The Buggles,Video Killed The Radio Star / Kid Dynamo,2009-01-01,0.0862,0.742,0.788,0.00768,1,0.292,-10.803,1,0.0669,130.849,4,0.514
+27,Listen To The Music,74,2018-10-20T08:01:33Z,227266,The Doobie Brothers,Toulouse Street,1972,0.221,0.645,0.598,3.53e-06,1,0.0721,-13.18,0,0.0335,105.929,4,0.913
+28,Mr. Blue Sky,81,2018-10-20T08:01:33Z,303373,Electric Light Orchestra,Out of the Blue,1977,0.652,0.388,0.338,3.72e-06,10,0.248,-10.054,1,0.0328,177.784,4,0.477
+29,Dancing Queen,30,2018-10-20T08:01:33Z,231093,ABBA,ABBA Gold,2008-01-01,0.177,0.512,0.933,0.00129,9,0.573,-4.343,1,0.0504,100.543,4,0.71
+30,Kung Fu Fighting,25,2018-10-20T08:01:33Z,196349,Carl Douglas,100 70s,2012-01-01,0.0424,0.612,0.685,3.74e-05,2,0.151,-9.838,1,0.0656,102.253,4,0.579
+31,I Was Made For Lovin' You,17,2018-10-20T08:01:33Z,270013,KISS,Classics,2008,0.0961,0.775,0.825,4.86e-05,4,0.0776,-6.337,1,0.0396,128.362,4,0.881
+32,More Than a Feeling,78,2018-10-20T08:01:33Z,285133,Boston,Boston,1976,0.000894,0.377,0.682,0.00217,7,0.0504,-8.039,1,0.0299,108.736,4,0.288
+33,Piano Man,74,2018-10-20T08:01:33Z,336093,Billy Joel,The Essential Billy Joel,2001-10-02,0.6,0.334,0.472,3.77e-06,0,0.317,-8.792,1,0.0277,179.167,3,0.431
+34,Bennie And The Jets - Remastered 2014,23,2018-10-20T08:01:33Z,322548,Elton John,Goodbye Yellow Brick Road (40th Anniversary Celebration/ Super Deluxe Edition),1973-10-05,0.251,0.666,0.668,5.77e-06,0,0.499,-7.961,1,0.0523,132.666,4,0.765
+35,Boogie Wonderland,73,2018-10-20T08:01:33Z,288293,"Earth, Wind & Fire",I Am,1979-06,0.0843,0.802,0.756,0.00765,2,0.0521,-10.791,0,0.0349,131.715,4,0.963
+36,Le Freak,69,2018-10-20T08:01:33Z,327573,CHIC,C'est Chic,1978-08-11,0.0453,0.867,0.746,0.0,7,0.123,-7.445,1,0.0475,118.616,4,0.933
+37,Carry On Wayward Son,54,2018-10-20T08:01:33Z,205026,Kansas,The Best Year Of My Life: 1977,2010-04-30,0.000553,0.403,0.648,6.88e-05,9,0.421,-8.1,0,0.0325,126.682,4,0.904
+38,A Horse with No Name,77,2018-10-20T08:01:33Z,252239,America,America,1972,0.686,0.654,0.506,0.0155,11,0.155,-17.18,0,0.0535,123.179,4,0.831
+39,If You Leave Me Now - Remastered,72,2018-10-20T08:01:33Z,235373,Chicago,Chicago X,1976-06-14,0.0193,0.429,0.564,0.000828,11,0.128,-6.784,1,0.0268,104.212,4,0.276
+40,I'm Every Woman,64,2018-10-20T08:01:33Z,213266,Chaka Khan,"Epiphany: The Best Of Chaka Khan, Vol. 1",1996-11-08,0.0145,0.537,0.929,0.000618,5,0.188,-4.957,0,0.0446,114.785,4,0.717
+41,Easy,58,2018-10-20T08:01:33Z,260893,Commodores,The Very Best Of The Commodores,1995-01-01,0.233,0.575,0.432,0.00135,10,0.0743,-13.642,0,0.0314,132.145,4,0.348
+42,Grease - From “Grease” Original Motion Picture Soundtrack,57,2018-10-20T08:01:33Z,204346,Frankie Valli,Grease (Deluxe Edition),2003-01-01,0.249,0.805,0.437,0.0,9,0.0903,-8.979,1,0.0458,109.68,4,0.845
+43,My Sweet Lord,38,2018-10-20T08:01:33Z,281226,George Harrison,All Things Must Pass (Remastered),1970-11-27,0.0705,0.537,0.685,0.0,1,0.0839,-8.935,0,0.0333,120.965,4,0.542
+44,Beast Of Burden - Remastered,32,2018-10-20T08:01:33Z,265173,The Rolling Stones,Some Girls,1978-06-09,0.413,0.786,0.87,0.000494,1,0.0389,-3.875,0,0.0316,100.66,4,0.864
+45,Stuck In The Middle With You - Remastered,63,2018-10-20T08:01:33Z,201334,Stealers Wheel,Stuck In The Middle With You,2009-03-31,0.119,0.837,0.496,0.357,7,0.115,-11.821,1,0.0402,125.017,4,0.964
+46,Take It Easy - Remastered,76,2018-10-20T08:01:33Z,211577,Eagles,Eagles (Remastered),1972,0.343,0.575,0.67,4.95e-06,7,0.129,-10.39,1,0.0318,139.191,4,0.74
+47,Blinded By The Light (Single edit),16,2018-10-20T08:01:33Z,229000,Manfred Mann's Earth Band,The Roaring Silence,1976-08-01,0.524,0.594,0.561,0.00222,5,0.0724,-11.666,1,0.0603,140.286,4,0.617
+48,Stairway To Heaven,64,2018-10-20T08:01:33Z,478173,Led Zeppelin,Led Zeppelin IV,1971-11-08,0.575,0.346,0.335,0.00674,7,0.185,-12.453,1,0.0339,84.204,4,0.213
+49,You're So Vain,74,2018-10-20T08:01:33Z,258411,Carly Simon,No Secrets,1972,0.157,0.659,0.678,6.69e-06,0,0.0784,-8.18,1,0.0313,106.186,4,0.647
+50,Here Comes The Sun - Live In Japan/1991/Remastered 2004,63,2018-10-20T08:01:33Z,211320,George Harrison,Live In Japan,1992-07-13,0.425,0.611,0.566,0.000954,9,0.878,-11.715,1,0.0295,125.24,4,0.639
+51,Let Your Love Flow,65,2018-10-20T08:01:33Z,198760,The Bellamy Brothers,Bellamy Brothers,1976-07-01,0.0611,0.679,0.553,7.16e-06,3,0.139,-14.687,1,0.0316,109.071,4,0.946
+52,Don't Stop 'Til You Get Enough - Single Version,77,2018-10-20T08:01:33Z,365466,Michael Jackson,Off the Wall,1979-08-10,0.126,0.878,0.821,0.0461,11,0.183,-9.875,1,0.089,118.881,4,0.947
+53,Imagine - Remastered 2010,77,2018-10-20T08:01:33Z,187866,John Lennon,Imagine,1971-09-09,0.907,0.547,0.257,0.183,0,0.0935,-12.358,1,0.0252,75.752,4,0.169
+54,T.N.T.,78,2018-10-20T08:01:33Z,214666,AC/DC,High Voltage,1976-05-14,0.153,0.754,0.759,0.000114,9,0.101,-5.218,1,0.302,126.367,4,0.435
+55,Starman - 2012 Remastered Version,73,2018-10-20T08:01:33Z,254293,David Bowie,The Rise And Fall Of Ziggy Stardust And The Spiders From Mars (2012 Remastered Version),1972-06-06,0.166,0.486,0.45,2.06e-06,5,0.54,-10.298,1,0.0267,100.456,4,0.55
+56,Message In A Bottle - Remastered 2003,71,2018-10-20T08:01:33Z,290280,The Police,Reggatta De Blanc (Remastered),1979-10-02,0.0338,0.577,0.808,1.33e-05,1,0.221,-7.04,0,0.039,151.008,4,0.869
+57,Give A Little Bit,33,2018-10-20T08:01:33Z,248173,Supertramp,Even In The Quietest Moments (Remastered),1977-01-01,0.0637,0.533,0.822,0.00795,2,0.259,-5.419,1,0.0474,91.353,4,0.463
+58,Miss You - Remastered,59,2018-10-20T08:01:33Z,288666,The Rolling Stones,Some Girls (Deluxe Version),1978-06-09,0.426,0.796,0.711,0.00381,9,0.364,-4.755,0,0.0427,109.673,4,0.828
+59,Hot Stuff,25,2018-10-20T08:01:33Z,314760,Donna Summer,Bad Girls,1979-01-01,0.00559,0.823,0.743,0.0306,0,0.0707,-13.98,1,0.0316,120.471,4,0.966
+60,The Boys Are Back In Town,27,2018-10-20T08:01:33Z,263826,Thin Lizzy,Wild One - The Very Best Of Thin Lizzy (Remastered Version),1996-01-01,0.252,0.36,0.851,3.77e-06,8,0.0802,-5.542,1,0.0838,79.39,4,0.683
+61,Black Magic Woman,66,2018-10-20T08:01:33Z,195866,Santana,Ultimate Santana,2007-09-25,0.679,0.497,0.552,0.0314,9,0.089,-7.102,0,0.0307,124.359,4,0.633
+62,American Pie,74,2018-10-20T08:01:33Z,515866,Don McLean,The Best Of Don McLean,1988-01-01,0.6,0.527,0.509,0.0,7,0.144,-10.893,1,0.0628,138.317,4,0.497
+63,Cocaine,70,2018-10-20T08:01:33Z,221640,Eric Clapton,Slowhand 35th Anniversary,1977-11-01,0.0607,0.699,0.502,0.0337,9,0.317,-12.526,1,0.0278,105.266,4,0.676
+64,"""Heroes"" - Single Version; 2014 Remastered Version",58,2018-10-20T08:01:33Z,213813,David Bowie,"Legacy (The Very Best Of David Bowie, Deluxe)",2016-11-11,0.016,0.502,0.681,0.107,7,0.102,-8.263,1,0.0276,112.16,4,0.584
+65,It Never Rains in Southern California,47,2018-10-20T08:01:33Z,230453,Albert Hammond,The Best Year Of My Life: 1972,2010-04-30,0.0388,0.621,0.572,0.0,9,0.0873,-9.979,1,0.0267,116.391,4,0.915
+66,Stayin' Alive - 2007 Remastered Version Saturday Night Fever,24,2018-10-20T08:01:33Z,285373,Bee Gees,Saturday Night Fever [The Original Movie Soundtrack],1978-01-05,0.0291,0.704,0.834,0.00492,10,0.147,-7.131,0,0.0358,103.555,4,0.923
+67,Come and Get Your Love,58,2018-10-20T08:01:33Z,300666,Redbone,Wovoka,1973,0.118,0.648,0.741,0.000802,2,0.0645,-8.568,1,0.0658,105.794,4,0.829
+68,Ziggy Stardust - 2012 Remastered Version,65,2018-10-20T08:01:33Z,194440,David Bowie,The Rise And Fall Of Ziggy Stardust And The Spiders From Mars (2012 Remastered Version),1972-06-06,0.048,0.44,0.565,0.0,7,0.213,-11.657,1,0.121,161.124,4,0.495
+69,YMCA - Original Version 1978,71,2018-10-20T08:01:33Z,286800,Village People,YMCA,1978-01-01,0.0643,0.723,0.969,0.0,6,0.115,-4.516,1,0.142,126.653,4,0.728
+70,Lean on Me,69,2018-10-20T08:01:33Z,258834,Bill Withers,Still Bill,1972,0.782,0.619,0.22,1.19e-05,0,0.124,-13.843,1,0.0667,75.16,4,0.423
+71,Life On Mars? - 2015 Remastered Version,71,2018-10-20T08:01:33Z,235986,David Bowie,Hunky Dory (2015 Remastered Version),1971-12-17,0.639,0.442,0.384,7.7e-05,10,0.0539,-14.635,1,0.0414,123.281,4,0.216
+72,Layla,22,2018-10-20T08:01:33Z,426173,Derek & The Dominos,Time Pieces: The Best Of Eric Clapton,1982,0.481,0.404,0.754,0.489,1,0.318,-10.31,1,0.0556,115.536,4,0.446
+73,Maybe I’m Amazed - Remastered 2011,22,2018-10-20T08:01:33Z,229826,Paul McCartney,McCartney (Special Edition),1970-04-17,0.387,0.471,0.494,0.0944,7,0.617,-10.407,1,0.0312,79.255,4,0.373
+74,Saturday Night’s Alright (For Fighting) - Remastered 2014,20,2018-10-20T08:01:33Z,295466,Elton John,Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe),1973-10-05,0.0195,0.513,0.979,0.0951,0,0.0906,-6.362,1,0.0425,152.875,4,0.94
+75,"If I Can't Have You - From ""Saturday Night Fever""",50,2018-10-20T08:01:33Z,177213,Yvonne Elliman,Love Songs #1's,2007-01-01,0.108,0.599,0.807,0.0,8,0.348,-6.971,0,0.0412,109.497,4,0.846
+76,Sunny,65,2018-10-20T08:01:33Z,242240,Boney M.,Take The Heat Off Me,1976,0.0876,0.647,0.868,0.124,0,0.129,-6.427,0,0.105,121.822,4,0.803
+77,The Passenger,26,2018-10-20T08:01:33Z,284066,Iggy Pop,Lust For Life,1977-09-09,0.0797,0.5,0.846,0.0,0,0.241,-8.098,1,0.0457,134.937,4,0.738
+78,"Rocket Man (I Think It's Going To Be A Long, Long Time)",80,2018-10-20T08:01:33Z,281613,Elton John,Honky Chateau,1972-05-19,0.386,0.602,0.522,1.44e-05,10,0.0941,-9.031,1,0.0285,136.637,4,0.36
+79,Band On The Run - Remastered 2010,30,2018-10-20T08:01:33Z,313026,Paul McCartney,Band On The Run (Standard),1973-12-05,0.0832,0.479,0.601,0.00142,7,0.11,-8.806,1,0.0318,124.966,4,0.669
+80,Young Americans - 2016 Remastered Version,61,2018-10-20T08:01:33Z,313706,David Bowie,Young Americans (2016 Remastered Version),1975-03-07,0.171,0.614,0.763,0.0,4,0.119,-8.949,0,0.133,84.236,4,0.885
+81,You Make Me Feel Like Dancing - Remastered,48,2018-10-20T08:01:33Z,219466,Leo Sayer,Endless Flight,1976,0.0848,0.728,0.718,0.0,8,0.0579,-5.281,0,0.0501,95.922,4,0.733
+82,Don't Go Breaking My Heart,75,2018-10-20T08:01:33Z,275440,Elton John,Rock Of The Westies,1975-10-24,0.177,0.728,0.824,1.48e-06,5,0.06,-8.632,1,0.0353,131.468,4,0.787
+83,Maggie May,34,2018-10-20T08:01:33Z,350266,Rod Stewart,Every Picture Tells A Story,1971-01-01,0.559,0.605,0.574,0.113,2,0.0684,-10.536,1,0.0377,129.449,4,0.543
+84,"Can't Get Enough Of Your Love, Babe",55,2018-10-20T08:01:33Z,270333,Barry White,Barry White's Greatest Hits,1975-01-01,0.202,0.74,0.605,0.000107,5,0.0515,-10.924,1,0.0539,111.78,4,0.779
+85,Dreadlock Holiday,24,2018-10-20T08:01:33Z,267746,10cc,70's Pop,2007-01-01,0.435,0.837,0.407,0.000487,7,0.174,-12.416,0,0.0563,105.013,4,0.922
+86,Long Train Runnin',72,2018-10-20T08:01:33Z,207266,The Doobie Brothers,The Captain And Me,1973,0.0916,0.575,0.912,0.00211,7,0.0562,-7.275,0,0.0393,117.399,4,0.843
+87,Take The Long Way Home - 2010 Remastered,23,2018-10-20T08:01:33Z,308853,Supertramp,Breakfast In America (Deluxe Edition),1979-03-29,0.22,0.414,0.7,0.000721,5,0.114,-8.838,1,0.0301,76.79,4,0.37
+88,What's Going On,30,2018-10-20T08:01:33Z,232600,Marvin Gaye,What's Going On - 40th Anniversary (Super Deluxe),1971-05-21,0.105,0.245,0.833,0.0,1,0.359,-5.555,0,0.116,205.375,4,0.805
+89,Strawberry Letter 23,17,2018-10-20T08:01:33Z,298794,The Brothers Johnson,Strawberry Letter 23/The Very Best Of The Brothers Johnson,2003-01-01,0.297,0.722,0.787,0.00706,7,0.146,-7.333,0,0.0508,90.839,4,0.708
+90,Bat Out of Hell,52,2018-10-20T08:01:33Z,293426,Meat Loaf,Heaven & Hell,1989,0.412,0.225,0.687,0.00142,5,0.147,-10.236,1,0.0462,173.494,4,0.611
+91,"You're The First, The Last, My Everything",15,2018-10-20T08:01:33Z,206936,Barry White,Barry White - The Collection,1988-01-01,0.000679,0.633,0.542,0.00434,5,0.0754,-12.318,1,0.0316,130.314,4,0.879
+92,Don't Stop,23,2018-10-20T08:01:33Z,192133,Fleetwood Mac,Rumours,1977-02-04,0.0398,0.686,0.632,2.2e-06,9,0.0686,-11.433,1,0.0353,118.965,4,0.88
+93,Jolene,22,2018-10-20T08:01:33Z,161533,Dolly Parton,Jolene,1974,0.566,0.674,0.537,0.0,1,0.131,-10.971,0,0.0363,110.578,4,0.809
+94,My Sharona,16,2018-10-20T08:01:33Z,293840,The Knack,This Is... 1979,2008-08-04,0.0393,0.58,0.732,0.00116,0,0.0821,-8.585,1,0.0358,147.194,4,0.883
+95,(Don't Fear) The Reaper,19,2018-10-20T08:01:33Z,308440,Blue Öyster Cult,Agents Of Fortune,1976,0.00125,0.368,0.928,0.00111,9,0.301,-8.369,0,0.0593,141.175,4,0.532

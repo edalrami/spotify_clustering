@@ -1,0 +1,101 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,Stay With Me - Live From Spotify Berlin,56,2018-09-05T03:33:37Z,174373,Angus & Julia Stone,Spotify Sessions,2015-01-13,0.808,0.529,0.0964,0.0628,0,0.709,-22.052,1,0.0459,151.286,4,0.142
+1,Candle In The Wind - 2018 Version,72,2018-09-05T03:33:37Z,198777,Ed Sheeran,Revamp: The Songs Of Elton John & Bernie Taupin,2018-04-06,0.732,0.549,0.449,0.0,4,0.117,-10.479,1,0.0455,76.028,5,0.506
+2,Blank Space/Stand By Me - Live From Spotify London,71,2018-09-05T03:33:37Z,303433,Imagine Dragons,Imagine Dragons (Spotify Sessions),2015-04-20,0.407,0.764,0.575,0.0,9,0.747,-6.728,1,0.0966,101.759,4,0.502
+3,Can’t Help Falling in Love,78,2018-09-05T03:33:37Z,201933,Kina Grannis,Crazy Rich Asians (Original Motion Picture Soundtrack),2018-08-10,0.905,0.266,0.0596,7.07e-05,0,0.132,-18.515,1,0.0363,181.74,3,0.143
+4,Come As You Are,66,2018-09-05T03:33:37Z,165309,Imaginary Future,Come As You Are,2018-08-31,0.982,0.308,0.0204,0.000448,5,0.107,-18.123,0,0.0377,147.369,3,0.128
+5,Every Breath You Take (feat. Liza Anne),67,2018-09-05T03:33:37Z,223893,Aaron Krause,Every Breath You Take (feat. Liza Anne),2013-11-22,0.758,0.325,0.201,0.0,6,0.0977,-11.595,0,0.0282,81.869,4,0.172
+6,Summertime Sadness (Acoustic Cover) Feat. Keelan Donovan,68,2018-09-05T03:33:37Z,231013,Megan Davies,Summertime Sadness (Acoustic Cover) Feat. Keelan Donovan,2014-07-17,0.636,0.62,0.403,0.0,1,0.128,-6.998,0,0.0393,135.84,4,0.528
+7,Stolen Dance,67,2018-09-05T03:33:37Z,235466,Twin Bandit,Stolen Dance,2016-07-22,0.523,0.706,0.328,0.0,0,0.223,-10.158,1,0.0326,85.988,4,0.593
+8,"Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",77,2018-09-05T03:33:37Z,263573,John Mayer,Where the Light Is: John Mayer Live In Los Angeles,2008,0.771,0.315,0.296,0.0,5,0.702,-13.262,1,0.0317,172.638,4,0.436
+9,I Was Made for Loving You / Please Don't Say You Love Me,64,2018-09-05T03:33:37Z,162185,Gardiner Sisters,"Covers, Vol. 1",2018-04-06,0.857,0.525,0.278,0.0,2,0.104,-10.669,1,0.0321,72.952,4,0.33
+10,Little Talks,73,2018-09-05T03:33:37Z,219760,Julia Sheer,Little Talks,2013-01-05,0.873,0.637,0.263,0.0,5,0.164,-9.094,0,0.0399,97.423,4,0.487
+11,Rather Be,26,2018-09-05T03:33:37Z,247816,Jasmine Thompson,Another Bundle of Tantrums,2014-04-20,0.837,0.534,0.332,0.0,11,0.0997,-7.44,1,0.0374,110.771,4,0.509
+12,Fast Car (feat. Tall Heights),69,2018-09-05T03:33:37Z,272966,Ryan Montbleau,All or Nothing / Fast Car,2014-09-30,0.865,0.577,0.17,0.0,9,0.133,-12.979,1,0.0462,174.192,4,0.36
+13,Halo,67,2018-09-05T03:33:37Z,269920,Lotte Kestner,The Bluebird of Happiness,2013-02-26,0.952,0.576,0.121,0.00111,9,0.1,-17.343,1,0.036,116.826,4,0.063
+14,Send My Love (To Your New Lover) - Live,64,2018-09-05T03:33:37Z,225033,I'm With Her,Send My Love (To Your New Lover) [Live],2017-09-29,0.813,0.494,0.306,0.0015,6,0.693,-9.611,0,0.0489,161.142,4,0.503
+15,"I'm Not The Only One (Sam Smith Cover) - Live From Spotify, London",71,2018-09-05T03:33:37Z,195840,Dua Lipa,Spotify Session,2016-07-08,0.861,0.455,0.265,0.0,5,0.685,-8.468,1,0.0491,176.036,4,0.324
+16,Crazy - Radio 1 Live Lounge Session,54,2018-09-05T03:33:37Z,203853,Nelly Furtado,Promiscuous (remixes),2006-01-01,0.889,0.693,0.26,1.33e-05,10,0.212,-11.305,0,0.0486,103.137,4,0.292
+17,Cherry Wine,65,2018-09-05T03:33:37Z,246093,Overcoats,Cherry Wine,2016-12-02,0.963,0.479,0.177,0.0,10,0.116,-11.266,1,0.036,124.033,3,0.136
+18,Drag Me Down/As Long As You Love Me,66,2018-09-05T03:33:37Z,206324,Gardiner Sisters,Drag Me Down/As Long As You Love Me,2015-08-24,0.848,0.678,0.346,0.0,3,0.128,-8.571,1,0.0345,135.989,4,0.461
+19,Wildflowers,64,2018-09-05T03:33:37Z,168849,Trampled by Turtles,Wildflowers,2018-07-13,0.327,0.495,0.444,5.39e-06,5,0.269,-8.617,1,0.0276,105.431,4,0.65
+20,Don't You Want Me,65,2018-09-05T03:33:37Z,199426,Bahamas,The Secret Life Of Walter Mitty (Music From And Inspired By The Motion Picture),2013-01-01,0.911,0.667,0.211,0.0355,0,0.12,-15.026,1,0.0466,111.227,4,0.327
+21,Set Fire To The Rain,65,2018-09-05T03:33:37Z,233377,Noah Guthrie,"Noah Guthrie, The Covers Vol. 4",2014-07-02,0.703,0.566,0.227,0.0,1,0.11,-11.588,1,0.0502,117.979,4,0.507
+22,Jolene - Live,64,2018-09-05T03:33:37Z,253000,The Staves,Pine Hollow (Live),2018-02-23,0.932,0.47,0.112,0.0,11,0.113,-15.147,1,0.0377,125.496,4,0.183
+23,Home/Dirty Paws,66,2018-09-05T03:33:37Z,173508,Gardiner Sisters,Home/Dirty Paws,2014-03-02,0.85,0.663,0.208,0.0,2,0.114,-10.89,1,0.0313,115.028,4,0.232
+24,Better Together,32,2018-09-05T03:33:37Z,200706,Us The Duo,Better Together,2015-04-28,0.649,0.79,0.3,0.0,5,0.14,-10.597,1,0.0622,110.187,4,0.49
+25,Riptide,63,2018-09-05T03:33:37Z,253200,MisterWives,Spotify Sessions,2014-09-15,0.437,0.529,0.68,0.0,1,0.0651,-6.841,1,0.151,91.961,4,0.367
+26,We Can't Stop (feat. Bea Miller),26,2018-09-05T03:33:37Z,222146,Boyce Avenue,"Cover Collaborations, Vol. 2",2011-09-16,0.674,0.705,0.347,0.0,2,0.12,-8.249,1,0.0301,80.057,4,0.36
+27,Time After Time,69,2018-09-05T03:33:37Z,170216,Iron & Wine,Time After Time,2016-10-28,0.814,0.628,0.248,0.0602,1,0.111,-13.304,1,0.032,125.298,4,0.646
+28,Perfect Places - Live From BBC Radio 2,64,2018-09-05T03:33:37Z,218760,First Aid Kit,Live From BBC Radio 2,2017-12-18,0.278,0.454,0.421,0.0,1,0.141,-4.834,0,0.026,87.555,4,0.383
+29,K.,62,2018-09-05T03:33:37Z,269000,Rosie Carney,K.,2018-01-05,0.962,0.348,0.226,0.00483,3,0.135,-10.918,1,0.0386,129.251,3,0.173
+30,Billie Jean,68,2018-09-05T03:33:37Z,259920,The Civil Wars,Between The Bars (EP),2012,0.829,0.532,0.203,0.0,9,0.108,-8.524,0,0.0668,89.646,4,0.543
+31,"See You Again, Love Me Like You Do, Sugar - Acoustic Mashup",66,2018-09-05T03:33:37Z,231965,Megan Davies,"See You Again, Love Me Like You Do, Sugar (Acoustic Mashup)",2015-05-15,0.877,0.393,0.207,0.0,10,0.104,-11.865,1,0.0392,163.99,4,0.262
+32,Crazy in Love,65,2018-09-05T03:33:37Z,227500,Daniela Andrade,Crazy in Love,2014-03-14,0.868,0.606,0.326,0.0,7,0.12,-9.401,1,0.119,78.906,4,0.489
+33,California,48,2018-09-05T03:33:37Z,167094,Lisa Mitchell,California,2017-07-14,0.733,0.53,0.264,0.00295,6,0.116,-11.974,1,0.03,77.002,4,0.241
+34,Eventually,21,2018-09-05T03:33:37Z,226346,Lucius,Eventually,2018-02-16,0.603,0.658,0.394,5.65e-06,1,0.176,-7.537,1,0.025,78.926,3,0.232
+35,When Doves Cry - Recorded At Spotify Studios NYC,63,2018-09-05T03:33:37Z,280827,Sarah Jarosz,Spotify Singles,2017-07-19,0.638,0.776,0.335,0.000126,9,0.15,-10.152,1,0.0614,127.754,4,0.54
+36,Sorry,65,2018-09-05T03:33:37Z,165697,Colin & Caroline,Sorry,2016-01-12,0.715,0.618,0.255,0.0,7,0.0958,-12.5,1,0.0396,85.943,4,0.547
+37,I Believe in a Thing Called Love,62,2018-09-05T03:33:37Z,184000,Branches,Covers,2014-04-08,0.139,0.605,0.596,0.000554,9,0.101,-6.65,1,0.029,126.066,4,0.119
+38,My Love / Hotline Bling,61,2018-09-05T03:33:37Z,202130,Gardiner Sisters,My Love / Hotline Bling,2016-05-02,0.876,0.553,0.288,0.0,11,0.145,-7.738,1,0.032,127.81,4,0.336
+39,I Like Me Better,65,2018-09-05T03:33:37Z,189673,Ysabelle Cuevas,Ysabelle,2017-11-14,0.896,0.449,0.209,0.0,10,0.156,-14.494,1,0.0896,93.618,4,0.431
+40,Chains,21,2018-09-05T03:33:37Z,200218,The Sweeplings,"Covers, Ch. 1",2016-07-29,0.944,0.336,0.331,2.9e-06,4,0.0732,-8.102,0,0.0349,88.612,3,0.189
+41,Love Will Tear Us Apart,60,2018-09-05T03:33:37Z,223340,Odina,Love Will Tear Us Apart,2018-03-16,0.951,0.375,0.217,0.000722,3,0.107,-12.426,1,0.0344,96.239,3,0.139
+42,Titanium,24,2018-09-05T03:33:37Z,227562,Boyce Avenue,"New Acoustic Sessions, Vol. 4",2012-07-20,0.194,0.804,0.547,0.0,4,0.0888,-7.769,0,0.0665,126.013,4,0.507
+43,Ordinary World,62,2018-09-05T03:33:37Z,314343,Joy Williams,Ordinary World,2017-01-20,0.972,0.52,0.172,6.24e-06,4,0.109,-11.422,0,0.0343,67.007,4,0.0746
+44,Chandelier,63,2018-09-05T03:33:37Z,212300,Kina Grannis,Chandelier,2014-10-29,0.835,0.514,0.206,0.0,5,0.114,-13.578,0,0.032,75.874,4,0.127
+45,Let It Go,63,2018-09-05T03:33:37Z,194129,Colin & Caroline,Let It Go,2016-05-16,0.861,0.46,0.319,0.0,1,0.118,-8.621,1,0.0356,145.765,4,0.329
+46,Dancing in the Dark,61,2018-09-05T03:33:37Z,239133,Eddie Berman,Blood & Rust,2014,0.903,0.463,0.153,1.23e-05,2,0.152,-14.082,1,0.0385,73.506,4,0.254
+47,Linger,60,2018-09-05T03:33:37Z,201136,Freedom Fry,Linger,2016-11-29,0.789,0.572,0.285,0.0,5,0.0944,-12.367,1,0.0316,88.012,4,0.168
+48,What I Am - Recorded at Spotify Studios NYC,61,2018-09-05T03:33:37Z,235579,Iron & Wine,Spotify Singles,2018-07-02,0.668,0.546,0.299,0.109,5,0.111,-14.999,1,0.0386,115.464,4,0.789
+49,Still Got Time / There's Nothing Holdin' Me Back,59,2018-09-05T03:33:37Z,193513,Megan Davies,Still Got Time / There's Nothing Holdin' Me Back,2017-10-15,0.81,0.736,0.281,0.0,4,0.404,-9.216,0,0.0413,110.846,4,0.582
+50,I Can't Make You Love Me,60,2018-09-05T03:33:37Z,291046,SOAK,I Can't Make You Love Me/Immigrant Song,2016-05-13,0.958,0.528,0.0927,0.000436,0,0.106,-8.419,1,0.0323,110.13,4,0.23
+51,XO,59,2018-09-05T03:33:37Z,235906,Anna Elizabeth Laube,Tree,2016-09-09,0.924,0.456,0.154,0.00116,10,0.108,-13.953,1,0.0327,79.211,4,0.351
+52,Despacito,67,2018-09-05T03:33:37Z,170454,Madilyn Bailey,Despacito,2017-05-25,0.619,0.686,0.475,0.0,4,0.501,-5.572,1,0.0748,86.353,4,0.743
+53,Wrecking Ball,59,2018-09-05T03:33:37Z,254336,Joseph & Maia,Acoustic Extended Play,2016-12-02,0.942,0.428,0.0618,0.0,7,0.105,-12.933,1,0.0351,107.721,4,0.163
+54,Black Beatles - Acoustic,68,2018-09-05T03:33:37Z,211781,The Mayries,Black Beatles (Acoustic),2016-12-09,0.854,0.712,0.321,0.0,9,0.121,-7.735,1,0.034,118.045,4,0.209
+55,Hello,59,2018-09-05T03:33:37Z,230225,Erato,Hello (Adele Cover),2015-10-24,0.95,0.587,0.189,3.29e-06,0,0.112,-10.553,1,0.0355,73.424,4,0.217
+56,Seven Nation Army,64,2018-09-05T03:33:37Z,172919,Zella Day,Seven Nation Army,2012-06-14,0.891,0.69,0.283,0.000386,2,0.111,-7.309,1,0.0294,104.348,4,0.35
+57,Strangers,19,2018-09-05T03:33:37Z,194755,Lucius,Good Grief (Deluxe Edition),2016-03-11,0.609,0.618,0.474,1.28e-05,2,0.126,-5.179,1,0.0321,121.762,5,0.321
+58,U Remind Me - Recorded at Spotify Studios NYC,64,2018-09-05T03:33:37Z,198000,James TW,Spotify Singles,2017-05-10,0.7,0.759,0.212,0.0,4,0.11,-12.389,0,0.0862,95.964,4,0.711
+59,September - Recorded at The Tracking Room Nashville,69,2018-09-05T03:33:37Z,187823,Taylor Swift,Spotify Singles,2018-04-13,0.412,0.641,0.444,0.00121,6,0.179,-6.482,1,0.0239,107.081,4,0.588
+60,Let Me Love You - Recorded at Spotify Studios NYC,63,2018-09-05T03:33:37Z,221361,Fitz and The Tantrums,Spotify Singles,2016-12-14,0.806,0.57,0.363,3.38e-06,2,0.102,-6.606,1,0.0493,97.444,4,0.359
+61,"Love Yourself, Out of the Woods, Roses - Acoustic Mashup",61,2018-09-05T03:33:37Z,237362,Megan Davies,"Love Yourself, Out of the Woods, Roses (Acoustic Mashup)",2016-01-11,0.708,0.589,0.183,0.0,11,0.393,-13.31,1,0.0583,90.556,4,0.36
+62,American Oxygen,65,2018-09-05T03:33:37Z,305093,X Ambassadors,American Oxygen,2015-03-18,0.151,0.385,0.482,0.0,0,0.101,-6.757,1,0.0311,78.495,3,0.322
+63,Boom Clap,61,2018-09-05T03:33:37Z,175615,Lennon & Maisy,Boom Clap,2015-02-03,0.57,0.653,0.525,0.0,4,0.141,-7.446,1,0.0414,156.996,4,0.633
+64,Sex On Fire,60,2018-09-05T03:33:37Z,185500,Alex Cornell,Youtube Sessions,2011-12-10,0.844,0.476,0.408,0.111,7,0.125,-11.216,1,0.0305,90.055,4,0.0568
+65,Mr. Brightside,20,2018-09-05T03:33:37Z,272000,Run River North,Mr. Brightside,2016-01-15,0.859,0.393,0.178,0.00453,2,0.117,-12.016,1,0.0318,123.141,4,0.178
+66,Stitches,63,2018-09-05T03:33:37Z,246000,Jaclyn Davies,Stitches,2015-12-15,0.913,0.636,0.233,1.4e-06,0,0.101,-9.381,1,0.0318,129.759,4,0.16
+67,Teenage Dirtbag,62,2018-09-05T03:33:37Z,199200,Walk Off the Earth,Teenage Dirtbag,2016-05-24,0.797,0.734,0.354,0.0,4,0.278,-6.323,1,0.0285,100.071,4,0.468
+68,Can't Stop the Feeling / This Is What You Came For,60,2018-09-05T03:33:37Z,148174,Anthem Lights,Can't Stop the Feeling / This Is What You Came For,2016-05-25,0.56,0.611,0.496,0.0,0,0.0884,-5.639,1,0.0327,113.94,4,0.463
+69,7 Years,20,2018-09-05T03:33:37Z,188045,Nicole Cross,7 Years,2016-03-25,0.859,0.724,0.39,0.0,10,0.0975,-7.073,1,0.0365,119.838,4,0.36
+70,Cold Water,64,2018-09-05T03:33:37Z,181595,Megan Davies,Cold Water,2016-10-10,0.733,0.509,0.257,0.0,6,0.312,-13.962,0,0.108,187.366,4,0.55
+71,"I Took a Pill in Ibiza, Youth (Acoustic Mashup) [feat. Taylor Leigh]",60,2018-09-05T03:33:37Z,204631,Landon Austin,"I Took a Pill in Ibiza, Youth (Acoustic Mashup) [feat. Taylor Leigh]",2016-02-23,0.369,0.643,0.566,0.0,9,0.268,-6.859,1,0.0334,94.948,4,0.305
+72,Fix You,63,2018-09-05T03:33:37Z,261666,Canyon City,Refuge,2015-09-08,0.79,0.533,0.152,2.46e-05,2,0.148,-14.996,1,0.0302,143.972,4,0.132
+73,Want to Want Me - Acoustic Cover,60,2018-09-05T03:33:37Z,247297,Megan Davies,Want to Want Me (Acoustic Cover),2015-09-03,0.761,0.66,0.312,2.31e-05,9,0.122,-9.807,1,0.0276,92.446,4,0.441
+74,"Wicked Game - Live At Killkenny Arts Festival, Ireland/2011",20,2018-09-05T03:33:37Z,271800,James Vincent McMorrow,We Don't Eat EP,2012-02-21,0.872,0.545,0.181,0.0035,11,0.689,-14.698,1,0.0362,113.221,4,0.16
+75,City of Stars,56,2018-09-05T03:33:37Z,154858,Gavin James,City of Stars,2017-03-03,0.934,0.531,0.116,0.0,6,0.0981,-11.157,1,0.0548,117.469,3,0.176
+76,Take Me To Church (Acoustic Cover) feat. Matt Wright,60,2018-09-05T03:33:37Z,277802,Megan Davies,Take Me To Church (Acoustic Cover) feat. Matt Wright,2014-08-28,0.745,0.637,0.292,0.0,4,0.305,-8.206,0,0.0375,127.015,3,0.4
+77,Ho Hey,54,2018-09-05T03:33:37Z,126440,Nashville Cast,The Music Of Nashville Original Soundtrack Volume 2,2013-01-01,0.601,0.692,0.434,0.0,1,0.102,-8.53,1,0.026,82.978,4,0.455
+78,Hey Ya - solo version,61,2018-09-05T03:33:37Z,298800,Obadiah Parker,The Tip Jar Volume One,2008-12-01,0.665,0.661,0.184,0.0,1,0.106,-13.644,0,0.038,140.006,4,0.357
+79,Maps,60,2018-09-05T03:33:37Z,201683,Colin & Caroline,Maps,2016-03-08,0.696,0.62,0.374,4.27e-05,1,0.106,-9.594,1,0.026,100.887,4,0.156
+80,Fancy,58,2018-09-05T03:33:37Z,242500,Xavier Dunn,BIMYOU,2016-02-02,0.408,0.36,0.3,0.0,11,0.0916,-11.515,0,0.0381,145.935,4,0.361
+81,Girls Just Wanna Have Fun - Acoustic,64,2018-09-05T03:33:37Z,172992,The Mayries,Girls Just Wanna Have Fun,2017-04-14,0.74,0.438,0.356,0.0,8,0.146,-11.448,0,0.0388,186.267,4,0.356
+82,What Do You Mean / Where Are Ü Now (Acoustic Mashup) [feat. Kaya May],59,2018-09-05T03:33:37Z,216585,Landon Austin,What Do You Mean / Where Are Ü Now (Acoustic Mashup) [feat. Kaya May],2015-09-10,0.732,0.589,0.271,0.0,8,0.0902,-10.835,1,0.0341,122.946,4,0.382
+83,Stayin Out All Night/Habits (Acoustic Mashup),58,2018-09-05T03:33:37Z,225912,Emily Hackett,Stayin Out All Night/Habits (Acoustic Mashup),2014-12-11,0.851,0.609,0.165,0.0,2,0.108,-12.685,1,0.0724,147.384,4,0.476
+84,Why Georgia (RAWsession) [in the style of John Mayer] - Single,58,2018-09-05T03:33:37Z,266793,Jess Delgado,Jess Delgado RAWsession - 5.25.10,2010-08-03,0.547,0.577,0.521,0.00034,9,0.128,-8.891,1,0.0289,100.868,4,0.583
+85,This Must Be the Place (Naive Melody) [by Talking Heads],60,2018-09-05T03:33:37Z,206896,Kishi Bashi,"7"" Singles",2013-04-02,0.794,0.729,0.267,0.000114,4,0.209,-8.63,0,0.0311,119.985,4,0.75
+86,Sign of the Times [Acoustic Cover] - Acoustic,57,2018-09-05T03:33:37Z,230880,Megan Davies,Sign of the Times [Acoustic Cover],2017-05-29,0.849,0.542,0.225,0.0,3,0.17,-9.738,1,0.0318,82.882,5,0.299
+87,Pompeii,58,2018-09-05T03:33:37Z,173149,Josh Golden,Pompeii,2014-03-21,0.00839,0.557,0.34,0.0,0,0.0899,-3.965,1,0.0293,110.086,4,0.0585
+88,Taylor Swift 1989 Medley,59,2018-09-05T03:33:37Z,179880,Gardiner Sisters,Taylor Swift 1989 Medley,2015-02-20,0.745,0.664,0.265,0.0,2,0.108,-10.227,1,0.0334,95.224,4,0.367
+89,Shake It Off,59,2018-09-05T03:33:37Z,120827,William Singe,Shake It Off,2015-10-15,0.195,0.399,0.371,0.0,9,0.14,-10.778,1,0.334,79.824,4,0.148
+90,Hide Away - Acoustic Version,59,2018-09-05T03:33:37Z,211696,Landon Austin,Hide Away (Acoustic Version),2016-03-11,0.245,0.396,0.292,0.0,5,0.173,-10.348,1,0.0324,95.16,4,0.316
+91,Wild World - Acoustic Version,62,2018-09-05T03:33:37Z,225053,Joanna Wang,為愛做的一切,2011-09-23,0.8,0.67,0.306,1.18e-06,2,0.0829,-11.032,1,0.0366,139.949,4,0.61
+92,Steal My Girl,59,2018-09-05T03:33:37Z,208148,Hearts & Colors,Steal My Girl - Single,2015-04-10,0.833,0.636,0.253,0.0,9,0.168,-12.926,1,0.0432,80.826,4,0.747
+93,I Kissed A Girl,60,2018-09-05T03:33:37Z,192639,William Fitzsimmons,Derivatives,2010-05-10,0.355,0.728,0.481,6.78e-06,0,0.254,-9.577,1,0.0335,125.998,4,0.802
+94,Out of the Woods (Acoustic) [feat. Jake Coco],19,2018-09-05T03:33:37Z,229845,Savannah Outen,Out of the Woods (Acoustic) [feat. Jake Coco],2014-10-20,0.324,0.42,0.477,0.0,0,0.135,-11.12,1,0.0821,181.176,4,0.412
+95,Dancing In The Moonlight (It's Caught Me In Its Spotlight) - Recorded At Spotify Studios NYC,56,2018-09-05T03:33:37Z,143966,alt-J,Spotify Singles,2017-06-21,0.916,0.481,0.164,0.145,2,0.16,-17.201,1,0.0391,130.229,4,0.405
+96,How's It Going to Be,57,2018-09-05T03:33:37Z,242693,Jack and White,Undercover,2012-06-05,0.501,0.559,0.446,0.0,5,0.0837,-7.284,1,0.0285,153.911,4,0.192
+97,Sweet Child O' Mine,61,2018-09-05T03:33:37Z,302880,Taken By Trees,Sweet Child o’ Mine,2008-02-19,0.747,0.544,0.479,0.31,3,0.0808,-10.878,1,0.0279,118.117,4,0.434
+98,Palace - Cover,58,2018-09-05T03:33:37Z,229496,Cam,Palace (Cover) / Diane,2018-04-20,0.927,0.401,0.0427,7.8e-05,6,0.0984,-11.177,0,0.037,77.588,3,0.275
+99,"Stand by Me - Recorded at RAK Studios, London",64,2018-09-05T03:33:37Z,183052,Tom Speight,Spotify Singles,2018-03-07,0.748,0.517,0.245,0.156,7,0.11,-14.591,1,0.0325,121.075,4,0.264

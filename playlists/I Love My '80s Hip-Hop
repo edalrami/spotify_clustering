@@ -1,0 +1,61 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,Rapper's Delight,41,2018-10-10T17:19:12Z,239466,The Sugarhill Gang,The Best of Grandmaster Flash & Sugar Hill,2005-01-31,0.076,0.912,0.836,3.22e-06,2,0.0285,-7.615,1,0.231,111.7,4,0.724
+1,It's Tricky,68,2018-10-10T17:19:12Z,183426,Run–D.M.C.,Raising Hell,1986-05-15,0.000844,0.956,0.72,0.0,11,0.0597,-13.476,0,0.137,127.872,4,0.961
+2,The Message,55,2018-10-10T17:19:12Z,430013,Grandmaster Flash & The Furious Five,The Message (Expanded Edition),2010-01-01,0.0227,0.947,0.626,3.37e-06,1,0.0853,-10.106,1,0.205,100.6,4,0.724
+3,Express Yourself - Remix,59,2018-10-10T17:19:12Z,261399,N.W.A.,N.W.A. Greatest Hits,1996-07-02,0.00204,0.852,0.803,0.0,6,0.121,-6.929,0,0.264,96.2,4,0.752
+4,It Takes Two,60,2018-10-10T17:19:12Z,301893,Rob Base & DJ EZ Rock,Profilin': The Hits,1990-01-01,0.0143,0.767,0.776,0.0,2,0.326,-8.915,1,0.144,111.686,4,0.608
+5,Bust A Move,2,2018-10-10T17:19:12Z,263266,Young MC,Stone Cold Rhymin' (Deluxe Edition),1989-01-01,0.0962,0.926,0.851,0.00017,4,0.113,-5.435,0,0.0907,117.556,4,0.838
+6,Boyz-N-The-Hood,65,2018-10-10T17:19:12Z,336960,Eazy-E,The Best Of N.W.A: The Strength Of Street Knowledge,2006-01-01,0.0198,0.792,0.503,0.0,8,0.347,-8.359,1,0.276,87.847,4,0.663
+7,Children's Story,47,2018-10-10T17:19:12Z,239266,Slick Rick,The Great Adventures Of Slick Rick,1988-11-03,0.103,0.918,0.417,0.0,1,0.316,-12.754,1,0.148,102.604,4,0.76
+8,Just A Friend,58,2018-10-10T17:19:12Z,238266,Biz Markie,Just A Friend - EP,2009-06-11,0.12,0.862,0.663,0.0,0,0.318,-9.004,1,0.21,85.308,4,0.837
+9,Paid In Full,52,2018-10-10T17:19:12Z,229666,Eric B. & Rakim,Paid In Full,1987,0.000386,0.892,0.502,0.00117,7,0.0559,-16.892,1,0.228,98.838,4,0.381
+10,Straight Outta Compton,29,2018-10-10T17:19:12Z,258687,N.W.A.,Straight Outta Compton,1988-08-08,0.0461,0.834,0.878,0.0,8,0.334,-9.484,1,0.15,102.848,4,0.418
+11,It's Like That,56,2018-10-10T17:19:12Z,290280,Run–D.M.C.,RUN-DMC (Expanded Edition),1984-03-27,0.0591,0.964,0.889,0.0,11,0.166,-5.169,1,0.147,121.144,4,0.552
+12,Wild Thing,5,2018-10-10T17:19:12Z,263573,Tone-Loc,Loc-ed After Dark (Expanded Edition),1989-01-01,0.000541,0.941,0.696,1e-05,7,0.0613,-11.874,1,0.175,125.5,4,0.853
+13,Girls Ain't Nothing But Trouble - 1988 Extended Remix,42,2018-10-10T17:19:12Z,289293,DJ Jazzy Jeff & The Fresh Prince,Greatest Hits,1998,0.00306,0.602,0.726,0.0,7,0.0379,-8.937,1,0.248,97.765,4,0.693
+14,The Breaks,37,2018-10-10T17:19:12Z,244213,Kurtis Blow,Cool - Funk,2009-01-01,0.0518,0.909,0.718,2.13e-05,11,0.299,-7.399,0,0.128,113.038,4,0.895
+15,Rockit,51,2018-10-10T17:19:12Z,325133,Herbie Hancock,Future Shock,1983,0.0317,0.878,0.951,0.544,7,0.0614,-5.077,1,0.069,111.334,4,0.607
+16,Jam On It,52,2018-10-10T17:19:12Z,383600,Newcleus,Jam On Revenge,1984,0.00302,0.804,0.782,0.0872,6,0.662,-6.224,0,0.0606,116.806,4,0.346
+17,Paid In Full - Seven Minutes Of Madness - The Coldcut Remix,44,2018-10-10T17:19:12Z,429560,Eric B. & Rakim,Paid In Full (Deluxe Edition),1987,0.00268,0.812,0.71,0.0492,4,0.326,-8.891,0,0.132,98.217,4,0.281
+18,Me So Horny,53,2018-10-10T17:19:12Z,276466,2 LIVE CREW,As Nasty As They Wanna Be,1989-03-20,0.00472,0.941,0.727,0.000811,0,0.177,-11.592,1,0.228,128.746,4,0.623
+19,Brass Monkey,15,2018-10-10T17:19:12Z,157431,Beastie Boys,Licensed To Ill,1986-11-15,0.00278,0.96,0.405,4.4e-06,6,0.104,-13.435,0,0.329,116.336,4,0.646
+20,Peter Piper,53,2018-10-10T17:19:12Z,203333,Run–D.M.C.,Raising Hell,1986-05-15,0.00789,0.862,0.424,0.000261,7,0.166,-13.717,1,0.308,105.498,4,0.564
+21,The Adventures of Grandmaster Flash On the Wheels of Steel - Extended Mix,39,2018-10-10T17:19:12Z,426333,Grandmaster Flash & The Furious Five,The Greatest Mixes,1997-01-01,0.2,0.863,0.676,0.000698,11,0.0929,-9.949,0,0.175,111.022,4,0.538
+22,Rock The Bells,8,2018-10-10T17:19:12Z,240493,LL Cool J,Radio,1985-01-01,0.0054,0.895,0.522,0.347,6,0.122,-12.866,0,0.133,98.478,4,0.269
+23,P.S.K. 'What Does It Mean'?,39,2018-10-10T17:19:12Z,388906,Schoolly D,Schoolly D,1990,0.224,0.606,0.868,0.00103,7,0.692,-13.493,1,0.177,98.832,4,0.28
+24,Rebel Without A Pause,7,2018-10-10T17:19:12Z,302666,Public Enemy,It Takes A Nation Of Millions To Hold Us Back,1988-01-01,0.0117,0.787,0.686,0.0,7,0.697,-13.943,1,0.333,99.794,4,0.658
+25,You Gots To Chill,51,2018-10-10T17:19:12Z,261839,EPMD,Strictly Business,1988-06-07,0.089,0.882,0.814,0.0,8,0.16,-5.214,0,0.424,99.689,4,0.854
+26,Eric B. Is President,39,2018-10-10T17:19:12Z,381318,Eric B. & Rakim,Paid In Full,1987,0.0217,0.907,0.442,0.0,1,0.0626,-15.911,1,0.421,96.723,4,0.783
+27,6 'N The Mornin',47,2018-10-10T17:19:12Z,224866,Ice-T,Rhyme Pays (Explicit Version),1987,0.00282,0.823,0.745,0.000332,5,0.323,-6.637,0,0.247,91.919,4,0.58
+28,The Bridge Is Over,44,2018-10-10T17:19:12Z,204601,Boogie Down Productions,Criminal Minded (Deluxe),1987,0.0173,0.822,0.447,0.0,0,0.0643,-9.836,1,0.448,179.837,4,0.556
+29,White Lines (Don't Do It),48,2018-10-10T17:19:12Z,269666,Grandmaster Flash,"Grandmaster Flash, Grandmaster Melle-Mel & The Furious Five: The Greatest Hits",2006-05-01,0.0846,0.844,0.522,3.24e-05,0,0.0729,-13.277,1,0.0874,115.267,4,0.771
+30,So Wat Cha Sayin',47,2018-10-10T17:19:12Z,297333,EPMD,Unfinished Business,1989-04-01,0.178,0.796,0.701,0.000238,7,0.157,-10.857,1,0.316,102.079,4,0.475
+31,Buffalo Gals,41,2018-10-10T17:19:12Z,259426,Malcolm McLaren,Duck Rock,1983,0.0257,0.881,0.636,0.000257,4,0.207,-13.617,0,0.156,108.863,4,0.616
+32,My Philosophy,19,2018-10-10T17:19:12Z,338133,Boogie Down Productions,By All Means Necessary,1988,0.0404,0.878,0.835,0.0,4,0.354,-16.385,0,0.124,93.998,4,0.727
+33,Smooth Operator,55,2018-10-10T17:19:12Z,284466,Big Daddy Kane,It's A Big Daddy Thing,1989,0.0933,0.891,0.319,0.000104,4,0.0482,-16.099,0,0.333,92.649,4,0.687
+34,Strictly Business,51,2018-10-10T17:19:12Z,285413,EPMD,Strictly Business,1988-06-07,0.181,0.712,0.895,1.8e-05,10,0.108,-4.212,0,0.254,96.338,4,0.727
+35,Colors - 2014 Remastered Version,47,2018-10-10T17:19:12Z,266026,Ice-T,Greatest Hits,2014-04-19,0.0902,0.847,0.92,1.33e-05,10,0.126,-7.261,0,0.287,93.532,4,0.519
+36,Sucker M.C.'s (Krush-Groove 1),41,2018-10-10T17:19:12Z,189946,Run–D.M.C.,RUN-DMC (Expanded Edition),1984-03-27,0.0898,0.919,0.975,0.00253,6,0.248,-5.636,1,0.0886,102.982,4,0.884
+37,Top Billin',44,2018-10-10T17:19:12Z,175706,Audio Two,What More Can I Say,1988,0.0102,0.913,0.351,0.0,10,0.401,-13.57,0,0.354,91.499,4,0.727
+38,I Got It Made,44,2018-10-10T17:19:12Z,221986,Special Ed,Youngest in Charge,1989,0.112,0.816,0.471,0.0,10,0.117,-13.244,0,0.291,95.248,4,0.742
+39,Manifest,38,2018-10-10T17:19:12Z,290813,Gang Starr,Mass Appeal: The Best Of Gang Starr (Explicit),2006-01-01,0.0502,0.849,0.803,4.94e-06,6,0.24,-6.775,1,0.275,90.873,4,0.738
+40,Bring The Noise,8,2018-10-10T17:19:12Z,226040,Public Enemy,It Takes A Nation Of Millions To Hold Us Back,1988-01-01,0.0724,0.787,0.829,0.0,7,0.0741,-12.218,1,0.25,110.182,4,0.798
+41,Ain't No Half-Steppin',57,2018-10-10T17:19:12Z,319906,Big Daddy Kane,Long Live The Kane,1988,0.00569,0.836,0.728,0.000819,10,0.0649,-12.058,0,0.234,100.842,4,0.599
+42,Talkin' All That Jazz,42,2018-10-10T17:19:12Z,288053,Stetsasonic,In Full Gear,1988-06-15,0.00096,0.83,0.817,0.000677,4,0.112,-6.539,0,0.077,107.908,4,0.622
+43,Hip Hop Be Bop (Original Version),38,2018-10-10T17:19:12Z,336173,Man Parrish,Hip Hop Be Bop,1983-01-01,0.015,0.822,0.702,0.555,1,0.115,-13.507,1,0.0898,115.777,4,0.792
+44,My Part of Town,34,2018-10-10T17:19:12Z,271333,Tuff Crew,Danger Zone,1988,0.182,0.944,0.805,0.0,6,0.468,-9.578,0,0.327,113.993,4,0.833
+45,Fresh Is the Word,34,2018-10-10T17:19:12Z,317053,Mantronix,Classic Hip Hop Jams,2013-07-23,0.0174,0.885,0.833,0.000105,7,0.0452,-7.325,1,0.207,97.812,4,0.806
+46,Raw - Edit,37,2018-10-10T17:19:12Z,248266,Big Daddy Kane,Raw [Edit] / Word To The Mother[land] [Digital 45],1988,0.0662,0.947,0.672,0.0,4,0.0564,-13.819,0,0.349,109.55,4,0.741
+47,"Ego Trippin' (12"" Version)",39,2018-10-10T17:19:12Z,326680,Ultramagnetic MC's,Critical Beatdown (Re-Issue),1988,0.063,0.922,0.959,1.47e-05,7,0.151,-3.542,1,0.277,94.674,4,0.51
+48,Strong Island,33,2018-10-10T17:19:12Z,359693,JVC Force,Doin' Damage,1988,0.754,0.766,0.902,1.94e-06,6,0.183,-6.36,1,0.0973,95.883,4,0.958
+49,Don't Believe The Hype,10,2018-10-10T17:19:12Z,319360,Public Enemy,It Takes A Nation Of Millions To Hold Us Back,1988-01-01,0.0148,0.883,0.465,0.0,11,0.175,-13.766,1,0.367,98.431,4,0.856
+50,Subway Theme,32,2018-10-10T17:19:12Z,173306,DJ Grand Wizard Theodore,Wild Style (Original Motion Picture Soundtrack - 25th Anniversary Edition),2003-09-09,0.351,0.829,0.852,0.000109,2,0.324,-4.655,1,0.346,103.127,4,0.713
+51,Lesson 1 - Double Dee & Steinski,24,2018-10-10T17:19:12Z,323640,Steinski,The Ultimate Lessons,2011-06-07,0.0548,0.865,0.82,0.00148,10,0.0952,-7.891,0,0.153,114.303,4,0.868
+52,Its Yours,34,2018-10-10T17:19:12Z,244106,T La Rock,Classic Hip Hop Jams,2013-07-23,0.000482,0.84,0.72,0.0422,7,0.114,-9.561,1,0.184,98.377,4,0.343
+53,Shake Your Rump,46,2018-10-10T17:19:12Z,199533,Beastie Boys,Paul's Boutique,1989-07-25,0.0194,0.895,0.627,0.000149,1,0.114,-13.447,1,0.156,103.112,4,0.674
+54,9mm Goes Bang,45,2018-10-10T17:19:12Z,257223,Boogie Down Productions,Criminal Minded (Deluxe),1987,0.134,0.779,0.641,8.19e-06,2,0.0831,-11.228,1,0.158,164.976,4,0.885
+55,Beat Bop,35,2018-10-10T17:19:12Z,370533,Rammellzee,Giant Single: Profile Records Rap Anthology,2012-01-27,0.441,0.813,0.45,0.0,9,0.31,-14.59,0,0.349,90.859,4,0.827
+56,Al-Naafyish - Time,37,2018-10-10T17:19:12Z,374666,Hashim,Al-Naafyish,1983-11-14,9.35e-05,0.702,0.828,0.784,2,0.407,-7.609,1,0.0485,122.757,4,0.45
+57,Something Fresh to Swing To (Vocal Version),26,2018-10-10T17:19:12Z,240843,Levi 167,Something Fresh to Swing To / The Other Side,1987,0.379,0.869,0.823,0.0,8,0.763,-5.069,1,0.305,90.725,4,0.872
+58,Let The Music Play,54,2018-10-10T17:19:12Z,216000,Shannon,The Best Is Yet To Come,2000-12-01,0.0038,0.765,0.872,0.482,10,0.275,-6.993,0,0.119,118.074,4,0.901
+59,Wild Wild West,40,2018-10-10T17:19:12Z,280840,Kool Moe Dee,How Ya Like Me Now (Expanded Edition),2014-08-01,0.00215,0.669,0.768,8.93e-06,1,0.177,-9.089,1,0.0562,185.884,4,0.943

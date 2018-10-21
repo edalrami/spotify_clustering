@@ -1,0 +1,31 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,Sex on Fire,81,2018-10-20T02:51:08Z,203346,Kings of Leon,Only By The Night,2008-09-23,0.00172,0.542,0.905,0.0104,9,0.136,-5.653,1,0.054,153.398,4,0.374
+1,Blitzkrieg Bop - 2016 Remastered Version,70,2018-10-20T02:51:08Z,134466,Ramones,Ramones - 40th Anniversary Deluxe Edition (Remastered),1976-04-23,0.000269,0.385,0.783,0.47,9,0.108,-2.533,1,0.233,176.701,4,0.902
+2,Banquet,62,2018-10-20T02:51:08Z,196613,Bloc Party,Silent Alarm (U.S. Version),2005-03-22,0.000139,0.578,0.892,0.0111,10,0.215,-7.952,0,0.0441,150.253,4,0.892
+3,You Really Got Me - Remastered,58,2018-10-20T02:51:08Z,134066,The Kinks,The Anthology 1964 - 1971,2014-11-14,0.147,0.588,0.948,7.92e-05,8,0.0787,-4.073,1,0.0974,137.294,4,0.962
+4,Jumpsuit,69,2018-10-20T02:51:08Z,238567,Twenty One Pilots,Jumpsuit / Nico And The Niners,2018-07-11,0.00781,0.619,0.628,0.207,11,0.206,-8.307,0,0.038,127.065,4,0.232
+5,Natural,95,2018-10-20T02:51:08Z,189466,Imagine Dragons,Natural,2018-07-17,0.216,0.448,0.612,0.0,2,0.08,-6.106,1,0.0708,97.773,4,0.213
+6,Forever & Ever More,26,2018-10-20T02:51:08Z,208133,Nothing But Thieves,What Did You Think When You Made Me This Way?,2018-10-19,0.00582,0.289,0.841,0.00771,8,0.267,-4.33,1,0.146,183.17,3,0.399
+7,Highway Tune,73,2018-10-20T02:51:08Z,180640,Greta Van Fleet,From The Fires,2017-11-10,0.0107,0.579,0.957,0.158,4,0.263,-2.94,1,0.0521,123.993,4,0.515
+8,La Magia,62,2018-10-20T02:51:08Z,245373,Little Jesus,Río Salvaje,2016-06-17,0.0115,0.566,0.883,0.00103,10,0.317,-7.117,1,0.0374,156.937,4,0.483
+9,Llueve Sobre La Ciudad,69,2018-10-20T02:51:08Z,236426,Los Bunkers,Vida de Perros,2007-03-21,0.0387,0.488,0.795,0.0,9,0.0452,-4.157,0,0.0336,107.846,4,0.803
+10,Fever,63,2018-10-20T02:51:08Z,246306,The Black Keys,Fever,2014-03-24,0.00378,0.609,0.674,0.000302,9,0.129,-6.506,0,0.0355,127.541,4,0.743
+11,My Favourite Game,24,2018-10-20T02:51:08Z,217133,The Cardigans,Gran Turismo,1998-10-01,0.000133,0.58,0.782,0.00115,5,0.31,-7.085,0,0.0338,143.475,4,0.496
+12,No Hay Mal Que Dure,63,2018-10-20T02:51:08Z,292120,Zoé,Aztlán,2018-04-18,0.27,0.46,0.747,0.875,0,0.126,-7.544,1,0.0289,161.495,4,0.535
+13,"Zero - From the Original Motion Picture ""Ralph Breaks The Internet""",81,2018-10-20T02:51:08Z,210934,Imagine Dragons,"Zero (From the Original Motion Picture ""Ralph Breaks The Internet"")",2018-09-19,0.000448,0.634,0.652,0.00139,6,0.115,-7.49,1,0.0321,90.012,4,0.264
+14,Soun tha mi primer amor,5,2018-10-20T02:51:08Z,190933,Kinky,Kinky,2002-10-21,0.0609,0.837,0.829,0.246,10,0.0709,-7.243,0,0.125,104.338,4,0.722
+15,Star Roving,49,2018-10-20T02:51:08Z,338869,Slowdive,Star Roving,2017-01-13,0.0712,0.329,0.932,0.699,9,0.293,-4.919,1,0.0531,144.057,4,0.394
+16,Learn to Fly,74,2018-10-20T02:51:08Z,235293,Foo Fighters,There Is Nothing Left To Lose,1999-11-02,1.83e-05,0.465,0.919,2.07e-05,4,0.262,-4.025,1,0.0408,135.997,4,0.537
+17,The Walker,59,2018-10-20T02:51:08Z,233133,Fitz and The Tantrums,More Than Just A Dream,2013-05-07,0.00375,0.77,0.801,0.00281,9,0.0515,-4.182,0,0.0336,130.76,4,0.725
+18,The Rover,63,2018-10-20T02:51:08Z,217693,Interpol,Marauder,2018-08-24,3.64e-05,0.189,0.893,0.539,7,0.183,-3.107,1,0.0445,198.468,4,0.599
+19,Chokehold,53,2018-10-20T02:51:08Z,203546,Slaves,Chokehold,2018-07-30,0.00061,0.609,0.88,0.0182,11,0.0814,-4.391,0,0.0676,120.006,4,0.645
+20,Song 2 - 2012 Remastered Version,77,2018-10-20T02:51:08Z,121160,Blur,Blur [Special Edition],1997-02-10,0.00178,0.674,0.789,0.0071,8,0.0754,-6.903,1,0.0676,129.804,4,0.918
+21,Irresponsables,67,2018-10-20T02:51:08Z,156197,Babasónicos,Infame,2003-10-19,0.0629,0.58,0.929,0.000223,4,0.23,-4.849,0,0.0388,94.995,4,0.884
+22,Primavera 0 - Remasterizado 2007,55,2018-10-20T02:51:08Z,221440,Soda Stereo,Dynamo (Remastered),1992,0.00111,0.385,0.759,0.0448,5,0.0941,-6.72,1,0.0436,134.026,4,0.142
+23,Tijuana Sound Machine,58,2018-10-20T02:51:08Z,182786,Nortec Collective,Tijuana Sound Machine,2008-05-06,0.0086,0.733,0.889,0.828,6,0.0726,-5.191,0,0.0326,129.97,4,0.966
+24,Walk Idiot Walk,53,2018-10-20T02:51:08Z,210640,The Hives,Tyrannosaurus Hives,2004-01-01,0.00404,0.623,0.94,0.00705,9,0.627,-3.904,1,0.104,146.329,4,0.775
+25,Alive,59,2018-10-20T02:51:08Z,210866,Warbly Jets,Warbly Jets,2017-10-20,6.62e-05,0.337,0.917,0.000643,0,0.0835,-6.485,1,0.0764,127.894,4,0.302
+26,Cuernavaca,51,2018-10-20T02:51:08Z,173272,The Plastics Revolution,Cuernavaca,2018-06-11,0.0156,0.552,0.638,0.115,1,0.123,-6.645,1,0.0362,159.983,4,0.835
+27,Revolver,44,2018-10-20T02:51:08Z,174293,Diamante Eléctrico,Diamante Eléctrico,2013-06-23,0.00664,0.547,0.665,0.0,2,0.109,-5.442,1,0.0556,119.884,4,0.79
+28,3's & 7's,44,2018-10-20T02:51:08Z,213000,Queens of the Stone Age,Era Vulgaris Tour Edition (International Version),2007-01-01,0.0786,0.425,0.99,0.0375,1,0.521,-3.878,1,0.113,131.333,4,0.436
+29,El Planeta,45,2018-10-20T02:51:08Z,278725,Vigilante,El Planeta,2018-08-17,0.0518,0.474,0.816,0.765,9,0.113,-6.819,1,0.0362,115.019,4,0.322

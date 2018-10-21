@@ -1,0 +1,30 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,Born in the U.S.A.,73,2014-01-07T18:14:47Z,278680,Bruce Springsteen,Born In The U.S.A.,1984-06-04,0.000373,0.398,0.952,7.75e-05,4,0.1,-6.042,1,0.061,122.093,4,0.584
+1,American Pie,74,2014-01-07T18:14:47Z,515866,Don McLean,The Best Of Don McLean,1988-01-01,0.6,0.527,0.509,0.0,7,0.144,-10.893,1,0.0628,138.317,4,0.497
+2,Take the Money and Run,3,2014-01-07T18:14:47Z,170173,Steve Miller Band,Fly Like An Eagle,1976,0.0552,0.564,0.645,2.84e-06,0,0.151,-12.923,1,0.0484,99.302,4,0.836
+3,Take It Easy - Remastered,53,2014-01-07T18:14:47Z,211577,Eagles,The Very Best Of The Eagles (Remastered),2003-10-21,0.343,0.575,0.67,4.95e-06,7,0.129,-10.39,1,0.0318,139.191,4,0.74
+4,Dream Baby Dream,26,2014-01-07T18:14:47Z,302386,Bruce Springsteen,Dream Baby Dream,2013-11-05,0.136,0.255,0.48,0.0,7,0.064,-8.144,1,0.0331,109.947,4,0.166
+5,Ramblin' Man,47,2014-01-07T18:14:47Z,297600,Dickey Betts,Big Fish (Music from the Motion Picture),1973,0.741,0.527,0.782,0.545,8,0.153,-8.734,1,0.0417,87.347,4,0.961
+6,Romeo's Tune,2,2014-01-07T18:14:47Z,212666,Steve Forbert,The Best of Steve Forbert: What Kinda Guy?,2011-01-01,0.345,0.541,0.554,0.0247,9,0.215,-11.914,1,0.0306,94.826,4,0.737
+7,Angel From Montgomery,36,2014-01-07T18:14:47Z,224186,John Prine,Rhino Hi-Five: John Prine,2007-04-24,0.541,0.617,0.421,0.00227,0,0.125,-14.231,1,0.0318,131.653,4,0.39
+8,Free Fallin',73,2014-01-07T18:14:47Z,256000,Tom Petty,Full Moon Fever,1989-01-01,0.219,0.63,0.449,0.0,5,0.0622,-13.243,1,0.0252,84.378,4,0.623
+9,Keith Don't Go (Ode To The Glimmer Twin),33,2014-01-07T18:14:47Z,263040,Nils Lofgren,Ultimate Collection: Nils Lofgren,1999-11-09,0.0367,0.502,0.679,0.172,4,0.763,-10.555,0,0.0529,140.115,4,0.885
+10,The Old Man Down The Road,0,2014-01-07T18:14:47Z,213346,John Fogerty,The Long Road Home - The Ultimate John Fogerty / Creedence Collection,2005-12-14,0.0487,0.772,0.823,0.000302,9,0.0833,-4.946,1,0.03,133.738,4,0.751
+11,Up On Cripple Creek - Remastered 2000,59,2014-01-07T18:14:47Z,274893,The Band,The Band (Expanded Edition),1969-09-22,0.226,0.72,0.716,0.00335,9,0.0932,-8.773,1,0.0723,144.376,4,0.953
+12,Jack & Diane,55,2014-01-07T18:14:47Z,256093,John Mellencamp,Words & Music: John Mellencamp's Greatest Hits,2004-01-01,0.0338,0.812,0.407,3.83e-06,9,0.0555,-8.152,1,0.0433,103.968,4,0.584
+13,It's Still Rock and Roll to Me,62,2014-01-07T18:14:47Z,177266,Billy Joel,The Essential Billy Joel,2001-10-02,0.0958,0.745,0.655,1.99e-06,5,0.0895,-7.589,1,0.166,141.429,4,0.582
+14,Long Way Home,1,2014-01-07T18:14:47Z,190200,Tom Waits,Orphans,2006-11-21,0.511,0.655,0.18,0.000284,10,0.108,-18.06,1,0.032,141.065,4,0.5
+15,Statesboro Blues,0,2014-01-07T18:14:47Z,257184,The Allman Brothers Band,The Fillmore Concerts,1992-10-20,0.254,0.457,0.63,4.78e-05,2,0.984,-11.013,1,0.0548,126.137,4,0.596
+16,"Lawyers, Guns And Money",39,2014-01-07T18:14:47Z,210093,Warren Zevon,The Best Of Warren Zevon,1986-10-07,0.0542,0.633,0.752,0.00199,9,0.0432,-7.227,1,0.0323,94.478,4,0.762
+17,I Won't Back Down,50,2014-01-07T18:14:47Z,175373,Tom Petty,Greatest Hits,2010-01-01,0.0485,0.775,0.638,1.11e-05,7,0.196,-9.635,1,0.0292,113.964,4,0.965
+18,R.O.C.K. In The U.S.A. (A Salute To 60's Rock),47,2014-01-07T18:14:47Z,174426,John Mellencamp,Words & Music: John Mellencamp's Greatest Hits,2004-01-01,0.0101,0.433,0.955,4.05e-06,9,0.24,-3.99,1,0.0665,163.793,4,0.897
+19,The Night They Drove Old Dixie Down - Remastered,61,2014-01-07T18:14:47Z,213266,The Band,The Band (Expanded Edition),1969-09-22,0.453,0.508,0.493,0.0,0,0.241,-8.786,1,0.0327,127.671,4,0.467
+20,We Take Care of Our Own,46,2014-01-07T18:14:47Z,233946,Bruce Springsteen,Wrecking Ball,2012-03-06,0.000225,0.611,0.881,0.0864,5,0.252,-6.061,1,0.0405,122.977,4,0.773
+21,Rock'n Me,2,2014-01-07T18:14:47Z,187066,Steve Miller Band,Fly Like An Eagle,1976,0.297,0.695,0.582,0.0,4,0.123,-11.35,1,0.0651,122.433,4,0.892
+22,Centerfield,3,2014-01-07T18:14:47Z,233666,John Fogerty,Centerfield,1985,0.155,0.81,0.928,1.47e-06,7,0.0598,-5.319,1,0.0491,142.405,4,0.973
+23,Running On Empty,68,2014-01-07T18:14:47Z,298093,Jackson Browne,Running On Empty,1977-12-06,0.006,0.531,0.948,0.0117,9,0.694,-5.438,1,0.0568,136.891,4,0.498
+24,Illegal Smile,33,2014-01-07T18:14:47Z,193266,John Prine,Rhino Hi-Five: John Prine,2007-04-24,0.742,0.499,0.279,1.47e-06,0,0.0907,-15.338,1,0.0529,161.609,4,0.421
+25,Back It Up,30,2014-01-07T18:14:47Z,141866,Nils Lofgren,Classics Volume 13,1987-01-01,0.025,0.653,0.536,0.000105,11,0.258,-12.982,0,0.0522,131.028,4,0.857
+26,I Don't Want To Go Home,38,2014-01-07T18:14:47Z,217226,Southside Johnny And The Asbury Jukes,Havin' A Party With Southside Johnny,1976,0.34,0.626,0.565,3.08e-06,5,0.056,-11.895,1,0.0356,121.819,4,0.966
+27,For A Dancer,0,2014-01-07T18:14:47Z,287666,Jackson Browne,The Very Best Of Jackson Browne (US & International Release),2004,0.0654,0.537,0.461,0.0,0,0.0749,-8.753,1,0.024,105.285,4,0.504
+28,Born to Run,71,2014-01-07T18:14:47Z,269920,Bruce Springsteen,Born To Run,1975-08-25,0.00501,0.27,0.944,2.05e-05,4,0.116,-4.199,1,0.0975,146.347,4,0.606

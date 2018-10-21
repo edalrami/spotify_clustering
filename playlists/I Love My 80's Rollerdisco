@@ -1,0 +1,50 @@
+,song_name,song_popularity,date_added_to_playlist,song_duration_ms,artist_name,album_names,album_release_date,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,audio_mode,speechiness,tempo,time_signature,audio_valence
+0,Another Man,40,2016-01-13T14:07:44Z,415306,Barbara Mason,Another Man,1984,0.00729,0.84,0.588,3.41e-05,0,0.0979,-10.652,1,0.0587,111.988,4,0.88
+1,A Lovers's Holiday - Jim Burgess Mix,3,2016-01-13T14:07:44Z,384850,Change,Paradise (Dance Collection),2013-09-01,0.0308,0.922,0.613,0.0274,11,0.0844,-6.07,0,0.214,116.335,4,0.833
+2,More Bounce To The Ounce,51,2016-01-13T14:07:44Z,311120,Zapp,Zapp,1980-01-01,0.124,0.85,0.818,0.00135,0,0.349,-8.623,1,0.0904,105.266,4,0.839
+3,Dreamer,2,2016-01-13T14:07:44Z,347800,The B. B. & Q. Band,Greatest Hits and Rare Tracks,2010-02-16,0.0836,0.866,0.681,0.0159,3,0.0433,-6.587,0,0.0534,109.492,4,0.974
+4,Candy Man,3,2016-01-13T14:07:44Z,270066,Mary Jane Girls,Mary Jane Girls,1983-01-01,0.0341,0.877,0.433,0.525,3,0.0206,-12.004,1,0.0435,122.231,4,0.972
+5,"She's a Bad Mama Jama (She's Built, She's Stacked)",3,2016-01-13T14:07:44Z,237533,Carl Carlton,Ultimate Funk,1998-07-14,0.0959,0.892,0.441,0.0,0,0.0365,-10.521,1,0.0908,114.22,4,0.674
+6,Forget Me Nots,17,2016-01-13T14:07:44Z,275813,Patrice Rushen,Straight From The Heart,1982-01-01,0.139,0.912,0.534,0.102,6,0.0387,-5.319,0,0.0366,114.681,4,0.963
+7,Last Night a D.J. Saved My Life,58,2016-01-13T14:07:44Z,252653,Indeep,A Night to Remember (Mixed By Tony Okungbowa & Jojoflores),2012-05-01,0.0463,0.849,0.657,2.93e-05,11,0.117,-7.509,1,0.205,112.682,4,0.864
+8,It's A Love Thing,3,2016-01-13T14:07:44Z,228573,The Whispers,The Complete Solar Hit Singles Collection,2014-09-29,0.274,0.807,0.785,1.04e-05,5,0.266,-7.718,0,0.12,117.725,4,0.933
+9,Show You My Love,14,2016-01-13T14:07:44Z,388426,Goldie Alexander,Dance Classics 57 & 58,2013-01-01,0.0153,0.763,0.653,0.00208,0,0.113,-9.591,1,0.0589,118.137,4,0.748
+10,We Got the Funk,2,2016-01-13T14:07:44Z,201413,Positive Force,Sugar Hill Rap Classics - The Pioneers of Hip-Hop,2010,0.167,0.768,0.823,0.0774,5,0.213,-7.115,1,0.0609,111.677,4,0.812
+11,Change of Heart - Full Length Album Mix,38,2016-01-13T14:07:44Z,426413,Change,Change of Heart (Original Album and Rare Tracks),1984,0.0131,0.767,0.859,0.00191,3,0.0377,-6.878,0,0.0611,107.383,4,0.94
+12,Get Down Saturday Night,0,2016-01-13T14:07:44Z,411360,Oliver Cheatham,Dance Classics - Best Of vol. 2,2011-01-01,0.0214,0.901,0.558,0.00166,7,0.0301,-11.225,1,0.149,117.471,4,0.818
+13,Come Into My Life (Radio Mix) - Radio Mix,46,2016-01-13T14:07:44Z,228480,Joyce Sims,Greatest,2012,0.179,0.476,0.845,0.373,8,0.0441,-5.574,0,0.0451,94.491,4,0.818
+14,Saturday Love,16,2016-01-13T14:07:44Z,257042,Alexander O'Neal,Saturday Love / Saturday Love (Extended Version) / Saturday Love (Acappella),2013-03-11,0.104,0.778,0.615,0.000112,11,0.0797,-8.675,1,0.0397,116.534,4,0.769
+15,Class/Style (I've Got It) - Marc Hartman 88 Extended Mix,37,2016-01-13T14:07:44Z,347226,Linda Lewis,Class/Style,2011-04-19,0.229,0.85,0.561,0.0229,7,0.197,-10.377,1,0.0523,113.621,4,0.967
+16,Call Me,2,2016-01-13T14:07:44Z,382920,Skyy,Skyy Line (Expanded Edition),1981-05-01,0.00717,0.797,0.59,0.000351,2,0.0867,-9.909,1,0.0867,121.254,4,0.9
+17,"Bounce, Rock, Skate, Roll",48,2016-01-13T14:07:44Z,329000,Vaughan Mason and Crew,"Bounce, Rock, Skate, Roll",2011-02-08,0.00244,0.882,0.589,0.000981,11,0.214,-7.604,0,0.0596,111.142,4,0.809
+18,She Can't Love You,51,2016-01-13T14:07:44Z,217666,Chemise,A Night to Remember (Mixed By Tony Okungbowa & Jojoflores),2012-05-01,0.036,0.963,0.742,0.000989,4,0.303,-6.597,0,0.0904,114.689,4,0.694
+19,Let It All Blow - Special Disco Remix,0,2016-01-13T14:07:44Z,406106,Dazz Band,Dance Classics - Best Of vol. 3,2011-01-01,0.000901,0.798,0.674,0.503,8,0.0681,-9.991,1,0.0444,115.142,4,0.536
+20,Don't Say Goodnight,29,2016-01-13T14:07:44Z,388469,First Love,Don't Say Goodnight,1981-01-01,0.259,0.814,0.73,9.48e-05,10,0.0426,-5.669,0,0.125,118.772,4,0.757
+21,"Who's Getting It Now - 12""",28,2016-01-13T14:07:44Z,401733,Chocolate Milk,Best Of,2002-05-24,0.0279,0.847,0.649,0.00152,7,0.265,-8.594,0,0.0386,119.86,4,0.964
+22,Can You Handle It,36,2016-01-13T14:07:44Z,386946,Sharon Redd,Beat the Street: The Very Best of Sharon Redd,1989-01-01,0.288,0.778,0.879,0.00954,10,0.0736,-8.292,0,0.0648,108.503,4,0.857
+23,Funky Sensation - Remastered,2,2016-01-13T14:07:44Z,398840,Gwen McCrae,Gwen McCrae,1981,0.064,0.735,0.48,0.000521,4,0.0573,-15.147,0,0.0676,99.382,4,0.866
+24,I Hear Music in the Streets,40,2016-01-13T14:07:44Z,413573,Unlimited Touch,Searching to Find the One,1980,0.00842,0.697,0.582,0.344,11,0.0843,-12.173,0,0.114,115.929,4,0.823
+25,Boogie Oogie Oogie - Single Version 2 / Remastered 99,51,2016-01-13T14:07:44Z,338133,A Taste Of Honey,A Taste Of Honey,2006-01-01,0.0991,0.835,0.522,0.00184,2,0.111,-10.828,0,0.0916,123.934,4,0.91
+26,Double Dutch Bus,33,2016-01-13T14:07:44Z,255800,Frankie Smith,A Night to Remember (Mixed By Tony Okungbowa & Jojoflores),2012-05-01,0.172,0.924,0.666,0.0066,3,0.159,-6.992,1,0.119,119.109,4,0.831
+27,"Oops, Up Side Your Head",13,2016-01-13T14:07:44Z,206133,The Gap Band,Greatest Hits,1998-01-01,0.255,0.723,0.778,7.51e-05,7,0.929,-8.353,1,0.216,104.071,4,0.837
+28,Silver Shadow,3,2016-01-13T14:07:44Z,291178,Atlantic Starr,True Soul 3 CD Set,2006-01-01,0.315,0.699,0.698,7.22e-05,1,0.243,-11.291,1,0.0345,107.15,4,0.813
+29,Such A Feeling,2,2016-01-13T14:07:44Z,321533,Aurra,Live and Let Live (Expanded Edition),1983-04-22,0.153,0.767,0.784,1.66e-05,0,0.0557,-6.8,1,0.0592,108.005,4,0.708
+30,You and Me Just Started,31,2016-01-13T14:07:44Z,306440,Linda Taylor,"Star-Funk, Vol. 5",1992,0.0275,0.857,0.569,0.0578,9,0.214,-11.339,0,0.177,112.878,4,0.955
+31,Facts Of Love,41,2016-01-13T14:07:44Z,271240,Jeff Lorber,Private Passion,1986,0.0642,0.752,0.751,0.00142,8,0.278,-6.281,0,0.043,106.8,4,0.963
+32,Mercedes Boy,0,2016-01-13T14:07:44Z,439480,Pebbles,Dance Classics - Best Of vol. 4,2011-01-01,0.00107,0.747,0.7,0.0438,10,0.136,-9.448,0,0.0508,114.792,4,0.78
+33,Sugar Free,41,2016-01-13T14:07:44Z,273293,Juicy,It Takes Two (Bonus Track Version),2014-08-15,0.124,0.741,0.433,0.00239,8,0.0668,-11.937,1,0.0524,91.987,4,0.839
+34,Love's Comin' At Ya - Remastered,44,2016-01-13T14:07:44Z,343520,Melba Moore,Other Side Of The Rainbow,2010-01-01,0.0278,0.911,0.476,0.000364,1,0.104,-10.827,0,0.0927,114.408,4,0.62
+35,A Night to Remember,1,2016-01-13T14:07:44Z,214826,Shalamar,Nights to Remember,2002,0.208,0.806,0.843,0.00105,10,0.226,-6.861,0,0.0378,108.91,4,0.909
+36,"You Can't Hide (Your Love From Me) - Original 12"" Mix",2,2016-01-13T14:07:44Z,402426,David Joseph,Dance Classics - Best Of vol. 2,2011-01-01,0.0285,0.938,0.453,0.00124,6,0.0741,-10.73,0,0.123,116.031,4,0.696
+37,Too Tough,30,2016-01-13T14:07:44Z,338106,Angela Bofill,The Definitive Collection,1999-06-21,0.03,0.889,0.557,0.0278,10,0.0916,-12.159,1,0.0703,118.222,4,0.809
+38,Reach Up,32,2016-01-13T14:07:44Z,202840,Toney Lee,A Night to Remember (Mixed By Tony Okungbowa & Jojoflores),2012-05-01,0.0103,0.817,0.73,0.000232,9,0.335,-7.481,1,0.0903,113.721,4,0.841
+39,Jump Into My Life,30,2016-01-13T14:07:44Z,263533,Stacy Lattisaw,The Very Best Of Stacy Lattisaw,1998-04-07,0.135,0.814,0.766,7.17e-06,1,0.0862,-7.665,1,0.0445,107.414,4,0.727
+40,I'm In Love,44,2016-01-13T14:07:44Z,302853,"Evelyn ""Champagne"" King",Legends,2005-02-05,0.0238,0.903,0.463,0.107,5,0.0826,-9.214,0,0.0837,114.929,4,0.733
+41,The Finest,7,2016-01-13T14:07:44Z,283880,The S.O.S Band,Greatest,2012-12-17,0.474,0.853,0.76,0.00113,6,0.108,-5.646,1,0.0832,109.998,4,0.901
+42,Love Town,41,2016-01-13T14:07:44Z,312533,Booker Newberry III,Love Town,1983-01-01,0.127,0.668,0.541,0.0,11,0.271,-9.011,1,0.0728,114.832,4,0.524
+43,Take Me to the Top,2,2016-01-13T14:07:44Z,376946,Advance,RFG 16 (80's Funk Music Rare Tracks),2012-08-13,0.317,0.868,0.64,0.0583,0,0.0641,-6.513,0,0.0731,112.265,4,0.894
+44,Square Biz,44,2016-01-13T14:07:44Z,385533,Teena Marie,Greatest Hits,1986-01-01,0.167,0.768,0.861,0.000143,2,0.42,-10.967,1,0.0883,113.599,4,0.779
+45,Still in the Groove,36,2016-01-13T14:07:44Z,381733,"Ray Parker, Jr.",A Woman Needs Love (Expanded Edition),1981,0.0296,0.875,0.644,0.908,2,0.0696,-11.55,1,0.0378,117.561,4,0.762
+46,Stone Love,1,2016-01-13T14:07:44Z,329040,Kashif,Kashif,1983,0.0461,0.848,0.396,0.00139,1,0.076,-12.969,1,0.0784,114.224,4,0.778
+47,Walking Into Sunshine - Edit,3,2016-01-13T14:07:44Z,225840,Central Line,True Soul 3 CD Set,2006-01-01,0.105,0.879,0.508,0.0947,0,0.046,-8.524,1,0.0934,112.42,4,0.913
+48,"Ooh I Love It (Love Break) - 12"" Shep Pettibone Mix",0,2016-01-13T14:07:44Z,444693,The Salsoul Orchestra,Salsoul (The Original Disco Mixes),2014-12-29,0.00398,0.662,0.6,0.0217,10,0.288,-13.267,1,0.0771,116.923,4,0.781
