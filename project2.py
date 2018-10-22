@@ -26,7 +26,6 @@ col_names = list(col_names.columns.values)
 
 #Create empty dataframe with saved column headers
 songs_df = DataFrame(columns = col_names)
-print(songs_df.columns.values)
 
 #Iterate through the folder titled "playlist"
 #Folder contains a collection of csv files
@@ -43,10 +42,7 @@ for filename in os.listdir(path):
         playlist["playlist"] = filename
         frames = [songs_df, playlist]
         songs_df = pd.concat(frames)
-#Verify playlist was saved by printing out a sample
-#and playlist column details and songs_df dimension.         
-print(songs_df.head())
-print(songs_df.shape)
-print(songs_df["playlist"])
+
+
         
         
